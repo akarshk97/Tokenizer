@@ -128,7 +128,6 @@ del
 cliente
 enseptiembre
 de
-1995
 recibimos
 el
 reconocimiento
@@ -141,7 +140,6 @@ de
 la
 norma
 iso
-9002
 que
 asegura
 la
@@ -263,7 +261,6 @@ delcliente
 en
 septiembre
 de
-1995
 recibimos
 el
 reconocimientointernacional
@@ -276,7 +273,6 @@ de
 la
 norma
 iso
-9002
 que
 asegura
 la

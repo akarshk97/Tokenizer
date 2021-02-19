@@ -1,6 +1,6 @@
 nemzet
-19960819nemzet
-19960819n
+nemzet
+n
 n
 eeeeeee
 m
@@ -308,7 +308,7 @@ vett
 borzalmas
 genocidiumnak
 amelyet
-l944
+l
 oktober
 vegetol
 december
@@ -361,7 +361,6 @@ rendelkezese
 alapjan
 tobb
 mint
-40000
 magyart
 gyermektol
 aggastyanig
@@ -412,7 +411,7 @@ akik
 mindezt
 kibirtak
 azokat
-30120as
+as
 csoportokban
 kihajtottak
 temetokbe
@@ -640,7 +639,7 @@ by
 titos
 partsans
 cleveland
-l9572
+l
 matuska
 marton
 a
@@ -652,9 +651,8 @@ emlekezet
 megorizte
 edujvideki
 forum
-l99l393illmap
+llillmap
 isbn
-86323031203
 cseres
 tibor
 verbosszu
@@ -663,17 +661,16 @@ bacskaban
 titoist
 atrocities
 in
-vojvodinal944l945
+vojvodinall
 serbian
 vendetta
 in
 bacskaedmagveto
 budapest
-l99l
-l66
+ll
+l
 p
 isbn
-18827850104
 illes
 sandor
 akikert
@@ -682,7 +679,7 @@ szolt
 a
 harang
 l
-u2
+u
 ed
 denen
 die
@@ -694,9 +691,8 @@ dokumentacios
 regeny
 edtevan
 budapest
-l992
-2o8pisbn
-96379002095
+l
+opisbn
 michel
 bernard
 nation
@@ -706,9 +702,9 @@ en
 europe
 centrale
 xixxxsiecle
-p225edaubier
+pedaubier
 paris
-l995blank
+lblank
 check
 for
 the
@@ -992,7 +988,7 @@ be
 remembered
 that
 in
-l944
+l
 from
 the
 end
@@ -1003,7 +999,6 @@ the
 end
 of
 december
-40000
 hungarians
 including
 elderly
@@ -1037,7 +1032,7 @@ treaty
 of
 trianon
 in
-l920
+l
 in
 order
 to
@@ -1105,7 +1100,7 @@ some
 communal
 work
 for
-l2
+l
 days
 and
 assembled
@@ -1141,7 +1136,7 @@ driven
 in
 groups
 of
-30l20
+l
 to
 cemeteries
 some
@@ -1465,7 +1460,7 @@ by
 titos
 partisans
 cleveland
-l957cseres
+lcseres
 tibor
 verboszu
 a
@@ -1474,7 +1469,7 @@ englishtitoist
 atrocities
 in
 vojvodina
-l944l945
+ll
 serbian
 vendetta
 in
@@ -1482,30 +1477,29 @@ bacska
 ed
 magveto
 budapest
-1991
 isbn
-l882785010matuska
+lmatuska
 marton
 a
 megtorlas
 napjai
 edujvidki
 forum
-l991
+l
 isbn
-8632303120illes
+illes
 sandor
 akikert
 nem
 szolt
 a
 harang
-edl2
+edl
 tevan
 budapest
-l992
+l
 isbn
-9637900209bernard
+bernard
 michelnations
 et
 nationalismes
@@ -1514,8 +1508,8 @@ europe
 centrale
 aubier
 paris
-l995
-p225freibrief
+l
+pfreibrief
 fr
 die
 anhnger
@@ -1588,7 +1582,6 @@ wrendie
 tragdie
 der
 letzten
-4
 jahre
 auf
 dem
@@ -1747,7 +1740,6 @@ grausamen
 unternehmungen
 der
 letzten
-4
 jahre
 konnten
 nur
@@ -1774,7 +1766,7 @@ nicht
 vergessen
 werden
 dass
-l944
+l
 vom
 ende
 oktober
@@ -1788,8 +1780,6 @@ serbischen
 patrioten
 mehr
 als
-40
-000
 ungarn
 auch
 kinder
@@ -1851,7 +1841,6 @@ opfer
 wurden
 angeblich
 fr
-12
 tage
 zum
 gemeindearbeitsdienst
@@ -1888,7 +1877,7 @@ wurden
 in
 gruppen
 von
-30l20
+l
 personen
 nur
 mit
@@ -2010,7 +1999,6 @@ den
 grbern
 der
 letzten
-4
 jahrebei
 denen
 die
@@ -2358,7 +2346,6 @@ glatz
 ferenc
 tobbpartrendszer
 magyarorszagon
-198994
 cimen
 megjelent
 tanulmanyat
@@ -2468,9 +2455,9 @@ fel
 is
 hanytorgatta
 a
-7oes
+oes
 es
-8oas
+oas
 evekre
 kiabrandultak
 az
@@ -2803,19 +2790,13 @@ varjuk
 a
 fejlemenyeketlovas
 istvan
-3622
-350633
 fax
-3622
-350487
 mobil
-0620423364
-100263427compuservecombicske
+compuservecombicske
 pf
-99hungary
-20611996
+hungary
 augusztus
-11levelek
+levelek
 a
 nepszabadsag
 szerkesztohoz
@@ -2826,7 +2807,7 @@ kuldveharmat
 pal
 lapjuk
 augusztus
-8i
+i
 szamaban
 irt
 leveleben
@@ -2909,7 +2890,6 @@ vonast
 fedeztem
 fel
 bennuk
-1
 kivetel
 nelkul
 minden
@@ -2919,7 +2899,7 @@ szdsz
 szellemi
 holdudvarahoz
 tartozik
-2nem
+nem
 azzal
 vitatkoznak
 amit
@@ -2977,7 +2957,7 @@ emil
 magyar
 forum
 augusztus
-8a
+a
 naprol
 napra
 mindinkabb
@@ -3285,7 +3265,6 @@ tobb
 autot
 lopnak
 el
-20
 szazalekkal
 tobbet
 mint
@@ -3300,7 +3279,6 @@ osszes
 hazai
 buncselekmeny
 egyharmadat
-4
 szazalekkal
 tobbet
 mint
@@ -3443,7 +3421,7 @@ takacs
 andrasmagyar
 forum
 augusztus
-8furcsa
+furcsa
 ellentmondasa
 a
 sorsnak
@@ -3607,7 +3585,7 @@ a
 magyar
 forum
 augusztus
-8ai
+ai
 riportjabolpiliscsaban
 ezuttal
 ket
@@ -3623,9 +3601,8 @@ az
 eltunt
 kelyhek
 nyomabanpiliscsaban
-1996
 julius
-12en
+en
 ismet
 betortek
 az
@@ -3829,7 +3806,7 @@ apacai
 adomanyoztak
 a
 templomnak
-1950ben
+ben
 amikor
 rakosi
 matyasek
@@ -3985,7 +3962,6 @@ a
 noverem
 penzebol
 adtam
-150
 ezer
 forintot
 a
@@ -4366,7 +4342,7 @@ jelezzea
 magyar
 forum
 augusztus
-1i
+i
 szamaban
 ludwig
 emil
@@ -4450,7 +4426,6 @@ on
 slovak
 radio
 on
-16
 august
 vladimir
 meciar
@@ -4492,7 +4467,6 @@ apparent
 in
 slovakia
 since
-1918
 to
 renew
 greater
@@ -4598,7 +4572,6 @@ regions
 in
 nitra
 on
-18
 august
 slovak
 media
@@ -4635,7 +4608,6 @@ accounts
 for
 more
 than
-30
 of
 the
 population
@@ -4694,7 +4666,6 @@ president
 jimmy
 carter
 on
-17
 august
 received
 hungarys
@@ -4716,7 +4687,6 @@ st
 stephens
 crown
 in
-1978
 international
 media
 reported
@@ -4783,7 +4753,6 @@ wife
 rosalynn
 helped
 build
-10
 new
 houses
 for
@@ -4847,7 +4816,6 @@ us
 state
 department
 on
-15
 august
 welcomed
 the
@@ -4903,7 +4871,6 @@ minister
 laszlo
 kovacs
 on
-16
 august
 told
 representatives
@@ -4928,7 +4895,6 @@ president
 ion
 iliescu
 on
-17
 august
 described
 as
@@ -4989,7 +4955,6 @@ minister
 kulikov
 at
 a
-16
 august
 moscow
 press
@@ -5098,7 +5063,6 @@ could
 be
 ended
 in
-2025
 minutes
 but
 warned
@@ -5154,7 +5118,6 @@ western
 agencies
 reported
 on
-16
 august
 itar
 tass
@@ -5164,7 +5127,6 @@ on
 the
 evening
 of
-16
 august
 yeltsin
 telephoned
@@ -5191,7 +5153,6 @@ interior
 ministry
 collegium
 on
-17
 august
 to
 discuss
@@ -5297,7 +5258,6 @@ surgery
 itartass
 reported
 on
-19
 august
 the
 time
@@ -5348,7 +5308,6 @@ extremist
 newspaper
 zavtra
 no
-33
 reported
 that
 a
@@ -5406,7 +5365,6 @@ robert
 orttunggorbachev
 on
 august
-1991
 coup
 attempt
 important
@@ -5415,7 +5373,6 @@ details
 about
 the
 august
-1991
 coup
 were
 revealed
@@ -5431,7 +5388,6 @@ interview
 with
 rferl
 on
-18
 augustfive
 years
 to
@@ -5448,9 +5404,7 @@ gorbachev
 said
 that
 on
-30
 july
-1991
 he
 held
 a
@@ -5482,7 +5436,6 @@ new
 union
 treaty
 on
-20
 august
 they
 planned
@@ -5535,7 +5488,6 @@ said
 that
 in
 june
-1991
 george
 bush
 warned
@@ -5569,7 +5521,6 @@ largest
 department
 store
 on
-15
 august
 rtr
 and
@@ -5588,7 +5539,6 @@ neutralized
 by
 police
 just
-18
 minutes
 before
 it
@@ -5629,7 +5579,6 @@ kizlyar
 itartass
 reported
 on
-16
 august
 those
 projectiles

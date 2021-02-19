@@ -25,7 +25,6 @@ intercomparisons
 sengupta
 and
 boyle
-1993
 applied
 the
 technique
@@ -120,7 +119,6 @@ occur
 sengupta
 and
 boyle
-1995
 considered
 the
 relative
@@ -210,7 +208,6 @@ and
 j
 s
 boyle
-1993
 statistical
 intercomparison
 of
@@ -225,15 +222,12 @@ approach
 pcmdi
 report
 no
-13
-41
 ppabstractsengupta
 sk
 and
 j
 s
 boyle
-1995
 nonlinear
 principal
 component
@@ -244,8 +238,6 @@ data
 pcmdi
 report
 no
-29
-21
 pp
 abstractreturn
 to
@@ -253,12 +245,10 @@ pcmdi
 directorylast
 update
 august
-6
-1996
 for
 questions
 contact
 sailes
 sengupta
 sailessailesllnlgovllnl
-disclaimersucrlmi119847
+disclaimersucrlmi

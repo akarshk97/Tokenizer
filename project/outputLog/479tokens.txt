@@ -46,7 +46,6 @@ capacidad
 de
 produccion
 de
-245000
 toneladas
 por
 ao
@@ -54,7 +53,6 @@ y
 abastece
 entre
 el
-6070
 del
 mercado
 argentinoypf
@@ -121,7 +119,6 @@ a
 petroqumicas
 dela
 empresaen
-1995
 ypf
 centraliz
 sus
@@ -181,7 +178,6 @@ origen
 amayores
 utilidades
 en
-1995
 las
 cuales
 se
@@ -274,7 +270,6 @@ margen
 de
 utilidades
 en
-1995
 encomparacin
 con
 las
@@ -294,7 +289,6 @@ mtbe
 buteno
 yoxoalcoholes
 en
-1994
 la
 empresa
 afirm
@@ -318,7 +312,6 @@ con
 la
 compra
 del
-50
 de
 participacin
 enpetroken
@@ -333,23 +326,19 @@ otros
 productos
 afines
 en
-1995
 lasventas
 de
 petroken
 ascendieron
 a
-56
 millones
 adems
 afines
 de
-1995
 ypf
 tambin
 adquiri
 el
-1809
 depetroqumica
 baha
 blanca
@@ -419,7 +408,6 @@ capacidad
 de
 produccion
 de
-100000
 toneladas
 por
 ao
@@ -437,7 +425,6 @@ ypf
 ypf
 compro
 un
-50
 de
 esta
 compaia
@@ -445,4 +432,3 @@ operada
 por
 shell
 en
-1994

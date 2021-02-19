@@ -8,13 +8,10 @@ website
 for
 immediate
 releasedec
-18
-1996
 contact
 suzanne
-bilello212
-4659344
-x104
+bilello
+x
 cpj
 hails
 historic
@@ -34,7 +31,6 @@ dutynew
 york
 ny
 dec
-18
 the
 committee
 to
@@ -59,7 +55,6 @@ against
 the
 newspaper
 pagina
-12
 as
 animportant
 victory
@@ -75,7 +70,6 @@ reborisaid
 in
 her
 dec
-17
 decision
 in
 the
@@ -124,7 +118,6 @@ fernando
 sokolowiczeditors
 of
 pagina
-12
 sued
 by
 president
@@ -253,10 +246,8 @@ president
 menem
 sued
 pagina
-12
 in
 october
-1994
 for
 publishingthe
 article
@@ -302,7 +293,7 @@ continued
 legal
 harassment
 of
-pagina12
+pagina
 in
 a
 letter
@@ -310,7 +301,7 @@ to
 president
 menem
 in
-1994a
+a
 broad
 range
 of
@@ -324,7 +315,6 @@ ralliedin
 support
 of
 pagina
-12
 including
 the
 association
@@ -370,7 +360,7 @@ in
 argentina
 that
 ended
-in1983cpj
+incpj
 is
 a
 nonpartisan

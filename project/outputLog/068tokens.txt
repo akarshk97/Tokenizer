@@ -1,13 +1,11 @@
 aesop
 ds
 aesop
-1000
 development
 system
 dsproduct
 overviewthe
 aesop
-1000
 ds
 has
 been
@@ -31,7 +29,6 @@ of
 the
 standard
 aesop
-1000
 system
 but
 alsoadds
@@ -66,7 +63,6 @@ system
 like
 the
 aesop
-1000
 is
 intended
 for

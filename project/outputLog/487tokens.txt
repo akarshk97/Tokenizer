@@ -4,7 +4,6 @@ y
 la
 norma
 iso
-9002
 en
 ypf
 dimos
@@ -30,7 +29,6 @@ segn
 la
 norma
 iso
-9002
 un
 reconocimiento
 internacional
@@ -164,7 +162,7 @@ en
 la
 norma
 iso
-9002ventajas
+ventajas
 para
 el
 cliente
@@ -206,7 +204,6 @@ certificadas
 bajo
 normas
 iso
-9002
 son
 lasnicas
 que

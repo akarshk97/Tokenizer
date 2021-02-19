@@ -37,7 +37,6 @@ communications
 programs
 for
 unocal
-76
 helping
 to
 position
@@ -68,11 +67,9 @@ widening
 of
 state
 route
-55
 and
 state
 route
-91
 for
 the
 orange
@@ -216,7 +213,6 @@ irvine
 health
 foundation
 unocal
-76
 healthnet
 and
 sdi

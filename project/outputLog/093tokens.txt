@@ -31,11 +31,8 @@ of
 robot
 simulations
 ltdcopyright
-1996
 robot
 simulations
 ltdlast
 revision
-3
 april
-1996

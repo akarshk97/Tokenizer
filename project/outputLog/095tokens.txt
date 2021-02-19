@@ -87,7 +87,6 @@ that
 presents
 two
 programs
-1
 special
 things
 about
@@ -104,7 +103,6 @@ to
 a
 childs
 life
-2
 tree
 magic
 which
@@ -134,7 +132,6 @@ complete
 easy
 to
 use
-50
 page
 teachers
 guide
@@ -192,15 +189,12 @@ planting
 packet
 that
 includes
-35
 emery
 boards
-105
 thornless
 honeylocust
 seeds
 and
-35
 peat
 planting
 pelletsthe
@@ -219,24 +213,18 @@ used
 year
 after
 yearitem
-1181
-1945supplemental
+supplemental
 seed
 planting
 kit
 including
-35
 planting
 pellets
-35
 emery
 boards
-105
 thornless
 honeylocust
 seedsitem
-1187
-725
 go
 to
 secure
@@ -425,7 +413,6 @@ preview
 of
 the
 unit
-35
 what
 tree
 is
@@ -489,8 +476,7 @@ east
 of
 the
 rockiesitem
-1179
-1755western
+western
 trees
 are
 terrific
@@ -502,8 +488,6 @@ west
 of
 the
 rockiesitem
-2452
-1755
 go
 to
 secure
@@ -537,7 +521,6 @@ three
 ring
 notebook
 the
-200
 pages
 provide
 background
@@ -608,8 +591,6 @@ use
 of
 specific
 skillsitem
-2438
-1999
 go
 to
 secure
@@ -660,7 +641,6 @@ stewardshipthe
 kit
 contains
 a
-70
 page
 planners
 guide
@@ -724,8 +704,6 @@ into
 a
 lush
 valleyitem
-2551
-1000
 go
 to
 secure

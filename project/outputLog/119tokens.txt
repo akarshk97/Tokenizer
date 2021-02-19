@@ -3,11 +3,11 @@ visions
 online
 library
 november
-1996shared
+shared
 vision
 online
 november
-1996tesla
+tesla
 was
 rightthe
 coming
@@ -39,7 +39,7 @@ is
 abundant
 energynicola
 tesla
-18571943jeane
+jeane
 manning
 canadian
 author
@@ -171,7 +171,6 @@ freelance
 journalist
 who
 since
-1981
 has
 traveledthroughout
 north
@@ -378,7 +377,6 @@ energy
 revolution
 published
 in
-1996
 covers
 the
 historyof
@@ -623,7 +621,6 @@ the
 personal
 computer
 revolution
-20
 years
 ago
 inventorsare
@@ -737,7 +734,6 @@ many
 independent
 innovatorsfrom
 about
-30
 countries
 now
 are
@@ -1050,7 +1046,6 @@ revolutions
 appear
 tame
 redirecting
-2
 trillionper
 year
 from
@@ -1222,7 +1217,6 @@ new
 energy
 scene
 since
-1981
 and
 isin
 ongoing
@@ -1242,7 +1236,7 @@ she
 has
 attended
 more
-than20
+than
 energyrelated
 conferences
 in
@@ -1328,10 +1322,10 @@ the
 vancouver
 planetarium
 at
-730pm
+pm
 on
 friday
-november15
+november
 tickets
 are
 available
@@ -1371,9 +1365,7 @@ generatorsfor
 more
 information
 call
-604
-7313042november
-96
+november
 issueshared
 visions
 libraryshared

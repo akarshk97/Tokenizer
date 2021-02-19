@@ -1,13 +1,11 @@
 lefm
 newsletterthis
 issueversion
-21
 of
 lefm
 releasedlefm
 annual
 conference
-67
 junedevelopments
 of
 enhanced
@@ -94,11 +92,9 @@ electronic
 and
 paper
 versionsversion
-21
 of
 lefm
 releasedversion
-21
 of
 local
 economy
@@ -142,7 +138,6 @@ the
 model
 moreversatile
 version
-21
 includes
 flexible
 tabulations
@@ -179,7 +174,7 @@ local
 areashave
 you
 been
-sic92edlefm
+sicedlefm
 updates
 from
 march
@@ -189,7 +184,6 @@ include
 data
 from
 the
-1993
 census
 ofemployment
 the
@@ -205,7 +199,7 @@ on
 the
 basis
 of
-thesic92
+thesic
 classification
 this
 is
@@ -213,7 +207,7 @@ a
 major
 reclassification
 from
-sic80
+sic
 someproblems
 were
 initially
@@ -238,7 +232,6 @@ and
 rereleased
 also
 the
-1991
 dualclassified
 data
 essential
@@ -268,7 +261,7 @@ will
 know
 that
 the
-sic92
+sic
 revision
 has
 required
@@ -295,7 +288,6 @@ cso
 with
 overnight
 some
-10
 of
 ukmanufacturing
 employment
@@ -327,14 +319,12 @@ best
 done
 with
 the
-1991
 data
 since
 it
 is
 dual
 codedalthough
-1993
 is
 a
 fuller
@@ -406,7 +396,6 @@ information
 just
 released
 for
-1991
 and
 haveestablished
 a
@@ -417,7 +406,6 @@ constructing
 consistent
 series
 for
-198193
 local
 authorities
 will
@@ -482,7 +470,6 @@ at
 thelefm
 annual
 conference
-67
 junethis
 conference
 is
@@ -601,10 +588,8 @@ held
 on
 thursday
 june
-6friday
+friday
 june
-7
-1996
 it
 takesplace
 also
@@ -986,7 +971,7 @@ to
 work
 with
 the
-e3me
+eme
 model
 developed
 by
@@ -1012,7 +997,7 @@ in
 the
 uk
 the
-e3me
+eme
 model
 was
 developed
@@ -1026,14 +1011,13 @@ programme
 and
 distinguishes
 some
-32industry
+industry
 sectors
 the
-e3me
+eme
 project
 began
 in
-1993
 with
 the
 aim
@@ -1054,11 +1038,9 @@ gas
 emissions
 by
 some
-60
 over
 the
 next
-50
 years
 a
 proposal
@@ -1161,7 +1143,7 @@ status
 under
 the
 objective
-1category
+category
 the
 monitoring
 committee
@@ -1194,7 +1176,6 @@ european
 income
 levels
 over
-199499
 work
 on
 the
@@ -1202,7 +1183,6 @@ spdwas
 originally
 undertaken
 in
-1994
 by
 ce
 and
@@ -1210,7 +1190,6 @@ ier
 they
 used
 version
-101
 lefmsoftware
 model
 to
@@ -1232,7 +1211,6 @@ were
 subsequently
 embodied
 inmerseyside
-2000
 the
 euapproved
 spd
@@ -1250,7 +1228,6 @@ was
 followed
 up
 in
-1995
 with
 a
 second
@@ -1299,7 +1276,6 @@ itused
 an
 enhanced
 version
-201
 evalefm
 model
 to
@@ -1320,7 +1296,6 @@ haveachieved
 if
 the
 objective
-1
 programme
 had
 not
@@ -1374,7 +1349,6 @@ applicants
 for
 funds
 in
-1996
 and
 supported
 the
@@ -1437,7 +1411,6 @@ developmentalternativeseast
 midlands
 economic
 reviewversion
-20
 multiarea
 lefm
 software
@@ -1667,10 +1640,8 @@ impact
 of
 both
 phase
-1
 and
 phase
-2
 of
 thetoyota
 investment
@@ -1689,7 +1660,6 @@ the
 effects
 of
 phase
-1
 have
 been
 while
@@ -1697,7 +1667,7 @@ the
 analysis
 of
 phase
-2is
+is
 prospective
 in
 both
@@ -1737,7 +1707,6 @@ area
 in
 total
 some
-6000
 jobs
 will
 have
@@ -1753,7 +1722,6 @@ the
 end
 of
 phase
-2
 of
 which
 about
@@ -1855,7 +1823,7 @@ publication
 leicestershire
 economic
 assessment
-march1996
+march
 published
 jointly
 by
@@ -1922,9 +1890,7 @@ available
 from
 leicestershire
 tec
-call0116
-265
-1515
+call
 for
 further
 informationeducational
@@ -2156,7 +2122,6 @@ economyand
 the
 labour
 markettable
-1
 the
 current
 version
@@ -2164,17 +2129,16 @@ of
 the
 lefm
 modellefm
-21industrial
+industrial
 classification
-sic92industries49of
+sicindustriesof
 which
-services19occupations22price
-base1990estimation
-period19811993solution
-period19942010base
+servicesoccupationsprice
+baseestimation
+periodsolution
+periodbase
 inputoutput
-tables1990table
-1
+tablestable
 summarises
 the
 main
@@ -2347,14 +2311,12 @@ cambridge
 econometricscovent
 garden
 cambridge
-cb1
-2hs
+cb
+hs
 united
 kingdomtel
-01223
-460760fax
-01223
-464378email
+fax
+email
 via
 internetemail
 via
@@ -2369,14 +2331,12 @@ employment
 research
 universityof
 warwickcoventry
-cv4
-7al
+cv
+al
 united
 kingdomtel
-01202
-523530fax
-01203
-524241email
+fax
+email
 via
 internetemail
 via

@@ -1,8 +1,8 @@
 nemzet
-19960404nemzet
-19960404subject
 nemzet
-19960404xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -360,7 +360,7 @@ duhong
 smaris
 egy
 boing
-737es
+es
 katonai
 verzioja
 volt
@@ -382,7 +382,6 @@ ujja
 epitesere
 a
 kb
-51
 milliardosv
 i
 l
@@ -1016,7 +1015,7 @@ nepszava
 eh
 esti
 hirlap
-vgvilaggazdasag1
+vgvilaggazdasag
 kulfoldmi
 tortent
 dubrovniknaldubrovnik
@@ -1031,7 +1030,6 @@ brownt
 szallito
 repulogep
 az
-54
 eves
 fekete
 boru
@@ -1045,7 +1043,7 @@ elso
 jelentesek
 szerint
 a
-30utas
+utas
 kozott
 nincs
 tulelo
@@ -1291,7 +1289,7 @@ kizarolageredeti
 formajaban
 elfogadhato
 mh
-um2
+um
 hatarontulerdelya
 romanmagyar
 tortenelmi
@@ -1312,7 +1310,7 @@ europa
 tanacsparlamenti
 kozgyulesen
 elfogadott
-1201es
+es
 ajanlasanak
 csatolasahozaz
 alapszerzodeshez
@@ -1333,15 +1331,15 @@ nszmondjunk
 le
 mindenrol
 szivesen
-alairjak3
-gazdasag10
+alairjak
+gazdasag
 korulire
 csokken
 az
 inflacio
 ha
 pl
-32es
+es
 alapu
 szamrendszerben
 merika
@@ -1410,7 +1408,7 @@ intezkedesek
 reven
 az
 ev
-vegere2021
+vegere
 szazalekra
 csokkenhet
 nem
@@ -1503,7 +1501,6 @@ hogy
 impotensa
 feketegazdasag
 jelenlegi
-30
 szazalekos
 aranya
 nem
@@ -1585,7 +1582,6 @@ el
 nsz
 umregisztralt
 munkanelkuliseg
-116
 nem
 valtozika
 tavaly
@@ -1595,7 +1591,6 @@ tarto
 novekedes
 utan
 marciusban
-2200
 fovelcsokkent
 a
 regisztralt
@@ -1604,7 +1599,7 @@ szama
 a
 honap
 vegen
-igy528400
+igy
 munkanelkulit
 tartottak
 nyilvan
@@ -1618,7 +1613,7 @@ ratat
 amely
 tovabbra
 is
-116szazalek
+szazalek
 hangzott
 el
 az
@@ -1645,7 +1640,7 @@ ugy
 dontottek
 hogy
 valamennyi
-30honaposnal
+honaposnal
 idosebb
 brit
 szarvasmarhat
@@ -1653,7 +1648,6 @@ meg
 kell
 semmisiteni
 ezvegeredmenyben
-46
 millio
 allat
 levagasat
@@ -1694,7 +1688,7 @@ majdnemingyen
 marhahushoz
 jutnak
 vajon
-megeszik4
+megeszik
 belfoldfodor
 gabor
 alkotmanya
@@ -1765,11 +1759,11 @@ visszaallitasathiszen
 a
 legsulyosabb
 buntetes
-1990es
+es
 hatalyon
 kivul
 helyezese
-utan50
+utan
 szazalekkal
 emelkedett
 a
@@ -1966,7 +1960,6 @@ ezekkel
 a
 hatarozatokkal
 mintegy
-600
 milliard
 forintoskotelezettseget
 vallalt
@@ -1976,7 +1969,6 @@ kozolte
 a
 kormany
 meg
-1994
 nyarahozkepest
 is
 ujabb
@@ -1999,7 +1991,6 @@ olyan
 vallalasok
 isamelyekrol
 csak
-1996
 elejen
 szereztek
 tudomast
@@ -2040,7 +2031,7 @@ s
 talan
 ezert
 beszelt
-600milliard
+milliard
 forintrol
 a
 huszeves
@@ -2070,7 +2061,6 @@ nyilatkozikhangsulyozva
 tetelesen
 kimutathato
 a
-600
 milliardoskotelezettsegvallalasliberalizmus
 csalas
 korrupcio
@@ -2121,7 +2111,6 @@ igenybe
 veszik
 a
 ketmillio
-700
 ezer
 forintosgyermekkedvezmenyt
 a
@@ -2137,7 +2126,6 @@ egyetlen
 eszkoze
 az
 a
-2030
 ezer
 forintosbirsag
 amit
@@ -2443,7 +2431,7 @@ mnegyhazi
 iskolakba
 a
 gyerekek
-2a
+a
 jarhatpaskai
 laszlo
 biboros
@@ -2504,7 +2492,6 @@ letesitmenyben
 osszesen
 tobb
 mint
-600
 diaknakvan
 hely
 paskai
@@ -2527,7 +2514,6 @@ jelenleg
 csak
 a
 gyerekek
-18
 szazalekajarhat
 egyhazi
 iskolaba
@@ -2871,7 +2857,7 @@ cimenhttpwwwsiliconvalleycomdemokrata
 a
 cikk
 lathato
-ahttpwwwsiliconvalleycom960330html
+ahttpwwwsiliconvalleycomhtml
 cimen
 osszehasonlitaskorkiderul
 hogy
@@ -2947,7 +2933,7 @@ szabadkomuvesek
 mint
 peldaul
 horn
-gyula5
+gyula
 partoskodasliberalis
 nepidemokrataknak
 honnan
@@ -2960,13 +2946,13 @@ hogy
 az
 mdnp
 aprilis
-9en
+en
 bekoltozhet
 az
 i
 keruletiiskola
 utca
-16ba
+ba
 hogy
 elfoglalja
 ideiglenes
@@ -3109,7 +3095,7 @@ sikerekludwig
 emilmagyar
 forum
 marcius
-28a
+a
 trianoni
 szerzodessel
 nem
@@ -3176,7 +3162,7 @@ kisebbseg
 allitolagos
 elnyomatasarolamelynek
 szama
-1920tol
+tol
 a
 mai
 napig
@@ -3194,11 +3180,9 @@ sorok
 apozsonyi
 nemzetisegi
 ujsag
-1996
 marcius
-16i
+i
 szamanak
-3
 oldalanolvashatok
 megpedig
 nem
@@ -3725,7 +3709,7 @@ irasfohasz
 allamfoghazertmagyar
 forum
 marcius
-28a
+a
 gonczfele
 gyulolettorveny
 mintha
@@ -3766,7 +3750,7 @@ akadnakmajd
 balekok
 is
 meg
-1988ban
+ban
 a
 puha
 diktatura
@@ -4034,7 +4018,7 @@ a
 frissdemokracia
 labnyomaittamaska
 peterkarpotlas
-4deutsch
+deutsch
 laszlo
 forabbi
 nyitoimaja
@@ -4080,7 +4064,7 @@ a
 kuldotteknek
 eljuttatott
 irott
-anyagbol500
+anyagbol
 ezer
 forintos
 jutalomaz
@@ -4098,7 +4082,6 @@ a
 mazsihiszeloljarosag
 altal
 megszavazott
-500
 ezer
 forintos
 jutalom
@@ -4202,7 +4185,6 @@ van
 jogutod
 akar
 egy
-2030
 foskicsiny
 videki
 hitkozseg
@@ -5070,7 +5052,6 @@ signed
 in
 moscow
 on
-2
 april
 calls
 for
@@ -5127,7 +5108,6 @@ by
 the
 end
 of
-1997
 the
 joint
 activities
@@ -5217,7 +5197,7 @@ prograchev
 according
 to
 a
-40page
+page
 document
 reportedly
 prepared
@@ -5232,8 +5212,7 @@ zyuganov
 and
 citedin
 the
-31
-march7
+march
 april
 issue
 of
@@ -5300,18 +5279,16 @@ in
 thearticle
 gave
 zyuganov
-22
 support
 followed
 by
 vladimir
 zhirinovsky
-with18
+with
 yeltsin
 lagged
 with
 only
-4
 scott
 parrishbombing
 continues
@@ -5332,7 +5309,6 @@ during
 the
 night
 of
-23
 aprilalthough
 village
 elders
@@ -5344,12 +5320,10 @@ pact
 with
 russian
 commanderson
-2
 april
 reuters
 reported
 on
-3
 april
 a
 spokesman
@@ -5396,7 +5370,6 @@ cease
 at
 midnight
 on
-31
 march
 liz
 fullereu
@@ -5435,7 +5408,6 @@ atomicweapons
 reuters
 reported
 on
-3
 april
 the
 russian
@@ -5512,7 +5484,7 @@ toprepare
 for
 the
 moscow
-g7
+g
 summit
 on
 nuclear
@@ -5537,7 +5509,6 @@ theus
 state
 department
 on
-3
 april
 expressed
 concern
@@ -5568,7 +5539,6 @@ by
 the
 parliament
 on
-26
 march
 meanwhile
 a
@@ -5586,7 +5556,6 @@ nato
 countries
 also
 on
-3
 april
 slovak
 oppositionrepresentatives
@@ -5635,7 +5604,6 @@ co
 apv
 rt
 on
-3
 april
 announced
 it
@@ -5643,7 +5611,6 @@ is
 readyto
 sell
 its
-268
 share
 in
 the
@@ -5667,7 +5634,6 @@ german
 bank
 will
 own
-51
 of
 mkb
 the
@@ -5700,7 +5666,6 @@ thelastnamed
 expressed
 interest
 in
-1994
 the
 mkb
 was
@@ -5716,13 +5681,10 @@ banks
 aftertax
 profits
 soaredfrom
-487
 million
 forints
 in
-1994
 to
-26
 billion
 forints
 in
@@ -5765,7 +5727,6 @@ prison
 inconnection
 with
 the
-1994
 killing
 of
 a
@@ -5776,7 +5737,6 @@ boybota
 sot
 reported
 on
-4
 april
 krstic
 was
@@ -5791,13 +5751,11 @@ manslaughter
 he
 had
 fired
-30
 bullets
 intoa
 car
 in
 july
-1994
 killing
 the
 boy
@@ -5836,7 +5794,6 @@ the
 kacanik
 jail
 in
-1994
 it
 added
 that
@@ -5866,7 +5823,6 @@ hungary
 ion
 iliescu
 on
-3
 aprilaccused
 hungary
 of
@@ -5900,7 +5856,6 @@ treaty
 council
 ofeurope
 recommendation
-1201
 which
 is
 on
@@ -5981,7 +5936,7 @@ pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

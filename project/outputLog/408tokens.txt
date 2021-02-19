@@ -1,8 +1,7 @@
-1995
 acu
 ratings
 citizen
-test1995
+test
 acu
 ratings
 citizen
@@ -38,7 +37,6 @@ the
 house
 of
 representatives
-1
 balanced
 budget
 amendment
@@ -54,7 +52,6 @@ balance
 the
 budget
 by
-2002
 or
 two
 years
@@ -104,7 +101,7 @@ serious
 military
 threat
 support
-oppose2
+oppose
 lineitem
 veto
 passage
@@ -135,7 +132,6 @@ after
 enactment
 with
 congresshaving
-20
 days
 to
 pass
@@ -147,7 +143,7 @@ spending
 or
 benefit
 support
-oppose3
+oppose
 missile
 defenses
 spratt
@@ -202,7 +198,7 @@ for
 us
 territory
 support
-oppose4
+oppose
 national
 security
 revitalization
@@ -241,7 +237,7 @@ in
 europejoin
 nato
 support
-oppose5
+oppose
 welfare
 overhaul
 adoption
@@ -277,7 +273,7 @@ of
 social
 services
 support
-oppose6
+oppose
 term
 limits
 passage
@@ -292,7 +288,7 @@ constitutional
 amendment
 toimpose
 a
-12year
+year
 lifetime
 limit
 on
@@ -302,7 +298,7 @@ in
 each
 chamber
 support
-oppose7
+oppose
 tax
 and
 spending
@@ -323,7 +319,6 @@ to
 cut
 taxes
 by
-189
 billion
 over
 five
@@ -334,7 +329,7 @@ variety
 of
 proposalsincluding
 a
-500per
+per
 child
 tax
 credit
@@ -354,10 +349,8 @@ gains
 tax
 rate
 from
-28
 percent
 to
-198
 percent
 and
 to
@@ -367,8 +360,8 @@ through
 various
 proposals
 support
-oppose8
-fy96
+oppose
+fy
 budget
 resolution
 neumann
@@ -378,13 +371,11 @@ to
 balance
 the
 budget
-by2000
+by
 rather
 than
-2002
 by
 cutting
-612
 billion
 more
 in
@@ -406,13 +397,13 @@ below
 current
 levels
 and
-226billion
+billion
 in
 additional
 medicare
 savings
 support
-oppose9
+oppose
 flag
 desecration
 passage
@@ -438,7 +429,7 @@ the
 us
 flag
 support
-oppose10
+oppose
 mexico
 city
 abortion
@@ -525,7 +516,6 @@ that
 for
 the
 past
-12
 months
 therehave
 been
@@ -535,7 +525,7 @@ abortions
 in
 china
 support
-oppose11
+oppose
 neaneh
 cuts
 adoption
@@ -583,7 +573,7 @@ theirauthorizations
 had
 expired
 support
-oppose12
+oppose
 mexico
 bailout
 sanders
@@ -608,8 +598,6 @@ amendment
 would
 as
 ofoctober
-1
-1995
 effectively
 curtail
 the
@@ -621,7 +609,7 @@ support
 the
 mexicanpeso
 support
-oppose13
+oppose
 environmental
 regulation
 stokes
@@ -666,7 +654,7 @@ pesticides
 on
 food
 support
-oppose14
+oppose
 federal
 funding
 of
@@ -675,7 +663,6 @@ greenwood
 amendment
 to
 provide
-193
 millionfor
 family
 planning
@@ -699,7 +686,7 @@ to
 planned
 parenthood
 support
-oppose15
+oppose
 public
 broadcasting
 hoekstra
@@ -715,13 +702,11 @@ broadcasting
 thereby
 saving
 taxpayers
-240
 million
 in
 fiscal
-1998
 support
-oppose16
+oppose
 welfare
 for
 lobbyists
@@ -781,7 +766,7 @@ they
 do
 so
 support
-oppose17
+oppose
 raising
 pension
 funds
@@ -807,7 +792,7 @@ on
 social
 criteria
 support
-oppose18
+oppose
 cuban
 liberty
 act
@@ -871,7 +856,7 @@ lease
 the
 properties
 support
-oppose19
+oppose
 lateterm
 abortions
 adoption
@@ -906,7 +891,7 @@ performing
 the
 abortion
 support
-oppose20
+oppose
 nea
 tax
 exemption
@@ -926,9 +911,8 @@ taxes
 beginning
 in
 fiscal
-1996
 support
-oppose21
+oppose
 balanced
 budget
 act
@@ -947,16 +931,14 @@ byreducing
 projected
 spending
 by
-894
 billion
 and
 cutting
 taxes
 by
-245
 billion
 support
-oppose22
+oppose
 lobbying
 restrictions
 clinger
@@ -982,7 +964,7 @@ to
 any
 legislativeproposal
 support
-oppose23
+oppose
 bosnia
 passage
 of

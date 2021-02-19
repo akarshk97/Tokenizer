@@ -246,7 +246,7 @@ latter
 half
 of
 the
-19th
+th
 century
 among
 the
@@ -287,7 +287,6 @@ of
 business
 and
 in
-1884
 successfully
 persuaded
 chancellor
@@ -311,7 +310,6 @@ united
 states
 in
 about
-1910
 when
 new
 york
@@ -326,7 +324,6 @@ workers
 compensation
 program
 in
-1911
 this
 program
 is
@@ -519,12 +516,10 @@ their
 homes
 at
 least
-40
 hours
 per
 week
 for
-13
 or
 more
 weeks
@@ -609,7 +604,6 @@ to
 be
 selfinsured
 in
-1988
 illinois
 passed
 legislation
@@ -1210,7 +1204,6 @@ unable
 to
 work
 for
-14
 or
 more
 days
@@ -1599,7 +1592,6 @@ but
 no
 later
 than
-45
 days
 after
 the
@@ -1646,7 +1638,6 @@ must
 give
 notice
 within
-90
 days
 of
 learning
@@ -1898,7 +1889,6 @@ one
 of
 the
 following
-1
 start
 to
 pay
@@ -1907,7 +1897,6 @@ employee
 temporary
 total
 disability
-2
 notify
 the
 employee
@@ -1923,7 +1912,6 @@ begin
 making
 payments
 or
-3
 provide
 the
 employee
@@ -1976,10 +1964,10 @@ be
 filed
 between
 the
-15th
+th
 and
 the
-25th
+th
 of
 each
 month
@@ -1998,7 +1986,6 @@ commission
 in
 writing
 within
-48
 hours
 of
 the
@@ -2569,16 +2556,12 @@ james
 r
 thompson
 center
-100
 randolph
 street
 west
 chicago
 il
-60601
 phone
-312
-8146611
 the
 commission
 publishes
@@ -2630,7 +2613,7 @@ home
 pageall
 contents
 copyright
-19951996weblocator
+weblocator
 and
 american
 research

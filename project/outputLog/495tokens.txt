@@ -35,8 +35,6 @@ withthe
 signature
 on
 december
-27
-1996
 of
 the
 new
@@ -44,7 +42,6 @@ production
 sharingcontract
 in
 block
-16
 with
 the
 government
@@ -56,7 +53,6 @@ through
 petroecuadorin
 august
 of
-1996
 the
 ecuadorian
 government
@@ -87,7 +83,6 @@ between
 august
 and
 december
-1996
 the
 partiesworked
 intensely
@@ -122,7 +117,7 @@ the
 parties
 of
 block
-16ypf
+ypf
 ecuador
 inc
 and
@@ -157,5 +152,4 @@ legal
 frameworkbuenos
 aires
 january
-29th
-1997
+th

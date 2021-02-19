@@ -22,17 +22,15 @@ by
 taykw
 on
 august
-15
-1996
 at
-080411our
+our
 company
 owns
 a
 mitsubishi
 industrial
 microrobotmodel
-rvm2
+rvm
 i
 have
 encountered
@@ -46,7 +44,6 @@ the
 robot
 via
 rs
-232
 serial
 port
 the
@@ -91,8 +88,7 @@ with
 robot
 nick
 oakley
-090303
-822960xonxoff
+xonxoff
 protocol
 for
 epson
@@ -100,8 +96,7 @@ in
 c
 volker
 pinkitz
-085000
-822960re
+re
 problem
 with
 cprogram
@@ -110,8 +105,7 @@ with
 robot
 nick
 oakley
-035428
-819963re
+re
 problem
 with
 cprogram
@@ -119,8 +113,7 @@ interface
 with
 robot
 taykheewee
-093528
-819960re
+re
 problem
 with
 cprogram
@@ -128,8 +121,7 @@ interface
 with
 robot
 taykheewee
-093320
-819960re
+re
 problem
 with
 cprogram
@@ -137,8 +129,7 @@ interface
 with
 robot
 taykheewee
-093113
-819960post
+post
 a
 followupname
 email
@@ -152,7 +143,7 @@ mitsubishi
 industrial
 microrobot
 model
-rvm2
+rvm
 i
 have
 encountered
@@ -166,7 +157,6 @@ the
 robot
 via
 rs
-232
 serial
 port
 the

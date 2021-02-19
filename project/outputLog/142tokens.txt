@@ -19,8 +19,6 @@ home
 pagelast
 update
 october
-18
-1996
 for
 further
 information
@@ -28,4 +26,4 @@ contact
 theamip
 project
 officeamippcmdillnlgovllnl
-disclaimersucrlmi125581
+disclaimersucrlmi

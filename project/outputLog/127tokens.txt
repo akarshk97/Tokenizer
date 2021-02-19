@@ -20,7 +20,6 @@ months
 special
 is
 buy
-7500
 worth
 of
 cigarsand
@@ -35,6 +34,6 @@ order
 in
 today
 at
-8002605526cigar
+cigar
 baron
 home

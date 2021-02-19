@@ -1,9 +1,9 @@
-servicessas70criteriaservicesmean
+servicessascriteriaservicesmean
 to
 youcontrol
 objectivesclient
 reportingsystem
-controlsotherhomesas70the
+controlsotherhomesasthe
 audit
 that
 checks
@@ -31,7 +31,7 @@ executed
 in
 accordance
 with
-establishedcriteria1
+establishedcriteria
 procedures
 should
 be
@@ -47,7 +47,7 @@ closure
 including
 cashsecurityacceptance
 or
-transfer2
+transfer
 procedures
 should
 be
@@ -62,7 +62,7 @@ resolved
 on
 a
 timely
-basis3
+basis
 agreements
 and
 amendments
@@ -78,7 +78,7 @@ maintained
 and
 signed
 for
-eachclient4
+eachclient
 transactions
 are
 executed
@@ -93,7 +93,7 @@ advisory
 agreement
 of
 fund
-prospectus5
+prospectus
 portfolios
 are
 regularly
@@ -116,13 +116,13 @@ agreement
 including
 the
 suitabilityof
-investments6
+investments
 employee
 are
 properly
 trained
 and
-supervised7
+supervised
 personnel
 performs
 the
@@ -132,7 +132,6 @@ on
 new
 employees
 copyright
-1996
 ashlandaccounting
 services
 pcinfoaascpacom

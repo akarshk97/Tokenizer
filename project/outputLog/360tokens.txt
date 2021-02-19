@@ -1,6 +1,6 @@
 nemzet
-19960807nemzet
-19960807n
+nemzet
+n
 n
 eeeeeee
 m
@@ -127,7 +127,7 @@ hetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfoldujabb
 olimpiai
 aranyerem
@@ -220,7 +220,6 @@ az
 otsh
 elnokhelyettese
 kozolte
-335
 milliard
 forintra
 lenne
@@ -228,7 +227,7 @@ szukseg
 lapertesulesek
 szerint
 az
-1997re
+re
 varhato
 osszeg
 meg
@@ -247,7 +246,6 @@ sportnak
 iden
 juto
 csaknem
-25
 milliard
 forint
 vg
@@ -289,9 +287,8 @@ keleti
 gyorgy
 honvedelmi
 miniszter
-1993
 november
-29en
+en
 meg
 ellenzeki
 kepviselokent
@@ -357,9 +354,7 @@ peldaul
 a
 varhato
 elettartam
-70
 evrol
-64
 evre
 esett
 vissza
@@ -371,18 +366,14 @@ pedig
 a
 csecsemohalandosagi
 rata
-1989
 es
-1994
 kozott
 az
 ezer
 szuletesre
 juto
-144
 szazalekos
 halalozasrol
-163
 szazalekra
 emelkedett
 a
@@ -435,7 +426,6 @@ mnmagyar
 napok
 daniabana
 honfoglalas
-1100
 evforduloja
 tiszteletere
 magyar
@@ -510,7 +500,7 @@ valamint
 a
 miskolc
 dixieland
-band2
+band
 hatarontulfelvidek
 totok
 hadat
@@ -650,7 +640,7 @@ tajekoztatasi
 foosztalya
 vezetojenek
 augusztus
-1jei
+jei
 a
 magyarmagyar
 csucstalalkozoval
@@ -808,7 +798,6 @@ hogy
 a
 roman
 rendorseg
-200
 emberet
 mozgositotta
 a
@@ -885,7 +874,7 @@ nema
 csenddel
 adozzanak
 az
-1989es
+es
 esemenyek
 es
 a
@@ -908,9 +897,9 @@ es
 temesvar
 szerepet
 az
-1989es
+es
 fordulat
-bekovetkezteben3
+bekovetkezteben
 gazdasaginflaciobol
 adossagbol
 es
@@ -946,7 +935,6 @@ lehet
 nagyobb
 a
 gdp
-60
 szazalekanal
 a
 koltsegvetesi
@@ -956,7 +944,6 @@ haladhatja
 meg
 a
 gdp
-3
 szazalekat
 az
 inflacio
@@ -1013,14 +1000,12 @@ hulyesegeket
 elkepzelhetetlen
 mennyisegben
 ontjaujabb
-5al
+al
 zuhantak
 a
 realberekaz
 elmult
-12
 honapban
-48
 szazalekkal
 csokkentek
 a
@@ -1042,15 +1027,13 @@ fore
 juto
 netto
 atlagkereset
-29787
 forint
 volt
 ami
-198
 szazalekkal
 magasabb
 az
-1995os
+os
 bereknel
 ugyanezen
 idoszak
@@ -1058,7 +1041,6 @@ alatt
 a
 fogyasztoi
 arak
-258
 szazalekkal
 novekedtek
 tovabbra
@@ -1077,7 +1059,6 @@ dolgozok
 atlagos
 netto
 bere
-51395
 forint
 volt
 juniusban
@@ -1097,11 +1078,9 @@ uj
 penzt
 kell
 bevezetni
-100
 fitying
 for
 erni
-1
 fabatkataz
 otven
 evvel
@@ -1113,13 +1092,12 @@ sikerult
 talpon
 maradnia
 az
-1957es
 es
-1989es
+es
+es
 komoly
 megrazkodtatas
 ellenere
-1996
 elejetol
 a
 magyar
@@ -1195,7 +1173,6 @@ gazdasagi
 valsaga
 tobb
 mint
-180
 ezer
 vallalkozot
 kepviselo
@@ -1222,7 +1199,6 @@ sajtotajekoztatojan
 elmondta
 a
 beruhazasok
-58
 szazalekkal
 csokkentek
 visszaesett
@@ -1367,7 +1343,6 @@ komolytalannak
 mondta
 az
 energiaarak
-70
 szazalekos
 emeleserol
 felroppent
@@ -1376,7 +1351,6 @@ bizonyos
 hogy
 az
 aremeles
-35
 szazalek
 alatt
 marad
@@ -1394,7 +1368,6 @@ szerint
 ha
 oktoberben
 csak
-20
 szazalek
 koruli
 lesz
@@ -1414,7 +1387,6 @@ antal
 a
 bdszsz
 elnoke
-2025
 szazalekos
 emelest
 prognosztizal
@@ -1427,14 +1399,14 @@ furfangot
 hogy
 a
 valosagbeli
-70os
+os
 emelkedest
 mondjuk
 egymas
 utan
 harom
 napi
-25os
+os
 emelessel
 erjek
 el
@@ -1445,7 +1417,7 @@ meg
 hulyitenibirkaorszag
 birkarejtelyolaszorszag
 augusztus
-3atol
+atol
 egy
 honap
 utan
@@ -1502,7 +1474,7 @@ es
 koromfajas
 ellen
 birkat
-mh4
+mh
 belfoldpetak
 istvan
 lett
@@ -1524,18 +1496,14 @@ nyolcoras
 targyalas
 utan
 a
-29
 fos
 kuratorium
 jelen
 levo
-26
 tagja
-18
 igen
 szavazattal
 es
-8
 nemmel
 a
 palyazok
@@ -1571,7 +1539,7 @@ sajtotajekoztaton
 petak
 istvan
 a
-tv2
+tv
 korabbi
 intendansa
 a
@@ -2022,7 +1990,7 @@ mukodik
 a
 rendszer
 az
-1993tol
+tol
 bevezetett
 teljesitmenyelvu
 finanszirozas
@@ -2082,10 +2050,9 @@ hazai
 termek
 gdp
 csaknem
-7
 szazalekat
 forditottak
-1994ben
+ben
 mikozben
 az
 oecdtagallamok
@@ -2093,7 +2060,6 @@ atlagaban
 ez
 a
 hanyad
-8
 szazalek
 az
 egyes
@@ -2116,7 +2082,6 @@ vesszuk
 szamitasba
 a
 mi
-500
 dollaros
 atlagunkkal
 all
@@ -2127,7 +2092,6 @@ allamok
 egy
 fore
 juto
-15002000
 dollaros
 egeszsegugyi
 kiadasa
@@ -2153,7 +2117,6 @@ egeszseg
 vedelmere
 a
 gdp
-143
 szazalekat
 forditjak
 erre
@@ -2165,7 +2128,6 @@ fore
 juto
 evi
 osszeg
-3500
 dollar
 az
 egy
@@ -2184,7 +2146,6 @@ meg
 a
 fejlettek
 klubjanak
-27
 tagorszaga
 kozul
 a
@@ -2257,7 +2218,6 @@ szemben
 az
 elso
 felevben
-6
 szazalekkal
 esett
 vissza
@@ -2278,7 +2238,6 @@ adat
 a
 kornyezo
 orszagokban
-57
 szazalek
 az
 inflacio
@@ -2292,7 +2251,6 @@ eloiranyzott
 tervezetet
 s
 atlagosan
-285
 szazalekon
 allt
 ezen
@@ -2303,7 +2261,6 @@ messze
 az
 atlag
 alatt
-185
 szazalekos
 inflacioval
 rendelkezik
@@ -2331,11 +2288,9 @@ a
 ferfiak
 varhato
 elettartama
-635
 mig
 a
 noke
-745
 ev
 ez
 negy
@@ -2352,13 +2307,11 @@ a
 szuletesek
 szama
 iden
-26
 szazalekkal
 mig
 a
 nepesseg
 egesze
-44
 szazalekkal
 csokkent
 mindez
@@ -2381,23 +2334,20 @@ nepesseg
 szama
 es
 aranya
-1949ben
+ben
 a
-60
 even
 feluliek
 a
 lakossag
 nem
 egesz
-12
 szazalekat
 tavaly
 pedig
 mar
 majdnem
 a
-20
 szazalekat
 tettek
 ki
@@ -2412,7 +2362,6 @@ szerint
 jelenleg
 ketszer
 annyi
-70
 evesnel
 korosabb
 allampolgar
@@ -2425,13 +2374,10 @@ fel
 evtizeddel
 ezelott
 a
-60
 even
 feluliek
 szama
-1
 millio
-980
 ezer
 mhkdnp
 koromfekete
@@ -2577,7 +2523,6 @@ harommillio
 forintot
 vett
 at
-200
 fradidrukkertol
 azzal
 hogy
@@ -2605,7 +2550,6 @@ a
 jegyek
 tobb
 mint
-20
 ezer
 forintba
 kerultek
@@ -2669,7 +2613,6 @@ a
 kutyat
 nszbencsik
 andrasaranycsapatdemokrata
-31
 httpwwwsiliconvalleycomdemokrata
 termeszetesen
 tudom
@@ -2760,7 +2703,7 @@ ellenkezojet
 hiszik
 peldaul
 az
-m1es
+mes
 autopalyat
 visszavasarolni
 kenyszerul
@@ -2775,7 +2718,6 @@ autos
 aki
 megfizeti
 a
-40
 kilometeres
 szakaszert
 a
@@ -3193,7 +3135,6 @@ ev
 vegere
 eleri
 a
-400
 millio
 dollart
 mondta
@@ -3226,7 +3167,7 @@ interjuja
 magyar
 hirlap
 aug
-6szinte
+szinte
 hihetetlen
 sardobalas
 indult
@@ -3467,7 +3408,7 @@ egyesult
 allamokban
 azt
 hiszem
-1991ben
+ben
 latogatott
 meg
 gati
@@ -3596,7 +3537,6 @@ meg
 akartak
 szabadulni
 a
-20
 het
 koruli
 terhesseguktol
@@ -3849,11 +3789,9 @@ levo
 orszaggyulesi
 jegyzokonyv
 tanusitja
-1995
 juniusaban
 az
 ulesszak
-14
 ulesnapjan
 az
 egyik
@@ -4167,7 +4105,6 @@ kezelni
 mit
 tettek
 onok
-1990
 ota
 hogy
 megprobaljak
@@ -4277,7 +4214,7 @@ fel
 az
 on
 julius
-19ei
+ei
 cikkeben
 a
 nepszabadsagban
@@ -4498,7 +4435,6 @@ hogy
 konkretan
 elhangzanak
 alkuszamok
-600800
 ezer
 forint
 a
@@ -4539,7 +4475,7 @@ nagyon
 rosszulesett
 hogy
 az
-1995ben
+ben
 tortent
 eset
 kapcsan
@@ -5028,7 +4964,6 @@ kozpontja
 magyarorszagon
 az
 emberek
-54
 szazaleka
 sziv
 es
@@ -5327,10 +5262,8 @@ gyakorisaga
 a
 mi
 programunkban
-14
 mindenutt
 masutt
-3
 szazalek
 ezert
 nem
@@ -5459,7 +5392,7 @@ ezert
 vallaltamcsermely
 peteregy
 percdemokrata
-31nem
+nem
 szeretem
 az
 atlantai
@@ -5755,7 +5688,6 @@ ukrainian
 radio
 reported
 on
-6
 august
 he
 said
@@ -5862,14 +5794,12 @@ fronta
 dnes
 reported
 on
-7
 august
 zieleniec
 told
 the
 newspaper
 on
-5
 august
 that
 the
@@ -5948,7 +5878,6 @@ miners
 stage
 sitin
 over
-50
 miners
 at
 the
@@ -5963,16 +5892,13 @@ a
 sitin
 strike
 some
-300
 meters
 underground
 slovak
 media
 reported
 on
-6
 and
-7
 august
 the
 mine
@@ -5996,7 +5922,6 @@ about
 one
 billion
 crowns
-33
 million
 in
 debt
@@ -6122,7 +6047,6 @@ outside
 basapress
 reported
 on
-6
 august
 michael
 shafirbulgarian
@@ -6138,7 +6062,6 @@ colgen
 tsvetan
 totomirov
 on
-7
 august
 told
 standart
@@ -6281,14 +6204,12 @@ during
 the
 night
 of
-67
 august
 and
 as
 of
 midmorning
 on
-7
 august
 the
 chechen
@@ -6303,7 +6224,6 @@ city
 reuters
 reported
 on
-6
 august
 the
 russians
@@ -6312,13 +6232,11 @@ four
 helicopter
 gunships
 and
-23
 russian
 troops
 were
 killed
 and
-91
 injured
 according
 to
@@ -6447,7 +6365,6 @@ back
 at
 work
 on
-6
 august
 following
 a
@@ -6525,7 +6442,6 @@ which
 would
 save
 the
-6
 billion
 rubles
 that
@@ -6584,7 +6500,6 @@ and
 ntv
 reported
 on
-6
 august
 no
 kprf
@@ -6673,7 +6588,6 @@ international
 media
 reported
 on
-6
 august
 the
 law
@@ -6702,7 +6616,6 @@ who
 invest
 more
 than
-40
 million
 annually
 in

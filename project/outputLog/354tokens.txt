@@ -1,13 +1,11 @@
 nemzet
 jlius
-14
 vasrnap
 nemzet
 magyar
 internet
-vilglap1996
+vilglap
 jlius
-14
 vasrnaphttpwwwsiliconvalleycomnemzethtmlsubsnemzetmagyarsiliconvalleycomaz
 emigrci
 elleni
@@ -153,7 +151,7 @@ nev
 budapesti
 napilap
 jlius
-1i
+i
 cikkt
 ime
 a
@@ -181,7 +179,7 @@ tiszteletbeli
 konzulokhozmagyar
 hrlap
 jul
-1dajka
+dajka
 blamagyarorszg
 gazdasgi
 politikai
@@ -398,7 +396,7 @@ azokat
 hamarosan
 ismt
 megnyithatjkaz
-1997es
+es
 kltsgvets
 kidolgozsval
 vrhatan
@@ -547,7 +545,7 @@ egy
 asztalnl
 megjelenjenek
 aki
-1956ban
+ban
 a
 forradalmat
 s
@@ -569,7 +567,7 @@ legtiszteletremltbb
 vezetinek
 len
 az
-1956os
+os
 szabadsgharcosok
 llnak
 aki
@@ -582,7 +580,7 @@ emigrcirl
 tudja
 hogy
 az
-1956os
+os
 forradalom
 s
 szabadsgharc
@@ -738,7 +736,7 @@ liberlbolsevik
 ukzt
 hogy
 semmik
-vagytok1989
+vagytok
 utn
 tisztsgbe
 kerlt
@@ -1124,7 +1122,6 @@ jl
 tudja
 hogy
 legalbb
-400
 vlasztott
 vezetj
 szervezet
@@ -1356,7 +1353,7 @@ hogy
 egyre
 inkbb
 az
-1956ban
+ban
 is
 akkor
 fegyverrel
@@ -1641,15 +1638,13 @@ mint
 az
 anyaorszgbelieknl
 magyarorszgon
-1992ben
+ben
 a
 lakossg
-23
 szzalka
 tekintette
 elnysnek
 mg
-28
 szzallka
 htrnyosnak
 a
@@ -1822,7 +1817,7 @@ hozzjrult
 ahhoz
 hogy
 mg
-1980as
+as
 felmrsnk
 negyven
 htvgi
@@ -2370,7 +2365,7 @@ egyhzak
 felelseire
 hogy
 a
-2000es
+es
 npszmlls
 eredmnye
 ne
@@ -2396,11 +2391,9 @@ ti
 albrletbenborbly
 zsolt
 attilademokrata
-28
 az
-1920
 jnius
-4n
+n
 alrt
 trianoni
 bkedikttum
@@ -2958,7 +2951,6 @@ vtizedeiben
 s
 nyilvn
 az
-1989
 utn
 hatalomra
 jutott
@@ -3101,7 +3093,7 @@ legfbb
 nemzeti
 idelja
 az
-191820as
+as
 egyesls
 utn
 megszerzett
@@ -3535,7 +3527,6 @@ kz
 val
 felsorakozst
 jelent
-1848
 a
 romnsgban
 csak
@@ -3571,7 +3562,7 @@ folyamatot
 csak
 serkentette
 hogy
-1867ben
+ben
 erdly
 egyeslt
 magyarorszggal
@@ -3660,7 +3651,7 @@ romn
 nemzeti
 mozgalmak
 harmadik
-1848as
+as
 szellemisgnek
 majd
 minden
@@ -4301,7 +4292,7 @@ a
 magyarorszgi
 trtnelemhamistst
 leleplezendaz
-1989es
+es
 esemnyek
 a
 forradalmi
@@ -4434,7 +4425,6 @@ romn
 interpretcijt
 valamint
 az
-1989
 utn
 beindult
 idegenforgalomnak
@@ -4545,7 +4535,7 @@ ideig
 vrat
 magra
 az
-1989es
+es
 puccs
 utn
 hatalomra
@@ -4654,7 +4644,6 @@ a
 nemzetnek
 rvidtve
 az
-1878
 vi
 v
 trvnycikkben
@@ -4687,7 +4676,6 @@ rend
 hatlyosabb
 vdelmrl
 szl
-1921
 vi
 iii
 trvnycikk
@@ -4751,7 +4739,6 @@ kztrsasg
 bntetjogi
 vdelmrl
 szl
-1946
 vi
 vii
 trvnycikk
@@ -4759,7 +4746,6 @@ a
 csemegikdex
 idzett
 rendelkezse
-1722
 helybe
 a
 demokratikus
@@ -4786,7 +4772,7 @@ szablyok
 hivatalos
 sszelltsa
 bh
-19552ben
+ben
 az
 llam
 bel
@@ -4825,7 +4811,6 @@ visszalltsra
 trekvs
 bncselekmnynek
 minsltaz
-1961
 vi
 v
 trvnnyel
@@ -4873,11 +4858,9 @@ s
 gyalzkods
 klnbsgvel
 jellemezhetaz
-1978
 vi
 iv
 trvny
-148
 cikkelyben
 clzatos
 bncselekmnyknt
@@ -4954,7 +4937,7 @@ egyb
 ilyen
 cselekmnyt
 kvetett
-el1989ben
+elben
 az
 alkotmnybrsg
 ltal
@@ -4980,7 +4963,6 @@ s
 trvnyi
 elhelyezst
 az
-1989
 vi
 xxv
 trvny
@@ -5035,9 +5017,7 @@ bntetni
 a
 cselekmnytaz
 alkotmnybrsg
-301992
 v
-26
 ab
 hatrozatval
 alkotmnyellenesnek
@@ -5048,16 +5028,13 @@ hatlyos
 bntet
 trvnyknyvnek
 az
-1989
 vi
 xxv
 trvny
-15
 cikkelyvel
 megllaptott
 szvege
 szerinti
-2692
 bekezdst
 ez
 gy

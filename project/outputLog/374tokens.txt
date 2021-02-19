@@ -1,6 +1,6 @@
 nemzet
-19960830nemzet
-19960830n
+nemzet
+n
 n
 eeeeeee
 m
@@ -128,7 +128,6 @@ anyagot
 szabadon
 utankozolhetonek
 tart
-1
 hatarontulalkotmanyellenes
 a
 rendkivuli
@@ -139,7 +138,6 @@ erdelyi
 magyarjaink
 elarulasa
 ugyebenkedden
-13
 orakor
 ul
 ossze
@@ -190,7 +188,6 @@ a
 kormany
 kepviseloje
 mindketten
-20
 percet
 beszelhetnek
 a
@@ -327,7 +324,7 @@ lapnak
 nyilatkozva
 kozolte
 szeptember
-5en
+en
 magyarorszagon
 tartanak
 magyarmagyar
@@ -363,7 +360,7 @@ allaspontja
 szerint
 az
 et
-1201es
+es
 ajanlasa
 akkor
 sem
@@ -781,7 +778,6 @@ tett
 a
 romanoknak
 nsz
-2
 gazdasaga
 bankszektor
 piszkos
@@ -804,7 +800,7 @@ hozott
 jelentese
 amely
 az
-19921994ben
+ben
 vegrehajtott
 hitel
 bank
@@ -1027,7 +1023,6 @@ latasi
 hibakat
 egy
 kezelesert
-5060
 ezer
 forintot
 kertek
@@ -1063,7 +1058,7 @@ a
 klinikat
 penzmosasra
 hasznaltak
-nsz3
+nsz
 belfoldtandijnal
 aprankenti
 bevezetest
@@ -1091,7 +1086,6 @@ a
 jelenlegi
 hatarozott
 osszeg
-8600
 forint
 helyett
 a
@@ -1100,7 +1094,6 @@ szerint
 a
 mindenkori
 minimalnyugdij
-90
 szazaleka
 felso
 hatara
@@ -1223,13 +1216,13 @@ alkotmany
 szeretnek
 ha
 november
-30ig
+ig
 elkeszulne
 a
 normaszoveg
 azt
 majus
-30ig
+ig
 az
 orszaggyules
 elfogadna
@@ -1481,7 +1474,7 @@ tovabbi
 kettot
 a
 munkavallalok
-delegalnak1997
+delegalnak
 januarban
 mhaz
 szdsz
@@ -1528,7 +1521,6 @@ bizonyitjak
 a
 jelenlegi
 minimalber
-16400
 forint
 a
 pedagogusok
@@ -1624,7 +1616,6 @@ azon
 lesz
 hogy
 a
-4
 ellenzeki
 part
 minel
@@ -1662,7 +1653,6 @@ alapszerzodes
 teljes
 szovegea
 legalabb
-158
 millios
 usa
 hungarian
@@ -1945,8 +1935,7 @@ a
 kovetkezokben
 allapodtak
 meg
-1
-cikk1
+cikk
 a
 magyar
 koztarsasag
@@ -1975,7 +1964,7 @@ bizalomra
 alapozni
 ami
 nincs
-ugorgyunk2
+ugorgyunk
 a
 szerzodo
 felek
@@ -2064,8 +2053,8 @@ a
 magyar
 kisebbsegek
 jogainak
-zaloga2
-cikk1
+zaloga
+cikk
 a
 szerzodo
 felek
@@ -2117,7 +2106,7 @@ nem
 jogilag
 vegrehajthato
 kategoria
-ugorgyunk2
+ugorgyunk
 a
 szerzodo
 felek
@@ -2172,8 +2161,8 @@ nem
 jogilag
 vegrehajthato
 kategoria
-ugorgyunk3
-cikk1
+ugorgyunk
+cikk
 a
 szerzodo
 felek
@@ -2255,7 +2244,7 @@ cikkely
 hibas
 es
 nem
-vegrehajthato2
+vegrehajthato
 a
 szerzodo
 felek
@@ -2287,7 +2276,7 @@ bekes
 eszkoz
 hiszen
 puskaloves
-nincs4
+nincs
 cikk
 a
 szerzodo
@@ -2354,8 +2343,8 @@ kimeriti
 a
 hazaarulas
 minden
-fogalmat5
-cikk1
+fogalmat
+cikk
 a
 szerzodo
 felek
@@ -2391,7 +2380,7 @@ szerzodo
 felek
 vetnek
 papirra
-ugorgyunk2
+ugorgyunk
 a
 szerzodo
 felek
@@ -2417,7 +2406,7 @@ az
 hogy
 kiemelt
 hely
-ugorgyunk3
+ugorgyunk
 kulonbozo
 szinteken
 rendszeres
@@ -2473,7 +2462,7 @@ baromsagok
 csupan
 kirakatrendezest
 szolgalnak
-ugorgyunk4
+ugorgyunk
 a
 kulonbozo
 egyeb
@@ -2497,8 +2486,8 @@ megegyezes
 ures
 kitoltendo
 kesobb
-ugorgyunk6
-cikk1
+ugorgyunk
+cikk
 a
 szerzodo
 felek
@@ -2531,7 +2520,7 @@ tokeletesen
 definialatlan
 link
 duma
-ugorgyunk2
+ugorgyunk
 ha
 a
 szerzodo
@@ -2607,7 +2596,7 @@ barmit
 tokeletesen
 ures
 baromsag
-ugorgyunk3
+ugorgyunk
 a
 szerzodo
 felek
@@ -2674,7 +2663,7 @@ hogy
 a
 magyarok
 fasisztak
-ugorgyunk4
+ugorgyunk
 a
 ket
 szerzodo
@@ -2717,8 +2706,8 @@ leleplezi
 az
 egesz
 szoveg
-uresseget7
-cikk1
+uresseget
+cikk
 a
 szerzodo
 felek
@@ -2798,7 +2787,7 @@ tamogatja
 romania
 ezekbe
 valo
-feltetelet2
+feltetelet
 a
 szerzodo
 felek
@@ -2866,8 +2855,8 @@ tartoznak
 definialatlanok
 es
 vegrehajthatatlanok
-ugorgyunk8
-cikk1
+ugorgyunk
+cikk
 a
 szerzodo
 felek
@@ -2903,7 +2892,7 @@ lehet
 mondani
 hogy
 fejlesztettem
-ugorgyunk2
+ugorgyunk
 e
 celbol
 belso
@@ -2984,7 +2973,7 @@ ugy
 hivjak
 hogy
 egyenrangu
-ugorgyunk3
+ugorgyunk
 a
 szerzodo
 felek
@@ -3018,7 +3007,7 @@ egyetlen
 vilagos
 es
 helyeselheto
-mondata4
+mondata
 a
 szerzodo
 felek
@@ -3053,8 +3042,8 @@ baromsag
 definialatlan
 es
 vegrehajthatatlan
-ugorgyunk9
-cikk1
+ugorgyunk
+cikk
 a
 szerzodo
 felek
@@ -3105,7 +3094,7 @@ lehet
 mindketto
 elobbre
 egymasnal
-ugorgyunk2
+ugorgyunk
 a
 szerzodo
 felek
@@ -3139,8 +3128,8 @@ batoritjak
 definialatlan
 es
 vegrehajthatatlan
-ugorgyunk10
-cikk1
+ugorgyunk
+cikk
 a
 szerzodo
 felek
@@ -3175,7 +3164,7 @@ hogy
 egyuttmukodtunk
 pl
 kotelhuzasban
-ugorgyunk2
+ugorgyunk
 kornyezeti
 katasztrofa
 vagy
@@ -3210,7 +3199,6 @@ haladektalanul
 miert
 nem
 mondjuk
-24
 oran
 belul
 mi
@@ -3228,8 +3216,8 @@ is
 ha
 az
 felretajekoztatas
-ugorgyunk11
-cikk1
+ugorgyunk
+cikk
 a
 szerzodo
 felek
@@ -3272,7 +3260,7 @@ baromsag
 definialatlan
 es
 vegrehajthatatlan
-ugorgyunk2
+ugorgyunk
 a
 szerzodo
 felek
@@ -3317,8 +3305,8 @@ is
 halhatunk
 egymas
 lelovesebe
-ugorgyunk12
-cikk1
+ugorgyunk
+cikk
 a
 szerzodo
 felek
@@ -3353,7 +3341,7 @@ fejlesztese
 definialatlan
 es
 vegrehajthatatlan
-ugorgyunk2
+ugorgyunk
 a
 szerzodo
 felek
@@ -3391,7 +3379,7 @@ teljesen
 fiktiv
 definialatlan
 kategoria
-ugorgyunk3
+ugorgyunk
 a
 szerzodo
 felek
@@ -3450,7 +3438,7 @@ tamogatjak
 ures
 semmitmondo
 baromsagok
-ugorgyunk4
+ugorgyunk
 a
 szerzodo
 felek
@@ -3497,7 +3485,7 @@ hogy
 batoritjak
 tokeletesen
 ures
-maszlag5
+maszlag
 a
 szerzodo
 felek
@@ -3551,7 +3539,6 @@ mondhatja
 hogy
 megvizsgaltam
 ugorgyunk
-6
 mindket
 szerzodo
 fel
@@ -3610,7 +3597,7 @@ nincs
 penzed
 ra
 negyedik
-hazaarulas7
+hazaarulas
 a
 szerzodo
 felek
@@ -3644,7 +3631,7 @@ hogy
 tamogatjak
 ja
 mind
-fennt8
+fennt
 az
 ebben
 a
@@ -3713,8 +3700,8 @@ fentiek
 csupan
 ures
 maszlagul
-szolgaltak13
-cikk1
+szolgaltak
+cikk
 a
 szerzodo
 felek
@@ -3752,7 +3739,7 @@ hogy
 matyas
 kiraly
 roman
-volt2
+volt
 a
 szerzodo
 felek
@@ -3812,7 +3799,7 @@ nem
 szerzodes
 hanem
 propagandaanyag
-ugorgyunk14
+ugorgyunk
 cikk
 a
 szerzodo
@@ -3875,8 +3862,8 @@ romania
 majd
 betart
 az
-igaz15
-cikk1
+igaz
+cikk
 a
 a
 szerzodo
@@ -4038,7 +4025,7 @@ a
 legocsmanyabb
 arulokon
 is
-tultesz2
+tultesz
 a
 szerzodo
 felek
@@ -4151,7 +4138,7 @@ onkentes
 penzugyi
 hozzajarulasert
 persze
-folyamodhatnak3
+folyamodhatnak
 a
 szerzodo
 felek
@@ -4322,7 +4309,7 @@ magyarok
 vagyis
 minden
 mondjuk
-90ot
+ot
 meghalado
 magyar
 lakossagu
@@ -4341,7 +4328,7 @@ definialtak
 mi
 az
 hogy
-jelentos4
+jelentos
 a
 szerzodo
 felek
@@ -4425,7 +4412,7 @@ legjobban
 hogy
 mindez
 csak
-maszlag5
+maszlag
 a
 szerzodo
 felek
@@ -4533,7 +4520,7 @@ lehet
 tudni
 kiket
 kell
-kinyirni6
+kinyirni
 a
 szerzodo
 felek
@@ -4590,7 +4577,7 @@ megtisztelik
 majd
 romansaga
 megfelelo
-elismeresevel6bis
+elismeresevelbis
 a
 szerzodo
 felek
@@ -4661,7 +4648,7 @@ lesz
 mibol
 beszeljunk
 rola
-ujra7
+ujra
 a
 szerzodo
 felek
@@ -4724,7 +4711,7 @@ a
 kiutazast
 lattunk
 mar
-ilyet8
+ilyet
 a
 szerzodo
 felek
@@ -4795,7 +4782,7 @@ erdeket
 visszautasithato
 ettunk
 mar
-ilyet9
+ilyet
 a
 szerzodo
 felek
@@ -4860,7 +4847,6 @@ szemelyeknek
 az
 ezen
 cikk
-1
 bekezdeseben
 felsorolt
 nemzetkozi
@@ -4916,7 +4902,7 @@ eszre
 ezt
 a
 mocskos
-atverest10
+atverest
 a
 szerzodo
 felek
@@ -4938,7 +4924,6 @@ celbol
 a
 jelen
 szerzodes
-5
 cikkeben
 emlitett
 rendszeres
@@ -5017,7 +5002,7 @@ kiherelt
 irodakukackent
 kivanjak
 eletuket
-leelni11
+leelni
 a
 szerzodo
 felek
@@ -5064,7 +5049,7 @@ huzzuk
 a
 kotel
 ket
-veget12
+veget
 az
 ebben
 a
@@ -5149,7 +5134,7 @@ alengedmeny
 ervenyet
 veszti
 ujabb
-hazaarulas16
+hazaarulas
 cikk
 a
 szerzodo
@@ -5197,8 +5182,8 @@ mellebeszeles
 ki
 veszi
 ezt
-be17
-cikk1
+be
+cikk
 a
 szerzodo
 felek
@@ -5250,7 +5235,7 @@ lenyeges
 lemondasrol
 eltereljek
 a
-figyelmet2
+figyelmet
 a
 szerzodo
 felek
@@ -5294,7 +5279,7 @@ megvizsgaltam
 mondjak
 majd
 a
-romanok18
+romanok
 cikk
 a
 szerzodo
@@ -5343,8 +5328,8 @@ nem
 erinti
 az
 altalanos
-integraciot19
-cikk1
+integraciot
+cikk
 a
 szerzodo
 felek
@@ -5367,7 +5352,7 @@ es
 elosegitik
 tokeletesen
 definialatlan
-baromsag2
+baromsag
 a
 szerzodo
 felek
@@ -5432,8 +5417,8 @@ hulye
 aki
 mindezt
 komolyan
-veszi20
-cikk1
+veszi
+cikk
 a
 szerzodo
 felek
@@ -5508,7 +5493,7 @@ akkor
 beleirni
 ebbe
 a
-szerzodesbe2
+szerzodesbe
 a
 szerzodo
 felek
@@ -5554,8 +5539,8 @@ ld
 kotelhuzas
 fenti
 peldait
-baromsag21
-cikk1
+baromsag
+cikk
 a
 szerzodo
 felek
@@ -5702,7 +5687,7 @@ olyan
 magyar
 aki
 ebbe
-belemegy2
+belemegy
 a
 szerzodo
 felek
@@ -5745,7 +5730,7 @@ megerositi
 az
 elozo
 kibuvasi
-lehetosegeket22
+lehetosegeket
 cikk
 ez
 a
@@ -5784,7 +5769,7 @@ szerzodeshez
 mint
 alairas
 es
-datum23
+datum
 cikk
 ezt
 a
@@ -5875,7 +5860,7 @@ kovetkezmenyekkel
 ez
 homalyban
 marad
-szandekosan24
+szandekosan
 cikk
 ezt
 a
@@ -5913,9 +5898,8 @@ megallapitjak
 hogy
 a
 bukarestben
-1972
 februar
-24en
+en
 alairt
 baratsagi
 egyuttmukodesi
@@ -5943,9 +5927,9 @@ formailag
 nem
 ellentetese
 a
-72es
+es
 felmondasi
-szabalyaival25
+szabalyaival
 cikk
 ez
 a
@@ -5955,7 +5939,6 @@ egyesult
 nemzetek
 szervezete
 alapokmanya
-102
 cikkenek
 megfelelon
 az
@@ -5966,7 +5949,6 @@ kerul
 keszult
 n
 az
-1996
 ev
 napjan
 ket
@@ -6006,11 +5988,10 @@ joszomszedi
 viszonyrol
 szolo
 szerzodes
-15
 cikkenek
-1b
+b
 bekezdese
-vonatkozik1
+vonatkozik
 az
 europai
 biztonsagi
@@ -6022,16 +6003,14 @@ dimenzioval
 foglalkozo
 koppenhagai
 talalkozojanak
-1990
 junius
-29en
+en
 kelt
-dokumentuma2
+dokumentuma
 az
 egyesult
 nemzetek
 kozgyulese
-13547
 szamu
 a
 nemzeti
@@ -6045,14 +6024,12 @@ tartozo
 szemelyek
 jogairol
 szolo
-nyilatkozata3
+nyilatkozata
 az
 europa
 tanacs
 parlamenti
 kozgyulesenek
-1201
-1993
 sz
 ajanlasa
 az
@@ -6075,7 +6052,7 @@ egyetertenek
 abban
 hogy
 az
-1201es
+es
 ajanlas
 nem
 hivatkozik

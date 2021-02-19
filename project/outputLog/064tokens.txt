@@ -1,8 +1,6 @@
 april
-18
-1994
 met
-09student
+student
 report
 seventhis
 is
@@ -284,11 +282,10 @@ say
 the
 photos
 from
-sts42
+sts
 roll
-97
 frame
-143thats
+thats
 the
 only
 other
@@ -486,7 +483,6 @@ is
 for
 you
 sts
-68
 the
 second
 srl
@@ -731,7 +727,7 @@ all
 week
 oops
 for
-sts59
+sts
 the
 space
 radar

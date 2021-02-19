@@ -1,6 +1,6 @@
 nemzet
-19960702nemzet
-19960702n
+nemzet
+n
 n
 eeeeeee
 m
@@ -127,7 +127,7 @@ hetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfolda
 magyar
 emigracio
@@ -147,7 +147,7 @@ horn
 gyula
 volt
 munkasor
-1956os
+os
 szabadsagharcosokat
 gyilkolo
 testulet
@@ -554,7 +554,6 @@ veget
 vetett
 a
 kommunistak
-75
 eve
 tarto
 hatalmanak
@@ -563,19 +562,16 @@ koalicios
 demokratikus
 unio
 eddig
-48
 kepviseloi
 helyet
 szerzett
 meg
 a
-76
 tagu
 nagy
 nepi
 huralban
 az
-1921
 ota
 uralmon
 levo
@@ -584,10 +580,9 @@ nepi
 forradalmi
 partnak
 mindossze
-23
 hely
 jutott
-mh2
+mh
 gazdasagtetenyi
 labcsokra
 ment
@@ -700,7 +695,6 @@ cimmel
 kifejti
 az
 elkovetkezendo
-23
 ev
 feladata
 lesz
@@ -785,7 +779,7 @@ hazudozokra
 szavaztak
 oly
 sokan
-1994ben
+ben
 ezeknel
 meg
 kadarek
@@ -897,18 +891,16 @@ is
 nagyokki
 akarja
 horn
-360as
+as
 kenyeret
 enni
 mar
 most
-100
 ft
 ev
 vegere
 latunk
 majd
-150
 ftost
 iskaposvarott
 a
@@ -939,23 +931,18 @@ arversenyt
 a
 sutev
 rt
-90
 dekas
 balatoni
 kenyere
-83
 forintba
 a
-85
 forintos
 krumplis
 tegnap
 ota
-113
 a
 rozsos
 pedig
-100
 forintba
 kerul
 a
@@ -980,7 +967,6 @@ hogy
 a
 szeptemberre
 tervezett
-2025
 szazalekos
 energiaaremeles
 ismet
@@ -996,14 +982,12 @@ liszt
 kilonkenti
 ara
 megallna
-4445
 forintnal
 ugy
 ez
 ev
 vegeig
 tovabbi
-15
 szazalekos
 atlagarbovulesre
 lehet
@@ -1012,7 +996,6 @@ szamitani
 mn
 um
 a
-115
 ftos
 elorejelzesnel
 biztos
@@ -1020,7 +1003,7 @@ tobb
 lesz
 csak
 kerdes
-mennyivel3
+mennyivel
 belfoldosszedolt
 peto
 balkotmanya
@@ -1090,7 +1073,7 @@ mh
 lapinformaciok
 szerint
 junius
-26an
+an
 bihari
 mihaly
 szocialista
@@ -1371,7 +1354,6 @@ tavaly
 horn
 gyula
 miniszterelnok
-26
 szazalek
 koruli
 beremelest
@@ -1417,7 +1399,6 @@ nyilatkozatban
 tiltakozik
 a
 fovarosban
-600
 korhazi
 agy
 tervbe
@@ -1436,7 +1417,6 @@ az
 egeszsegugyi
 szakdolgozok
 koreben
-25
 szazalekos
 munkanelkuliseget
 okozna
@@ -1451,7 +1431,7 @@ korhazleepitesrol
 szolo
 torvenytervezet
 julius
-3ai
+ai
 vegszavazasa
 elott
 arra
@@ -1509,13 +1489,11 @@ agy
 megszunne
 a
 noverek
-1617
 szazaleka
 kerulne
 utcara
 holott
 jelenleg
-12
 ezer
 be
 nem
@@ -1558,9 +1536,9 @@ kormany
 na
 es
 miniszterelnok
-56ban
+ban
 gyilkolt
-96ban
+ban
 szazmillios
 palotat
 epitett
@@ -1576,7 +1554,6 @@ allamigazgatas
 teruleti
 szerveinel
 dolgozo
-13800
 felsofoku
 vegzettsegu
 koztisztviselo
@@ -1589,7 +1566,6 @@ a
 kormannyal
 megallapodasban
 rogzitett
-10
 szazalekos
 illetmenykiegeszitest
 sulyos
@@ -1689,7 +1665,6 @@ koztisztviselok
 koreben
 vegrehajtando
 mintegy
-10
 szazalekos
 letszamcsokkentes
 lehetoseget
@@ -1705,9 +1680,7 @@ hogy
 a
 koztisztviseloi
 illetmenyalapot
-20
 ezerrol
-23
 ezer
 forintra
 emeljek
@@ -1725,7 +1698,6 @@ elmondta
 a
 tarcanal
 elvileg
-54
 fot
 kellene
 leepiteni
@@ -1952,7 +1924,6 @@ a
 most
 szolgalatba
 lepo
-226
 rendortiszt
 felivelo
 palyat
@@ -2022,10 +1993,8 @@ felmeresbol
 kiderul
 a
 hazai
-16
 eveseknek
 mintegy
-10
 szazaleka
 legalabb
 egyszer
@@ -2041,13 +2010,11 @@ mutatjak
 az
 ilyen
 fiatalok
-35
 szazaleka
 drogfuggove
 valik
 vagyis
 szaz
-16
 evesbol
 egy
 nagy
@@ -2103,7 +2070,7 @@ megsemmisitette
 a
 fovarosi
 kozgyules
-1993ban
+ban
 alkotott
 parkolasi
 rendeletenek
@@ -2224,7 +2191,7 @@ fegyverrel
 magyar
 forum
 junius
-27furge
+furge
 eszjarasu
 ember
 eorsi
@@ -2293,7 +2260,7 @@ hangosan
 ellenzo
 eorsi
 a
-2es
+es
 villamosrol
 mar
 mint
@@ -2673,7 +2640,6 @@ felelose
 egyertelmuen
 a
 kapitalizacio
-89
 utan
 az
 alapveto
@@ -2824,7 +2790,7 @@ hering
 jozsefmagyar
 forum
 junius
-27csoori
+csoori
 sandor
 a
 magyarok
@@ -2848,7 +2814,6 @@ allami
 megemlekezest
 a
 honfoglallas
-1100
 evfordulojan
 a
 keseruseg
@@ -3088,7 +3053,6 @@ hogy
 szaz
 evvel
 ezelott
-1896
 elso
 orajaban
 ugy
@@ -3104,9 +3068,8 @@ harangok
 ez
 jutott
 eszembe
-1996
 junius
-16an
+an
 este
 a
 budapesti
@@ -3441,7 +3404,7 @@ amerikai
 elnok
 es
 az
-56os
+os
 nepfelkeles
 aktiv
 ellensege
@@ -3751,7 +3714,7 @@ gy
 laszlo
 a
 junius
-29i
+i
 magyar
 nemzetben
 oly
@@ -4350,7 +4313,6 @@ azt
 a
 szintet
 amely
-1996
 nyarara
 emelkedett
 hanem
@@ -4672,22 +4634,16 @@ that
 liberals
 love
 to
-hate960630
+hate
 a
 genuine
 lovas
 co
-3622
-350633
 fax
-3622
-350487
 mobile
-0620423364
-100263427compuservecombicske
+compuservecombicske
 pf
-99hungary
-2061
+hungary
 budapest
 week
 the
@@ -4698,7 +4654,6 @@ truth
 and
 history
 june
-2026
 laszlo
 petrovicsoffner
 discovers
@@ -4717,7 +4672,6 @@ of
 the
 revolution
 of
-1956
 and
 hungarian
 natives
@@ -4881,7 +4835,6 @@ appearances
 on
 russian
 television
-1
 july
 gave
 no
@@ -4898,7 +4851,6 @@ crucial
 campaigning
 before
 the
-3
 july
 runoff
 he
@@ -4984,7 +4936,6 @@ before
 balloting
 begins
 on
-1
 july
 stressed
 the
@@ -5073,7 +5024,6 @@ chechen
 war
 and
 reducing
-80
 of
 russian
 citizens
@@ -5095,7 +5045,6 @@ remarks
 to
 journalists
 on
-2
 july
 security
 council
@@ -5173,7 +5122,6 @@ mayor
 yurii
 luzhkov
 on
-1
 july
 to
 discuss
@@ -5238,7 +5186,6 @@ on
 the
 document
 on
-8
 july
 he
 promised
@@ -5313,7 +5260,6 @@ runoff
 afp
 reported
 on
-1
 july
 he
 won
@@ -5326,7 +5272,6 @@ in
 the
 first
 round
-57
 of
 those
 voting
@@ -5405,7 +5350,6 @@ petersburg
 afp
 reported
 on
-1
 july
 the
 refusal
@@ -5444,7 +5388,6 @@ lebed
 told
 reporters
 on
-2
 july
 that
 he
@@ -5493,7 +5436,6 @@ and
 destroyed
 more
 than
-60
 graves
 at
 warsaws
@@ -5503,7 +5445,6 @@ polish
 media
 reported
 on
-2
 july
 a
 police
@@ -5526,7 +5467,6 @@ on
 the
 night
 of
-28
 june
 the
 police
@@ -5557,7 +5497,6 @@ chief
 rabbi
 of
 the
-1000
 or
 so
 jews
@@ -5602,7 +5541,6 @@ jewish
 community
 leaders
 on
-1
 july
 pledged
 his
@@ -5670,7 +5608,6 @@ president
 vaclav
 havel
 on
-2
 july
 ctk
 reported
@@ -5688,7 +5625,6 @@ with
 a
 list
 of
-16
 ministers
 in
 a
@@ -5776,7 +5712,6 @@ the
 parliamentary
 session
 on
-1
 july
 slovakias
 ruling
@@ -5904,7 +5839,6 @@ a
 monument
 commemorating
 the
-1100
 anniversary
 of
 hungarian
@@ -5924,7 +5858,6 @@ officials
 visiting
 bratislava
 on
-1
 july
 warned
 that
@@ -6050,7 +5983,6 @@ finance
 ministry
 officials
 on
-1
 july
 that
 hungarys
@@ -6082,7 +6014,6 @@ hungarian
 dailies
 reported
 on
-2
 july
 the
 imf
@@ -6100,7 +6031,6 @@ in
 march
 of
 a
-387
 million
 standby
 credit
@@ -6130,10 +6060,8 @@ account
 deficit
 stays
 below
-2
 billion
 in
-1996
 finance
 minister
 peter
@@ -6158,7 +6086,6 @@ the
 budget
 deficit
 below
-39
 of
 gdp
 and
@@ -6176,9 +6103,7 @@ dropping
 by
 more
 than
-2
 in
-1996
 as
 promised
 to
@@ -6212,7 +6137,6 @@ arrived
 in
 bucharest
 on
-1
 july
 on
 the
@@ -6235,7 +6159,6 @@ media
 reported
 addressing
 some
-3000
 people
 at
 revolution
@@ -6332,7 +6255,6 @@ before
 leaving
 romania
 on
-2
 july
 she
 is
@@ -6358,7 +6280,6 @@ president
 mircea
 snegur
 on
-1
 july
 said
 the
@@ -6421,7 +6342,6 @@ memorandum
 was
 initialed
 on
-28
 june
 following
 talks
@@ -6523,7 +6443,7 @@ hetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfolda
 magyar
 emigracio
@@ -6543,7 +6463,7 @@ horn
 gyula
 volt
 munkasor
-1956os
+os
 szabadsagharcosokat
 gyilkolo
 testulet
@@ -6950,7 +6870,6 @@ veget
 vetett
 a
 kommunistak
-75
 eve
 tarto
 hatalmanak
@@ -6959,19 +6878,16 @@ koalicios
 demokratikus
 unio
 eddig
-48
 kepviseloi
 helyet
 szerzett
 meg
 a
-76
 tagu
 nagy
 nepi
 huralban
 az
-1921
 ota
 uralmon
 levo
@@ -6980,10 +6896,9 @@ nepi
 forradalmi
 partnak
 mindossze
-23
 hely
 jutott
-mh2
+mh
 gazdasagtetenyi
 labcsokra
 ment
@@ -7096,7 +7011,6 @@ cimmel
 kifejti
 az
 elkovetkezendo
-23
 ev
 feladata
 lesz
@@ -7181,7 +7095,7 @@ hazudozokra
 szavaztak
 oly
 sokan
-1994ben
+ben
 ezeknel
 meg
 kadarek
@@ -7293,18 +7207,16 @@ is
 nagyokki
 akarja
 horn
-360as
+as
 kenyeret
 enni
 mar
 most
-100
 ft
 ev
 vegere
 latunk
 majd
-150
 ftost
 iskaposvarott
 a
@@ -7335,23 +7247,18 @@ arversenyt
 a
 sutev
 rt
-90
 dekas
 balatoni
 kenyere
-83
 forintba
 a
-85
 forintos
 krumplis
 tegnap
 ota
-113
 a
 rozsos
 pedig
-100
 forintba
 kerul
 a
@@ -7376,7 +7283,6 @@ hogy
 a
 szeptemberre
 tervezett
-2025
 szazalekos
 energiaaremeles
 ismet
@@ -7392,14 +7298,12 @@ liszt
 kilonkenti
 ara
 megallna
-4445
 forintnal
 ugy
 ez
 ev
 vegeig
 tovabbi
-15
 szazalekos
 atlagarbovulesre
 lehet
@@ -7408,7 +7312,6 @@ szamitani
 mn
 um
 a
-115
 ftos
 elorejelzesnel
 biztos
@@ -7416,7 +7319,7 @@ tobb
 lesz
 csak
 kerdes
-mennyivel3
+mennyivel
 belfoldosszedolt
 peto
 balkotmanya
@@ -7486,7 +7389,7 @@ mh
 lapinformaciok
 szerint
 junius
-26an
+an
 bihari
 mihaly
 szocialista
@@ -7767,7 +7670,6 @@ tavaly
 horn
 gyula
 miniszterelnok
-26
 szazalek
 koruli
 beremelest
@@ -7813,7 +7715,6 @@ nyilatkozatban
 tiltakozik
 a
 fovarosban
-600
 korhazi
 agy
 tervbe
@@ -7832,7 +7733,6 @@ az
 egeszsegugyi
 szakdolgozok
 koreben
-25
 szazalekos
 munkanelkuliseget
 okozna
@@ -7847,7 +7747,7 @@ korhazleepitesrol
 szolo
 torvenytervezet
 julius
-3ai
+ai
 vegszavazasa
 elott
 arra
@@ -7905,13 +7805,11 @@ agy
 megszunne
 a
 noverek
-1617
 szazaleka
 kerulne
 utcara
 holott
 jelenleg
-12
 ezer
 be
 nem
@@ -7954,9 +7852,9 @@ kormany
 na
 es
 miniszterelnok
-56ban
+ban
 gyilkolt
-96ban
+ban
 szazmillios
 palotat
 epitett
@@ -7972,7 +7870,6 @@ allamigazgatas
 teruleti
 szerveinel
 dolgozo
-13800
 felsofoku
 vegzettsegu
 koztisztviselo
@@ -7985,7 +7882,6 @@ a
 kormannyal
 megallapodasban
 rogzitett
-10
 szazalekos
 illetmenykiegeszitest
 sulyos
@@ -8085,7 +7981,6 @@ koztisztviselok
 koreben
 vegrehajtando
 mintegy
-10
 szazalekos
 letszamcsokkentes
 lehetoseget
@@ -8101,9 +7996,7 @@ hogy
 a
 koztisztviseloi
 illetmenyalapot
-20
 ezerrol
-23
 ezer
 forintra
 emeljek
@@ -8121,7 +8014,6 @@ elmondta
 a
 tarcanal
 elvileg
-54
 fot
 kellene
 leepiteni
@@ -8348,7 +8240,6 @@ a
 most
 szolgalatba
 lepo
-226
 rendortiszt
 felivelo
 palyat
@@ -8418,10 +8309,8 @@ felmeresbol
 kiderul
 a
 hazai
-16
 eveseknek
 mintegy
-10
 szazaleka
 legalabb
 egyszer
@@ -8437,13 +8326,11 @@ mutatjak
 az
 ilyen
 fiatalok
-35
 szazaleka
 drogfuggove
 valik
 vagyis
 szaz
-16
 evesbol
 egy
 nagy
@@ -8499,7 +8386,7 @@ megsemmisitette
 a
 fovarosi
 kozgyules
-1993ban
+ban
 alkotott
 parkolasi
 rendeletenek
@@ -8620,7 +8507,7 @@ fegyverrel
 magyar
 forum
 junius
-27furge
+furge
 eszjarasu
 ember
 eorsi
@@ -8689,7 +8576,7 @@ hangosan
 ellenzo
 eorsi
 a
-2es
+es
 villamosrol
 mar
 mint
@@ -9069,7 +8956,6 @@ felelose
 egyertelmuen
 a
 kapitalizacio
-89
 utan
 az
 alapveto
@@ -9220,7 +9106,7 @@ hering
 jozsefmagyar
 forum
 junius
-27csoori
+csoori
 sandor
 a
 magyarok
@@ -9244,7 +9130,6 @@ allami
 megemlekezest
 a
 honfoglallas
-1100
 evfordulojan
 a
 keseruseg
@@ -9484,7 +9369,6 @@ hogy
 szaz
 evvel
 ezelott
-1896
 elso
 orajaban
 ugy
@@ -9500,9 +9384,8 @@ harangok
 ez
 jutott
 eszembe
-1996
 junius
-16an
+an
 este
 a
 budapesti
@@ -9837,7 +9720,7 @@ amerikai
 elnok
 es
 az
-56os
+os
 nepfelkeles
 aktiv
 ellensege
@@ -10147,7 +10030,7 @@ gy
 laszlo
 a
 junius
-29i
+i
 magyar
 nemzetben
 oly
@@ -10746,7 +10629,6 @@ azt
 a
 szintet
 amely
-1996
 nyarara
 emelkedett
 hanem
@@ -11068,22 +10950,16 @@ that
 liberals
 love
 to
-hate960630
+hate
 a
 genuine
 lovas
 co
-3622
-350633
 fax
-3622
-350487
 mobile
-0620423364
-100263427compuservecombicske
+compuservecombicske
 pf
-99hungary
-2061
+hungary
 budapest
 week
 the
@@ -11094,7 +10970,6 @@ truth
 and
 history
 june
-2026
 laszlo
 petrovicsoffner
 discovers
@@ -11113,7 +10988,6 @@ of
 the
 revolution
 of
-1956
 and
 hungarian
 natives
@@ -11277,7 +11151,6 @@ appearances
 on
 russian
 television
-1
 july
 gave
 no
@@ -11294,7 +11167,6 @@ crucial
 campaigning
 before
 the
-3
 july
 runoff
 he
@@ -11380,7 +11252,6 @@ before
 balloting
 begins
 on
-1
 july
 stressed
 the
@@ -11469,7 +11340,6 @@ chechen
 war
 and
 reducing
-80
 of
 russian
 citizens
@@ -11491,7 +11361,6 @@ remarks
 to
 journalists
 on
-2
 july
 security
 council
@@ -11569,7 +11438,6 @@ mayor
 yurii
 luzhkov
 on
-1
 july
 to
 discuss
@@ -11634,7 +11502,6 @@ on
 the
 document
 on
-8
 july
 he
 promised
@@ -11709,7 +11576,6 @@ runoff
 afp
 reported
 on
-1
 july
 he
 won
@@ -11722,7 +11588,6 @@ in
 the
 first
 round
-57
 of
 those
 voting
@@ -11801,7 +11666,6 @@ petersburg
 afp
 reported
 on
-1
 july
 the
 refusal
@@ -11840,7 +11704,6 @@ lebed
 told
 reporters
 on
-2
 july
 that
 he
@@ -11889,7 +11752,6 @@ and
 destroyed
 more
 than
-60
 graves
 at
 warsaws
@@ -11899,7 +11761,6 @@ polish
 media
 reported
 on
-2
 july
 a
 police
@@ -11922,7 +11783,6 @@ on
 the
 night
 of
-28
 june
 the
 police
@@ -11953,7 +11813,6 @@ chief
 rabbi
 of
 the
-1000
 or
 so
 jews
@@ -11998,7 +11857,6 @@ jewish
 community
 leaders
 on
-1
 july
 pledged
 his
@@ -12066,7 +11924,6 @@ president
 vaclav
 havel
 on
-2
 july
 ctk
 reported
@@ -12084,7 +11941,6 @@ with
 a
 list
 of
-16
 ministers
 in
 a
@@ -12172,7 +12028,6 @@ the
 parliamentary
 session
 on
-1
 july
 slovakias
 ruling
@@ -12300,7 +12155,6 @@ a
 monument
 commemorating
 the
-1100
 anniversary
 of
 hungarian
@@ -12320,7 +12174,6 @@ officials
 visiting
 bratislava
 on
-1
 july
 warned
 that
@@ -12446,7 +12299,6 @@ finance
 ministry
 officials
 on
-1
 july
 that
 hungarys
@@ -12478,7 +12330,6 @@ hungarian
 dailies
 reported
 on
-2
 july
 the
 imf
@@ -12496,7 +12347,6 @@ in
 march
 of
 a
-387
 million
 standby
 credit
@@ -12526,10 +12376,8 @@ account
 deficit
 stays
 below
-2
 billion
 in
-1996
 finance
 minister
 peter
@@ -12554,7 +12402,6 @@ the
 budget
 deficit
 below
-39
 of
 gdp
 and
@@ -12572,9 +12419,7 @@ dropping
 by
 more
 than
-2
 in
-1996
 as
 promised
 to
@@ -12608,7 +12453,6 @@ arrived
 in
 bucharest
 on
-1
 july
 on
 the
@@ -12631,7 +12475,6 @@ media
 reported
 addressing
 some
-3000
 people
 at
 revolution
@@ -12728,7 +12571,6 @@ before
 leaving
 romania
 on
-2
 july
 she
 is
@@ -12754,7 +12596,6 @@ president
 mircea
 snegur
 on
-1
 july
 said
 the
@@ -12817,7 +12658,6 @@ memorandum
 was
 initialed
 on
-28
 june
 following
 talks

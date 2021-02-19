@@ -7,7 +7,6 @@ child
 contains
 more
 than
-150
 entries
 and
 connected
@@ -223,7 +222,7 @@ kids
 home
 page
 the
-httpwwwonrampcalowens107kidshtmlists
+httpwwwonrampcalowenskidshtmlists
 and
 briefly
 describes
@@ -254,7 +253,7 @@ so
 oncarlos
 coloring
 book
-homehttprobot0geuiuceducarlospcoloroffers
+homehttprobotgeuiuceducarlospcoloroffers
 several
 types
 of
@@ -319,7 +318,7 @@ internet
 usage
 rules
 children
-nowhttpwwwdnaicom80childrennonprofit
+nowhttpwwwdnaicomchildrennonprofit
 childrens
 advocacy
 group
@@ -379,7 +378,7 @@ offers
 a
 crayola
 trivia
-gamecyberkidsclubhttpmackrt66comkidsclubhomehtmoffers
+gamecyberkidsclubhttpmackrtcomkidsclubhomehtmoffers
 site
 where
 kids
@@ -437,7 +436,7 @@ answer
 remember
 the
 magic
-8ball
+ball
 froggy
 pagehttpwwwcsyaleeduhtmlyalecshyplansloosemoresandrafroggyhtmlprovides
 information
@@ -515,7 +514,7 @@ newspapers
 searchablehow
 far
 is
-ithttpgs213spcscmueduprogdistenables
+ithttpgsspcscmueduprogdistenables
 you
 to
 find
@@ -570,7 +569,6 @@ if
 you
 have
 netscape
-11
 its
 main
 purpose
@@ -660,7 +658,7 @@ servicehttpwwwhalcomservicesjuggleprovides
 information
 on
 jugglingkids
-windowhttpkikustanfordedu80kidskidshomehtmlteaches
+windowhttpkikustanfordedukidskidshomehtmlteaches
 about
 kids
 in
@@ -717,7 +715,7 @@ by
 childrenkidscom
 home
 page
-httpwwwkidscomcom80kidscomserves
+httpwwwkidscomcomkidscomserves
 as
 a
 network
@@ -804,7 +802,6 @@ for
 kidshttpwwwwebfeatscomillusionindexhtmlcontains
 more
 than
-30
 links
 to
 safe
@@ -815,11 +812,11 @@ of
 all
 ages
 magic
-8ball
+ball
 the
-httpwwwresortcom80bansheemisc8ballask
+httpwwwresortcombansheemiscballask
 the
-8ball
+ball
 a
 question
 and
@@ -845,7 +842,7 @@ twoweek
 archive
 of
 current
-stripsmentor5htmlhttpshastacok12causwwwtelementorsmentor5htmllists
+stripsmentorhtmlhttpshastacokcauswwwtelementorsmentorhtmllists
 what
 are
 locally
@@ -909,7 +906,7 @@ morepeanuts
 collectors
 club
 home
-pagehttpwwwdcndaviscaus80bangpeanutsprovides
+pagehttpwwwdcndaviscausbangpeanutsprovides
 information
 to
 join
@@ -1100,7 +1097,7 @@ interactive
 online
 experiences
 www
-spirographhttpjunipertccornelledu8000spirospirohtmlpresents
+spirographhttpjunipertccornelleduspirospirohtmlpresents
 a
 spirograph
 that

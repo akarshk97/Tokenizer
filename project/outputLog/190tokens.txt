@@ -59,7 +59,6 @@ to
 the
 interestmetromortgage
 advantage
-10
 ways
 to
 pay
@@ -137,7 +136,7 @@ fixedrate
 open
 fixedrate
 rewriteable
-5year
+year
 progressive
 advanceaccounts
 and
@@ -149,5 +148,3 @@ surrey
 metro
 savings
 september
-4
-1996

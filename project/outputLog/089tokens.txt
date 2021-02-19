@@ -4,7 +4,6 @@ in
 the
 sirc
 cdrom
-3
 pc
 special
 editionsoftware
@@ -13,7 +12,7 @@ in
 the
 sirc
 cdrom
-3pc
+pc
 special
 editionwhere
 is
@@ -109,7 +108,6 @@ at
 the
 above
 websitenetscape
-20
 is
 the
 world
@@ -167,8 +165,8 @@ quicktime
 movie
 package
 listed
-abovesigma0
-10b
+abovesigma
+b
 for
 the
 pc
@@ -201,7 +199,7 @@ detailed
 look
 at
 the
-sigma0
+sigma
 program
 see
 how
@@ -209,12 +207,12 @@ do
 i
 use
 the
-sigma0
+sigma
 program
 installation
 instructions
 for
-sigma0
+sigma
 are
 availableplease
 note
@@ -225,7 +223,7 @@ of
 this
 writing
 this
-sigma0
+sigma
 is
 a
 beta
@@ -278,7 +276,7 @@ will
 run
 under
 mswindows
-31cd
+cd
 reference
 sectionfrequently
 asked
@@ -297,9 +295,8 @@ al
 wong
 alwongjplnasagovjet
 propulsion
-laboratory4800
+laboratory
 oak
 grove
 drivepasadena
 ca
-91109

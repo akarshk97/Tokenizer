@@ -1,6 +1,6 @@
 informacin
 estadstica
-cont1
+cont
 pgina
 anteriortabla
 comparativa
@@ -16,7 +16,6 @@ principales
 compaas
 petroleras
 en
-1994
 que
 cotizan
 en

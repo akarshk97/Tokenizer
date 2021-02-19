@@ -71,10 +71,10 @@ the
 series
 include
 the
-sc15
-sc35
+sc
+sc
 and
-sc50
+sc
 models
 robot
 features
@@ -108,12 +108,10 @@ operation
 teach
 pendant
 simultaneous
-6
 axis
 control
 hot
 edit
-16000
 points
 memory
 capacity
@@ -158,12 +156,9 @@ robot
 store
 reveals
 secretsphone
-3178560095
 m
 f
-8
 to
-5
 estor
 click
 mail
@@ -174,5 +169,3 @@ modified
 on
 saturday
 january
-04
-1997

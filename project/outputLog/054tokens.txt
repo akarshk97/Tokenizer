@@ -10,7 +10,6 @@ haulers
 bring
 more
 than
-400000
 tons
 of
 wasteto
@@ -161,7 +160,7 @@ swanasoutheastern
 public
 service
 authority
-spsa1299
+spsa
 harrisburg
 pikelancaster
 pennsylvaniathank
@@ -198,7 +197,7 @@ date
 of
 last
 update
-1897you
+you
 are
 visitor
 number

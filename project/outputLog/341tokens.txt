@@ -1,8 +1,8 @@
 nemzet
-19960310nemzet
-19960310subject
 nemzet
-19960310xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -105,7 +105,7 @@ nonamenemzetmagyarsiliconvalleycomszerkesztosegnek
 editornemzetmagyarsiliconvalleycomszettekintes
 es
 szamvetes
-3az
+az
 antalli
 oroksegaz
 mdf
@@ -1335,7 +1335,7 @@ nep
 elnyomorodasa
 es
 pusztulasa
-1990benantallnak
+benantallnak
 modja
 lett
 volna
@@ -2164,7 +2164,6 @@ igyekszunkszorosan
 rea
 tapadni
 legalabb
-1100
 eve
 elunk
 europa
@@ -2325,7 +2324,7 @@ eppugy
 semmibevesz
 minket
 mint
-1526ban
+ban
 a
 mohacsi
 vesz
@@ -2796,7 +2795,7 @@ vegveszelyben
 vanszettekintes
 es
 szamvetes
-4az
+az
 ember
 es
 a
@@ -3051,7 +3050,7 @@ eszmejet
 es
 gyakorlatat
 allitjak
-eloterbe1990ben
+eloterbeben
 magyarorszagnak
 modja
 lett
@@ -3107,7 +3106,6 @@ a
 vilagmaffia
 kezerejutott
 az
-1990
 evi
 cselekvesi
 lehetosegek
@@ -3207,12 +3205,12 @@ csodavarastolfuggetlene
 magyarorszaggyakran
 elhangzik
 magyarorszag
-1990ben
+ben
 visszanyertefueggetlenseget
 ez
 kozonseges
 hazugsag
-1990ben
+ben
 is
 afueggetlensegnek
 csupan
@@ -3321,9 +3319,7 @@ az
 orszag
 feletti
 hatalmat
-1945
 majd
-1956
 utan
 isidegen
 hadak
@@ -3519,7 +3515,7 @@ fizikai
 felszamolasara
 ma
 nem
-1956ot
+ot
 irunk
 mire
 a
@@ -3549,7 +3545,7 @@ is
 a
 vegso
 elkeseredes
-1956nal
+nal
 is
 vadabb
 lazadasba
@@ -4757,7 +4753,7 @@ allapotai
 azert
 alkulhattak
 ki
-1990etkovetoen
+etkovetoen
 a
 mai
 napig
@@ -5034,7 +5030,7 @@ minalunk
 ne
 takargassuk
 a
-tenyeket1956
+tenyeket
 forradalma
 nem
 azert
@@ -5163,14 +5159,14 @@ mive
 lettunka
 magyarsag
 eloszor
-1849ben
+ben
 majd
-1920ban
+ban
 harmadszor
 eslegvegetesebben
 azonban
 az
-1956ot
+ot
 koveto
 evekben
 szenvedettkart
@@ -5338,7 +5334,6 @@ az
 igy
 manipulalt
 tarsadalom
-1990
 hajnalaratekintelyt
 nem
 ismer
@@ -5558,7 +5553,7 @@ mindez
 miert
 csak
 mert
-1994beneroiket
+beneroiket
 nem
 voltak
 hajlandok
@@ -5813,14 +5808,13 @@ es
 a
 tisztulas
 vagyaehhez
-1956
 esemenyei
 nyujtanak
 remenyt
 egy
 nappal
 oktober
-23aelott
+aelott
 meg
 semmi
 sem
@@ -5865,7 +5859,7 @@ pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

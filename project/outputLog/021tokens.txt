@@ -346,7 +346,6 @@ is
 that
 it
 permits
-100
 percent
 financing
 and
@@ -387,7 +386,7 @@ packageuplease
 your
 robot
 for
-5hrhomehome
+hrhomehome
 pagemailsend
 email
 to
@@ -407,5 +406,3 @@ modified
 on
 saturday
 january
-04
-1997

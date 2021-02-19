@@ -1,6 +1,6 @@
 industrial
 lubes
-2industrial
+industrial
 gearsproductdescription
 ep
 driveoils
@@ -146,7 +146,7 @@ overall
 lubricationhydraulic
 systemsproductdescription
 telemotor
-7light
+light
 pure
 mineral
 oil
@@ -274,11 +274,7 @@ super
 mvil
 normalmonograde
 sae
-20
-30
-40
 o
-50
 is
 a
 line
@@ -302,7 +298,7 @@ oxidation
 corrosion
 and
 erosioncompressor
-100high
+high
 viscosity
 oil
 compounded
@@ -376,9 +372,8 @@ formulated
 for
 lubrication
 of
-2
 or
-4cycle
+cycle
 stationary
 spark
 ignition
@@ -410,7 +405,7 @@ pipelines
 etctextile
 machineryproductdescription
 textile
-22high
+high
 refining
 and
 stability
@@ -510,7 +505,7 @@ therefore
 preventing
 metaltometal
 contactgrease
-969798these
+these
 are
 hot
 application
@@ -540,7 +535,7 @@ the
 open
 airfluid
 asphalticgrease
-650this
+this
 is
 an
 asphaltbase
@@ -624,7 +619,7 @@ hammersinsulants
 for
 poweruseproductdescription
 transformer
-6465insulating
+insulating
 oil
 for
 transformers
@@ -676,7 +671,7 @@ in
 waterthermal
 treatmentsproductdescription
 temper
-5152it
+it
 provides
 high
 cooling

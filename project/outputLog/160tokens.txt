@@ -3,14 +3,12 @@ releasesmorrison
 knudsen
 plazapo
 box
-73boise
+boise
 idaho
-83729telex
-368439phone
-208
-3866611fax
-208
-3865065news
+telex
+phone
+fax
+news
 releasefor
 further
 information
@@ -21,10 +19,8 @@ brandonvice
 president
 corporate
 communicationsdecember
-20
-1996mk
+mk
 wins
-200
 million
 role
 in
@@ -56,7 +52,6 @@ services
 totaling
 more
 than
-200
 million
 for
 the
@@ -87,7 +82,6 @@ the
 project
 will
 total
-1189
 billion
 and
 involves
@@ -187,7 +181,6 @@ united
 kingdom
 bnfl
 brings
-50
 years
 experience
 in
@@ -203,14 +196,12 @@ nuclearfacilities
 and
 has
 completed
-12
 billion
 in
 fixedprice
 capital
 projects
 since
-1980
 bnfl
 inc
 has
@@ -284,11 +275,9 @@ will
 treat
 at
 least
-99
 percent
 of
 approximately
-65000
 cubic
 meters
 of
@@ -310,7 +299,6 @@ to
 treat
 an
 additional
-20000
 cubic
 meters
 of
@@ -331,7 +319,6 @@ reduction
 of
 more
 than
-65
 percent
 and
 will
@@ -429,7 +416,6 @@ i
 which
 extends
 through
-1999
 the
 bnfl
 inc
@@ -471,13 +457,10 @@ completion
 date
 of
 december
-31
-2002
 phase
 iii
 extends
 through
-2015
 and
 will
 entail
@@ -509,7 +492,6 @@ industry
 including
 more
 than
-40
 years
 at
 the
@@ -539,7 +521,7 @@ of
 inel
 since
 the
-1970s
+s
 will
 provide
 all

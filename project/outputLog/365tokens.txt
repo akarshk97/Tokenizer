@@ -1,6 +1,6 @@
 nemzet
-19960611nemzet
-19960611n
+nemzet
+n
 n
 eeeeeee
 m
@@ -127,7 +127,7 @@ hetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfold
 elftarsak
 elftarsakrolnagy
@@ -146,7 +146,6 @@ nehai
 magyar
 miniszterelnok
 szuletesenek
-100
 evforduloja
 alkalmabol
 az
@@ -206,7 +205,7 @@ megallapodast
 amelynek
 ertelmeben
 augusztus
-30aig
+aig
 kivonjak
 a
 orosz
@@ -279,7 +278,6 @@ kozmetikalt
 hiradas
 lenneaz
 antiszemitizmusvilagjelentes
-1996
 cimu
 tanulmanya
 megallapitja
@@ -358,7 +356,6 @@ elleni
 harcban
 a
 jelentes
-81
 orszag
 viszonyait
 vizsgalta
@@ -430,7 +427,6 @@ eredmenyekent
 az
 evi
 kb
-4
 milliard
 tamogatas
 megszunik
@@ -456,7 +452,7 @@ sikeresen
 ellenallni
 szazszorakkora
 baratsagtalan
-kornyezetenek2
+kornyezetenek
 gazdasagalmodik
 a
 nyomortarthatoak
@@ -508,7 +504,6 @@ kozolte
 hogy
 a
 forint
-12
 szazalekosleertekelesi
 utemen
 nem
@@ -533,18 +528,15 @@ volt
 a
 kulkereskedelmimerleg
 hianya
-49
 milliard
 dollarnyi
 import
 es
-39
 milliardnyi
 export
 egyenlegekent
 s
 ebbol
-700
 millio
 dollar
 terheli
@@ -554,7 +546,6 @@ fizetesi
 merleget
 aprilisban
 csaknem
-200
 millio
 dollarral
 novekedett
@@ -563,7 +554,6 @@ kulkereskedelmi
 deficit
 am
 ez
-400
 millio
 dollarral
 kisebb
@@ -724,7 +714,7 @@ sikerpropagandathuszonketezer
 kozalkalmazott
 elbocsatasa
 tandij
-50s
+s
 emelese
 kovetkezik
 a
@@ -741,7 +731,7 @@ ez
 derul
 ki
 az
-1997es
+es
 budzse
 iranyelveirol
 szolo
@@ -759,7 +749,6 @@ szeptemberben
 kilencezer
 jovo
 januartol
-13
 ezer
 fo
 elbocsatasara
@@ -778,7 +767,6 @@ kozott
 az
 egyetemi
 tandij
-50
 szazalekos
 emelese
 jovo
@@ -808,7 +796,6 @@ biztositott
 elegtelenkamionos
 ellatas
 miatt
-12
 jarmuszerelveny
 vezetoje
 figyelemfelhivo
@@ -818,10 +805,9 @@ kezdett
 budapest
 hataraban
 az
-m0hoz
+mhoz
 erve
 a
-12
 kamion
 befejezte
 akciojat
@@ -952,7 +938,7 @@ abba
 az
 ellene
 folytatott
-maganhaborujat3
+maganhaborujat
 belfoldkozponti
 bunuldozo
 igazgatosag
@@ -1085,7 +1071,7 @@ jo
 mi
 a
 realberek
-25al
+al
 csokkentek
 ket
 ev
@@ -1249,7 +1235,6 @@ inflacio
 az
 elso
 negyedevben
-27
 szazalekos
 volt
 az
@@ -1308,10 +1293,9 @@ szolva
 megjegyete
 a
 fidesz
-30
 onallo
 inditvanyabol
-28at
+at
 napirendre
 sem
 vett
@@ -1572,7 +1556,7 @@ jarna
 ha
 felmondanank
 az
-1992ben
+ben
 ratifikalt
 europai
 emberi
@@ -1580,7 +1564,7 @@ jogi
 egyezmenyt
 s
 az
-1994ben
+ben
 alairt
 polgari
 es
@@ -1597,7 +1581,7 @@ a
 halalbuntetes
 eltorleserol
 szolo
-1989es
+es
 enszdokumentumot
 is
 s
@@ -1644,9 +1628,7 @@ bunozes
 ugrasszeru
 emelkedesevel
 az
-1965
 es
-1990
 kozott
 regisztralt
 atlagosan
@@ -1660,25 +1642,20 @@ idoben
 a
 gyilkossagok
 szama
-50
 szazalekkal
 novekedett
-1989ben
-191
+ben
 es
-1990ben
-201
+ben
 emberolest
 kovettek
 el
 hazankban
 mig
-1994ben
+ben
 mar
-313
 tavaly
 pedig
-290
 gyilkossag
 tortent
 szajer
@@ -1753,7 +1730,6 @@ a
 jovoben
 ne
 csupan
-1520
 evet
 jelentsen
 hanem
@@ -1976,7 +1952,6 @@ alatt
 a
 megyeben
 mintegy
-70
 orszagosan
 kozel
 haromezer
@@ -2004,7 +1979,6 @@ mhkabitoszerrendorsegi
 illetekesek
 tobb
 mint
-35
 ezerre
 becsulik
 a
@@ -2021,7 +1995,6 @@ a
 legnagyobb
 veszelynek
 kitet
-1418
 ev
 kozotti
 korosztaly
@@ -2087,7 +2060,7 @@ az
 ez
 ev
 februar
-14en
+en
 tortent
 balesetben
 amelynek
@@ -2108,7 +2081,7 @@ szemelyautoval
 a
 baleset
 a
-44es
+es
 szamu
 fouton
 tiszakurt
@@ -2129,7 +2102,6 @@ az
 allamfo
 kiseroje
 a
-43
 eves
 s
 laszlo
@@ -2173,7 +2145,6 @@ fertozes
 van
 meghalt
 egy
-80
 eves
 szivbeteg
 ferfi
@@ -2289,7 +2260,7 @@ altal
 okozott
 karokat
 csak
-75ban
+ban
 teritteti
 meg
 emberek
@@ -2303,11 +2274,9 @@ es
 nincs
 felelossegrevonas
 a
-450
 korhazban
 apolt
 beteg
-50
 szazalekat
 mar
 hazaengedtek
@@ -2318,7 +2287,7 @@ hazudozni
 tetszenek
 mivel
 a
-450es
+es
 szam
 egy
 teljes
@@ -2383,7 +2352,6 @@ ugy
 dontott
 hogy
 tamogatja
-24
 ezer
 feleslegesnek
 itelt
@@ -2533,7 +2501,7 @@ judit
 irasaujrakozolve
 a
 magyarorszagert
-v10
+v
 szamaban
 az
 amerikai
@@ -2545,33 +2513,26 @@ kiado
 dr
 forray
 pal
-5150
 wilshire
 boulevard
 suite
-304
 los
 angeles
 ca
-90036
 usa
 elofizetes
-3350
 ket
 evre
-20
 egy
 evre
 nyugdijasoknak
 ket
 evre
-30
 egy
 evre
-16
 magyarorszagra
 legipostaval
-68uramisten
+uramisten
 mive
 lettunkferfiaink
 nem
@@ -3236,7 +3197,6 @@ sem
 baj
 ha
 mellettuk
-50100150
 eve
 allo
 soha
@@ -4542,7 +4502,7 @@ kilatasok
 magyar
 forum
 junius
-6a
+a
 magyar
 lakossag
 tobb
@@ -4560,7 +4520,6 @@ egy
 negytagu
 csaladnak
 havonta
-9095
 ezer
 ftra
 van
@@ -4571,7 +4530,6 @@ a
 szulok
 mostani
 netto
-2627000
 ft
 atlagbert
 visznek
@@ -4583,7 +4541,6 @@ is
 hozzaszamolva
 meg
 legalabb
-30
 ezer
 ft
 hianyzik
@@ -4593,7 +4550,6 @@ aki
 pedig
 csupan
 a
-14500
 ft
 minimalberrel
 rendelkezik
@@ -4620,12 +4576,10 @@ megelhetesi
 gondokkal
 kuzda
 kozel
-2
 millio
 nyugdijas
 tobb
 mint
-40
 szazaleka
 el
 a
@@ -4637,7 +4591,6 @@ a
 vilagbank
 altal
 megszabott
-9600
 ftos
 minimalnyugdijbol
 eldontheti
@@ -4716,12 +4669,12 @@ ebben
 tokeletes
 az
 egyetertesaz
-1994es
+es
 valasztas
 ota
 magyarorszagon
 csaknem
-25kal
+kal
 csokkent
 a
 realber
@@ -4731,7 +4684,6 @@ munkanelkuliek
 szama
 tullepett
 az
-1
 million
 a
 csod
@@ -4764,7 +4716,6 @@ a
 kormanyzat
 bejelenti
 a
-20
 szazalekosra
 csokkeno
 inflaciot
@@ -4772,7 +4723,6 @@ a
 tavalyi
 tobb
 mint
-30
 szazalekoshoz
 kepest
 majd
@@ -4810,7 +4760,6 @@ altalanos
 arszinvonalemelkedes
 az
 iden
-2830
 szazalek
 koruli
 inflaciot
@@ -4859,7 +4808,7 @@ elszegenyitese
 varhato
 volt
 mar
-1982ben
+ben
 is
 amikor
 magyarorszag
@@ -5200,7 +5149,7 @@ sztariiujacjp
 subject
 re
 nemzet
-19960610igen
+igen
 erdekesnek
 talalom
 megjegyzesuket
@@ -5260,7 +5209,7 @@ az
 eu
 csatlakozasrol
 jun
-9i
+i
 szamunkban
 irt
 magyarorszagon
@@ -5305,7 +5254,7 @@ egy
 evtizedes
 usamenedek
 utan
-1989ben
+ben
 hazatelepult
 es
 magyarorszagon
@@ -5318,7 +5267,6 @@ uj
 idok
 rendszeresen
 kozlunk
-33
 ev
 usa
 emigracio
@@ -5335,7 +5283,6 @@ adossagmoratorium
 nagy
 szoszoloja
 pedig
-40
 ev
 ausztraliai
 emigracio
@@ -5423,7 +5370,6 @@ kommunistazni
 mert
 csak
 egy
-25
 eves
 diak
 vagyok
@@ -5526,7 +5472,6 @@ and
 bulgarian
 organizations
 on
-10
 june
 expressed
 disagreement
@@ -5652,7 +5597,6 @@ gabor
 kuncze
 during
 a
-10
 june
 session
 of
@@ -5692,7 +5636,6 @@ might
 be
 established
 by
-1
 september
 will
 be
@@ -5708,7 +5651,6 @@ will
 employ
 an
 estimated
-850
 people
 magyar
 hirlap
@@ -5721,10 +5663,8 @@ wants
 to
 obtain
 the
-600
 million
 forints
-4
 million
 originally
 earmarked
@@ -5801,7 +5741,6 @@ hungarian
 media
 reported
 on
-8
 june
 the
 auditing
@@ -5904,7 +5843,6 @@ rump
 yugoslav
 counterparts
 on
-10
 june
 tanjug
 reported
@@ -5928,7 +5866,6 @@ yugoslavia
 were
 lifted
 in
-1995
 the
 us
 delegation
@@ -5967,7 +5904,6 @@ and
 chechen
 delegations
 on
-10
 june
 reached
 agreement
@@ -5988,7 +5924,6 @@ peoples
 assemblycurrently
 scheduled
 for
-16
 juneuntil
 after
 the
@@ -6060,7 +5995,6 @@ prisoners
 of
 war
 on
-11
 june
 russian
 forces
@@ -6123,7 +6057,6 @@ transfer
 of
 power
 on
-10
 june
 itartass
 reported
@@ -6184,7 +6117,6 @@ elected
 president
 takes
 over
-30
 days
 after
 the
@@ -6235,12 +6167,10 @@ presidential
 election
 on
 wednesday
-3
 july
 instead
 of
 sunday
-7
 july
 is
 currently
@@ -6260,7 +6190,6 @@ holding
 the
 runoff
 on
-7
 july
 but
 the
@@ -6352,7 +6281,6 @@ ages
 itartass
 reported
 on
-10
 june
 zyuganov
 made
@@ -6491,7 +6419,6 @@ place
 itartass
 reported
 on
-10
 june
 mobile
 urns
@@ -6541,7 +6468,6 @@ their
 vote
 in
 the
-1995
 duma
 election
 meanwhile
@@ -6561,16 +6487,13 @@ voting
 returns
 from
 all
-93000
 polling
 places
 on
-16
 june
 itartass
 reported
 on
-10
 june
 the
 communists
@@ -6612,7 +6535,6 @@ komsomolskaya
 pravda
 published
 on
-11
 june
 russian
 foreign
@@ -6636,7 +6558,6 @@ western
 commentary
 on
 his
-4
 june
 meeting
 with

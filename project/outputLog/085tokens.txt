@@ -1,5 +1,4 @@
 aesop
-1000
 product
 descriptionproduct
 description
@@ -278,7 +277,7 @@ tasks
 supplements
 staff
 with
-24hour
+hour
 availability
 even
 during

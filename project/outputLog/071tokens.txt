@@ -12,10 +12,8 @@ campuswide
 energy
 audit
 of
-26
 buildings
 totalling
-820796
 sf
 thirtynine
 energy
@@ -28,7 +26,6 @@ a
 potential
 savings
 of
-148136
 entech
 also
 completed
@@ -39,7 +36,6 @@ an
 ems
 that
 included
-140
 points
 with
 an
@@ -47,7 +43,6 @@ estimated
 construction
 cost
 of
-113000
 a
 design
 was
@@ -94,12 +89,9 @@ of
 marketing
 matt
 lloydat
-6103736667
 or
 emailmlloydentechengnovelnetlast
 updated
 june
-7
-1996
 by
 tgray

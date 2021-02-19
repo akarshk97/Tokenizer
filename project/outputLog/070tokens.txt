@@ -299,19 +299,15 @@ classifier
 the
 classifier
 achieved
-97
 percent
 accuracy
 on
-580
 training
 samples
 and
-94
 percent
 accuracy
 on
-240
 test
 sampleswhack
 and
@@ -476,7 +472,6 @@ of
 friction
 were
 within
-25
 percent
 of
 the

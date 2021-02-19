@@ -29,7 +29,7 @@ download
 them
 to
 an
-s3
+s
 robot
 controller
 it
@@ -60,7 +60,7 @@ text
 files
 to
 an
-s3
+s
 controllerthe
 latest
 release
@@ -160,7 +160,7 @@ irb
 extension
 created
 in
-olp3
+olp
 english
 or
 swedish
@@ -223,7 +223,7 @@ taskfileif
 a
 file
 excedes
-64kb
+kb
 the
 specified
 word
@@ -328,7 +328,7 @@ the
 model
 of
 the
-abb2000
+abb
 are
 automatically
 updated
@@ -340,7 +340,6 @@ in
 the
 latest
 releaserelease
-151
 adds
 new
 features
@@ -397,11 +396,8 @@ of
 robot
 simulations
 ltdcopyright
-1996
 robot
 simulations
 ltdlast
 revision
-3
 april
-1996

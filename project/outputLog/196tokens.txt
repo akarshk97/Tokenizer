@@ -1,8 +1,6 @@
 gps
 on
-3
 april
-1995
 a
 low
 earthorbiting
@@ -13,7 +11,6 @@ launched
 aboard
 the
 microlab
-1
 satellite
 thisreceiver
 orbiting
@@ -22,7 +19,6 @@ an
 altitude
 of
 about
-700
 km
 receives
 radiosignals
@@ -30,7 +26,6 @@ from
 the
 constellation
 of
-24
 global
 positioning
 systemgps
@@ -74,9 +69,8 @@ indicate
 that
 accuracies
 of
-about1
+about
 to
-2
 k
 are
 being
@@ -85,9 +79,8 @@ between
 altitudes
 of
 about
-5
 km
-to35
+to
 km
 this
 new
@@ -168,7 +161,7 @@ radiosondesrs
 and
 interpolated
 nmc
-data1a
+dataa
 for
 further
 information

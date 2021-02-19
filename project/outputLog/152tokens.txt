@@ -47,7 +47,6 @@ balmores
 bed
 has
 over
-30
 years
 teaching
 experience
@@ -84,7 +83,6 @@ medical
 interiors
 for
 over
-20
 yearscc
 bender
 phd
@@ -149,7 +147,7 @@ children
 and
 adults
 since
-1982nancy
+nancy
 chappie
 med
 president
@@ -165,7 +163,7 @@ san
 diego
 and
 honolulu
-17year
+year
 travel
 industry
 veteran
@@ -270,7 +268,6 @@ at
 mpi
 and
 moanalua
-20
 years
 experienceronald
 fk
@@ -317,7 +314,6 @@ hawaii
 magicians
 society
 ring
-185
 of
 the
 international
@@ -393,7 +389,6 @@ chang
 black
 belt
 academy
-30
 years
 of
 martial
@@ -534,7 +529,6 @@ health
 products
 certified
 aromatherapist
-16
 years
 of
 aromatherapy
@@ -672,7 +666,6 @@ gillespie
 chef
 de
 cuisine
-3660
 on
 the
 rise
@@ -740,9 +733,7 @@ university
 of
 hawaii
 from
-1966
 to
-1994
 and
 coauthored
 the
@@ -959,7 +950,6 @@ owner
 ireland
 communications
 authored
-11
 books
 and
 hundreds
@@ -1099,12 +1089,10 @@ in
 the
 field
 for
-15
 yearsdean
 kaneshiro
 med
 rpc
-15
 years
 of
 experience
@@ -1269,7 +1257,6 @@ gorobert
 laughlin
 has
 over
-15
 years
 experience
 as
@@ -1288,7 +1275,6 @@ piano
 workshops
 at
 over
-35
 colleges
 and
 his
@@ -1362,7 +1348,6 @@ school
 of
 lawadam
 lockwood
-10
 years
 of
 competitive
@@ -1370,7 +1355,6 @@ volleyball
 played
 for
 uh
-198690
 named
 to
 allamerica
@@ -1385,7 +1369,6 @@ for
 uh
 mens
 team
-199192
 currently
 head
 of
@@ -1544,7 +1527,6 @@ waiau
 elementary
 school
 grade
-2
 teacheriris
 matsunobu
 msw
@@ -1564,7 +1546,6 @@ executive
 office
 on
 aging
-22
 years
 of
 experience
@@ -1697,7 +1678,7 @@ translator
 of
 japanese
 since
-1979henry
+henry
 nakatani
 pe
 ms
@@ -1727,7 +1708,6 @@ owner
 nittas
 auto
 repair
-25
 years
 of
 experience
@@ -1769,7 +1749,7 @@ the
 ccecs
 faculty
 since
-1972yoshibumi
+yoshibumi
 ogawa
 ba
 tea
@@ -1836,11 +1816,9 @@ school
 graduate
 in
 top
-5
 of
 the
 nation
-1990
 pga
 tour
 qualifying
@@ -1882,7 +1860,6 @@ chi
 chuan
 instructor
 with
-28
 years
 of
 experiencemarcia
@@ -1913,7 +1890,6 @@ honolulu
 community
 college
 since
-1971
 she
 has
 won
@@ -1940,7 +1916,6 @@ has
 worked
 with
 over
-600
 nonprofit
 organizations
 nationwide
@@ -1966,7 +1941,7 @@ hawaii
 in
 practice
 since
-1977hector
+hector
 robertin
 has
 had
@@ -1997,7 +1972,6 @@ medical
 professional
 billing
 services
-23
 years
 of
 experience
@@ -2084,7 +2058,7 @@ of
 medicine
 uhmanoa
 since
-1992fay
+fay
 shimizu
 med
 instructor
@@ -2105,7 +2079,7 @@ education
 at
 uhmanoa
 since
-1978scott
+scott
 shirai
 owner
 of
@@ -2121,7 +2095,6 @@ company
 just
 published
 nov
-1996
 karaoke
 sing
 along
@@ -2152,7 +2125,6 @@ archivistrussell
 siu
 chefowner
 of
-3660
 on
 the
 rise
@@ -2191,7 +2163,6 @@ business
 administrationmilton
 staackmann
 ma
-30
 years
 of
 studying
@@ -2208,16 +2179,14 @@ group
 of
 honolulu
 in
-1990jean
+jean
 stangl
 ma
 author
 of
-25
 childrens
 books
 and
-200
 magazine
 articles
 former
@@ -2291,21 +2260,18 @@ olomana
 golf
 links
 since
-1984
 lpga
 member
 since
-1976
 played
 on
 the
 pro
 tour
 from
-19781984
 and
 from
-19901991lynne
+lynne
 sueoka
 wilcox
 elementary
@@ -2330,7 +2296,7 @@ non
 native
 students
 since
-1991darren
+darren
 tackett
 owner
 absolute
@@ -2456,7 +2422,6 @@ arts
 club
 at
 age
-17
 us
 national
 collegiate
@@ -2483,7 +2448,6 @@ professional
 cartoonist
 for
 over
-30
 years
 and
 has
@@ -2539,19 +2503,17 @@ to
 japanesespeaking
 students
 since
-1978
 and
 japanese
 to
 englishspeaking
 students
 since
-1995bob
+bob
 twogood
 president
 twogood
 kayaks
-20
 years
 kayak
 racing
@@ -2593,7 +2555,6 @@ capoeira
 batuque
 honolulu
 in
-1994
 under
 the
 auspices
@@ -2638,7 +2599,7 @@ in
 the
 us
 since
-1990eloise
+eloise
 a
 wetherall
 cebs
@@ -2681,7 +2642,6 @@ been
 practicing
 yoga
 for
-19
 years
 and
 teaching
@@ -2689,7 +2649,6 @@ yoga
 for
 the
 past
-5
 years
 at
 uhm

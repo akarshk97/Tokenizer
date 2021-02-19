@@ -1,6 +1,6 @@
 an
 abb
-irb6000
+irb
 manipulating
 a
 part
@@ -12,7 +12,7 @@ pedastal
 glue
 dispenseran
 abb
-irb6000
+irb
 manipulating
 a
 part
@@ -37,11 +37,8 @@ of
 robot
 simulations
 ltdcopyright
-1996
 robot
 simulations
 ltdlast
 revision
-3
 april
-1996

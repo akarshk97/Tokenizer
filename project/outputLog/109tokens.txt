@@ -47,7 +47,6 @@ systemand
 replace
 with
 a
-5050
 mixture
 of
 water
@@ -164,7 +163,6 @@ running
 the
 engine
 for
-1015
 minutesgenerally
 its
 ok
@@ -231,7 +229,6 @@ department
 home
 page
 copyright
-1995
 automotive
 information
 systems
@@ -243,5 +240,3 @@ marketing
 communicationslast
 modified
 january
-31
-1996

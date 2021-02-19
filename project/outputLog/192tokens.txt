@@ -9,11 +9,10 @@ website
 for
 immediate
 releaseoctober
-9
-1996contact
+contact
 kakuna
-kerina2124651004
-x103
+kerina
+x
 us
 state
 department
@@ -148,7 +147,7 @@ state
 christopher
 told
 reporters
-147ethiopia
+ethiopia
 has
 made
 progress
@@ -228,7 +227,6 @@ based
 on
 more
 than
-50
 interviews
 with
 government
@@ -259,7 +257,6 @@ press
 law
 enacted
 in
-1992
 the
 repressive
 climate
@@ -278,7 +275,6 @@ of
 ethiopia
 tge
 in
-1991
 and
 by
 the
@@ -301,7 +297,6 @@ was
 released
 on
 october
-7
 the
 day
 ethiopias
@@ -413,8 +408,6 @@ at
 risk
 please
 call
-212
-4651004
 cpj
 documents
 and

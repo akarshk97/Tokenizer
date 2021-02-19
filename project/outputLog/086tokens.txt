@@ -53,7 +53,6 @@ in
 the
 region
 of
-24000
 tonnes
 of
 steel
@@ -63,7 +62,6 @@ year
 and
 have
 over
-1800
 employeesthe
 challengecimtas
 arc
@@ -83,7 +81,7 @@ fanuc
 arcmate
 and
 reis
-srv12l
+srvl
 robots
 to
 form
@@ -91,7 +89,7 @@ part
 of
 their
 manufacturing
-systemfig1fig2the
+systemfigfigthe
 ibeams
 are
 placed
@@ -115,7 +113,7 @@ by
 an
 operator
 see
-fig1
+fig
 once
 the
 beam
@@ -169,7 +167,6 @@ the
 shop
 floor
 since
-9
 axes
 are
 used
@@ -316,7 +313,7 @@ with
 workspace
 and
 the
-srv12l
+srvl
 and
 arcmate
 were
@@ -349,7 +346,7 @@ this
 application
 the
 reis
-srv12l
+srvl
 robot
 allowed
 a
@@ -554,7 +551,7 @@ was
 reduced
 by
 over
-40development
+development
 of
 the
 new
@@ -592,7 +589,7 @@ personnel
 and
 equipment
 was
-eliminated1993
+eliminated
 robot
 simulations
 ltdcgariss
@@ -610,11 +607,8 @@ of
 robot
 simulations
 ltdcopyright
-1996
 robot
 simulations
 ltdlast
 revision
-3
 april
-1996

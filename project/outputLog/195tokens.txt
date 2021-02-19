@@ -21,8 +21,6 @@ authorities
 in
 the
 fieldjanuary
-1317
-1997
 cocoa
 beach
 flwhat
@@ -330,7 +328,6 @@ displayed
 during
 the
 coursetuition
-1595
 earlyregistration
 and
 group
@@ -431,7 +428,6 @@ phd
 pe
 has
 over
-40
 years
 experience
 in
@@ -445,7 +441,6 @@ design
 and
 navigation
 including
-16
 years
 at
 jpl

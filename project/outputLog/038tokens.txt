@@ -155,7 +155,6 @@ in
 lancaster
 county
 approximately
-70
 companies
 haul
 waste
@@ -167,7 +166,6 @@ and
 schools
 an
 additional
-450
 customers
 are
 licensed
@@ -180,7 +178,6 @@ to
 authority
 facilities
 some
-30
 companies
 haul
 sludge

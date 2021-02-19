@@ -15,8 +15,6 @@ communicationssituation
 analysison
 saturday
 january
-18
-1992
 an
 article
 about
@@ -115,12 +113,9 @@ a
 national
 network
 showat
-1000
 pm
 on
 january
-29
-1992
 the
 vice
 president
@@ -187,11 +182,9 @@ based
 on
 five
 strategies
-1
 gather
 the
 facts
-2
 hold
 a
 crisis
@@ -207,13 +200,11 @@ question
 and
 answer
 document
-3
 identify
 spokespeople
 and
 mediatrain
 them
-4
 determine
 which
 audiences
@@ -227,7 +218,6 @@ the
 show
 airing
 and
-5
 determine
 followup
 if

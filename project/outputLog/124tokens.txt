@@ -18,7 +18,6 @@ pcmdi
 was
 established
 in
-1989
 at
 the
 lawrence
@@ -245,7 +244,6 @@ in
 this
 project
 some
-30
 amip
 modeling
 groups
@@ -256,7 +254,6 @@ climate
 of
 the
 decade
-19791988
 using
 the
 observed
@@ -274,14 +271,12 @@ values
 of
 solar
 luminosity
-1365
-wm2
+wm
 and
 atmospheric
 carbon
 dioxide
 concentration
-345
 ppm
 the
 participating
@@ -413,7 +408,6 @@ conference
 in
 may
 of
-1995
 pcmdi
 research
 pcmdi
@@ -790,7 +784,6 @@ the
 amip
 period
 of
-19791988
 but
 a
 longerterm
@@ -1006,11 +999,9 @@ pcmdi
 directorylast
 update
 november
-20
-1996
 for
 questions
 contactjerry
 potter
 potteroliverllnlgovllnl
-disclaimersucrlmi119847
+disclaimersucrlmi

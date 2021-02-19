@@ -58,7 +58,7 @@ and
 see
 us
 atnovember
-1214cobo
+cobo
 hall
 detroit
 mi
@@ -75,8 +75,7 @@ american
 dealer
 rwt
 at
-941
-4660488workspace
+workspace
 utilised
 in
 development
@@ -84,7 +83,7 @@ fo
 new
 robot
 mitsubishi
-pa10
+pa
 and
 controller
 language
@@ -92,7 +91,7 @@ offered
 with
 workspace
 release
-40workspace
+workspace
 and
 robotrak
 are
@@ -106,19 +105,15 @@ uk
 patent
 application
 number
-9520064
 us
 patent
 application
 number
-9520064
 applied
 for
 copyright
-1996
 robot
 simulations
 ltdlast
 revision
 august
-1996

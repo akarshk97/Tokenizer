@@ -103,7 +103,6 @@ misery
 bay
 publications
 charges
-25
 per
 hour
 min
@@ -127,7 +126,6 @@ ect
 the
 charge
 is
-25
 an
 hour
 we
@@ -252,7 +250,7 @@ your
 computer
 files
 to
-graphicsquarkim4unetmail
+graphicsquarkimunetmail
 phone
 or
 fax
@@ -260,9 +258,8 @@ informationmisery
 bay
 publicationspo
 box
-539gaines
+gaines
 michigan
-484360539phonefax
-517
-2718378email
+phonefax
+email
 mailmiserybaycom

@@ -1,5 +1,5 @@
 autoshop
-101mostly
+mostly
 text
 versionplease
 select
@@ -45,14 +45,12 @@ and
 this
 program
 automotive
-101
 tips
 service
 department
 home
 page
 copyright
-1995
 automotive
 information
 systems
@@ -64,5 +62,3 @@ marketing
 communicationslast
 modified
 january
-05
-1996

@@ -19,15 +19,13 @@ bruce
 dovidio
 on
 october
-17
-1996
 at
-042656ive
+ive
 got
 a
 cincinnatti
 milacron
-t3776
+t
 that
 needs
 a
@@ -39,7 +37,6 @@ clean
 unit
 with
 only
-2047
 hrs
 and
 used
@@ -73,8 +70,7 @@ a
 robot
 walter
 weisel
-190832
-1104960post
+post
 a
 followupname
 email
@@ -85,7 +81,7 @@ got
 a
 cincinnatti
 milacron
-t3776
+t
 that
 needs
 a
@@ -98,7 +94,6 @@ clean
 unit
 with
 only
-2047
 hrs
 and
 used

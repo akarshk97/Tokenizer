@@ -120,5 +120,3 @@ surrey
 metro
 savings
 setember
-4
-1996

@@ -8,15 +8,13 @@ y
 poseeuna
 participacin
 del
-35
 en
 el
 proyecto
 del
 bloque
-16
-de2068
-km2
+de
+km
 de
 extensin
 en
@@ -34,7 +32,6 @@ laproduccin
 se
 inici
 en
-1994
 despus
 determinar
 las
@@ -61,13 +58,12 @@ oleoducto
 transandino
 ecuatoriano
 en
-1995
 laproduccin
 de
 petrleo
 bruta
 promedi
-31000bpd
+bpd
 proveniente
 de
 cuatro
@@ -79,7 +75,6 @@ laproduccin
 haba
 sido
 de
-12000
 bpd
 ahora
 laproduccin
@@ -130,7 +125,6 @@ deproduccin
 por
 concesin
 de
-20
 aos
 paradesarrollar
 bloques

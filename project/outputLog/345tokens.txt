@@ -1,8 +1,8 @@
 nemzet
-19960322nemzet
-19960322subject
 nemzet
-19960322xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -124,7 +124,7 @@ sorok
 kozt
 olvaso
 szabad
-velemenyei1
+velemenyei
 kulfoldszuperliberalis
 albrightot
 kovel
@@ -354,7 +354,7 @@ vajon
 mi
 lesz
 anepegeszsegugy
-szintje2
+szintje
 belfolda
 veg
 kezdete
@@ -370,8 +370,7 @@ vegorajat
 erzo
 liberalbolsevik
 banda
-96ban
-45
+ban
 milliardot
 mindezt
 kulfoldrol
@@ -430,8 +429,7 @@ hogy
 magyarorszag
 netto
 kulfoldiadossaga
-1990ben
-166
+ben
 milliard
 dollart
 tett
@@ -445,9 +443,8 @@ az
 orszag
 netto
 kulso
-adossaga1995
+adossaga
 vegen
-168
 milliard
 dollar
 volt
@@ -457,7 +454,6 @@ az
 allam
 nettokulfoldi
 adossaga
-11
 milliard
 dollart
 tett
@@ -470,7 +466,7 @@ elotorlesztesre
 fedezetet
 nyujt
 az
-1995os
+os
 harommilliarddollaros
 privatizacios
 bevetel
@@ -486,7 +482,6 @@ a
 devizatartalekbol
 fedezi
 amelyjelenleg
-11
 milliard
 dollar
 suranyi
@@ -497,7 +492,6 @@ sok
 a
 szolidkonzervativ
 politikahoz
-78
 milliard
 dollar
 tartaleknal
@@ -792,7 +786,7 @@ fogja
 a
 terrorizmus
 visszaszoritasarolszolo
-1997ben
+ben
 kotendo
 strasbourgi
 egyezmenyhez
@@ -903,10 +897,8 @@ kepest
 lassubbkorhataremelest
 es
 nem
-32
 hanem
 csak
-25
 eves
 minimalis
 szolgalatiidot
@@ -1041,7 +1033,6 @@ pannonhalman
 a
 bences
 monostoralapitasnak
-1000
 eves
 jubileuma
 alkalmabol
@@ -1069,7 +1060,7 @@ magyar
 nepnek
 a
 november
-11eig
+eig
 lathato
 kiallitasaz
 erdeklodok
@@ -1116,9 +1107,8 @@ a
 bazilikanal
 pentek
 este
-7korpentek
+korpentek
 este
-7
 orakor
 budapesten
 a
@@ -1319,7 +1309,7 @@ a
 kadarkorszak
 sajtoviszonyai
 magyar
-nemzet3
+nemzet
 gazdasagoecd
 tagok
 vagyunka
@@ -1420,7 +1410,6 @@ a
 budapest
 banknak
 juttatott
-12
 milliardos
 allamitamogatast
 vizsgalo
@@ -1519,12 +1508,11 @@ ellenere
 a
 general
 electric
-25
 szazaleknal
 nagyobbreszesedest
 szerzett
 magyar
-hirlap4
+hirlap
 partoskodasmdf
 uj
 elnoksegeaz
@@ -1591,16 +1579,16 @@ parttagokszama
 az
 eltelt
 idoben
-288an
+an
 leptek
 ki
 az
 mdfbol
 mig
-112en
+en
 leptekbe
 s
-52en
+en
 jeleztek
 hogy
 hasonlo
@@ -1625,7 +1613,6 @@ visszvasarlasra
 eletre
 hozott
 pro
-300
 rt
 letrehozoiherenyi
 azt
@@ -1664,7 +1651,7 @@ nem
 ertettek
 egyet
 a
-pro300
+pro
 rt
 letrehozasaval
 megis
@@ -1781,7 +1768,7 @@ vezetese
 mogenepidemokratakaz
 mdnp
 aprilis
-27en
+en
 tartja
 az
 alapito
@@ -1799,7 +1786,6 @@ hagyott
 hivatalosanjova
 s
 tovabbi
-40
 megalakulasa
 van
 folyamatban
@@ -1832,7 +1818,6 @@ az
 elnokseg
 szerdan
 ujabb
-174
 tag
 felvetelethagyta
 jova
@@ -1853,7 +1838,6 @@ jellemzo
 tenykentemlitette
 hogy
 egy
-30
 fos
 szervezetnek
 pusztan
@@ -1918,7 +1902,6 @@ mdfszekhazanak
 visszavasarlasat
 celzo
 pro
-300
 rt
 szamara
 nemfizetett
@@ -1960,9 +1943,9 @@ ma
 az
 mdnp
 delutan
-4tol
+tol
 este
-8ig
+ig
 tagtoborzot
 tartbudapesten
 a
@@ -2090,7 +2073,6 @@ reszerol
 a
 kapott
 penzbol
-120
 ezer
 forintotvisszafizetett
 viszont
@@ -2128,7 +2110,7 @@ en
 is
 tudok
 a
-part900
+part
 millios
 adossaganak
 a
@@ -2168,7 +2150,7 @@ fel
 az
 fkgp
 marcius
-14ei
+ei
 naggyulesetholott
 az
 mindenfele
@@ -2323,7 +2305,7 @@ a
 tomegtajekoztatasi
 eszkozok
 marcius
-15en
+en
 csak
 akozponti
 unnepsegeknek
@@ -2409,10 +2391,8 @@ felvetettek
 szerint
 is
 a
-14
 even
 aluligyermekek
-45
 szazaleka
 el
 a
@@ -2629,7 +2609,7 @@ kepviselo
 es
 szenator
 valasztason
-1994ben
+ben
 afent
 leirt
 liberalizmus
@@ -2660,7 +2640,6 @@ mai
 amerikai
 lapokhozzak
 hogy
-1
 kina
 nyilvanosan
 kijelentette
@@ -2688,7 +2667,6 @@ ne
 jatssza
 az
 eszet
-2
 szinten
 a
 mai
@@ -2784,7 +2762,7 @@ kivonultsebestyen
 belamagyar
 forum
 marcius
-21antall
+antall
 jozsef
 kepmasaval
 kihimzett
@@ -2858,7 +2836,6 @@ esegyidejuleg
 a
 szamuzott
 kisgazda
-36
 keblere
 borulniaz
 esemenyek
@@ -3368,16 +3345,13 @@ miep
 egyuttmukodesemagyar
 forum
 marc
-07
-2
 oldala
 miep
 elnoksege
-1996
 marcius
-3an
+an
 es
-4en
+en
 megbeszelest
 folytatott
 ameghivasara
@@ -3574,9 +3548,8 @@ miep
 fiatal
 politikusainak
 budapest
-1996
 marcius
-5eredeti
+eredeti
 kozlesisten
 es
 eskutagadok
@@ -3630,7 +3603,6 @@ kuldetesuk
 hallatlan
 eredmenyeit
 magyarorszagi
-1000
 evuk
 alatta
 dicseret
@@ -3745,7 +3717,6 @@ ezertnemcsak
 az
 akkori
 papak
-1186
 korol
 alakitotta
 a
@@ -3974,7 +3945,6 @@ russian
 media
 reported
 on
-21
 march
 alegal
 expert
@@ -4034,7 +4004,6 @@ chechnya
 moskovskie
 novosti
 on
-21
 marchcontended
 that
 the
@@ -4092,7 +4061,6 @@ in
 the
 republicmeanwhile
 on
-22
 march
 the
 north
@@ -4180,7 +4148,6 @@ mlada
 fronta
 dnesreported
 on
-22
 march
 she
 played
@@ -4278,7 +4245,6 @@ warsawappeals
 court
 quashed
 on
-21
 march
 the
 acquittals
@@ -4304,7 +4270,7 @@ political
 police
 officers
 in
-october1984
+october
 father
 popieluszko
 had
@@ -4325,7 +4291,6 @@ fatherland
 therebeginning
 in
 october
-1981
 ciaston
 was
 deputy
@@ -4360,7 +4325,6 @@ of
 doubt
 during
 the
-1994
 ciaston
 and
 platektrial
@@ -4387,7 +4351,6 @@ trial
 polishdailies
 reported
 on
-22
 march
 jakub
 karpinskipoland
@@ -4429,7 +4392,6 @@ news
 agency
 reported
 on
-21
 march
 newteams
 are
@@ -4485,7 +4447,6 @@ continues
 the
 parliament
 on
-21
 march
 approvedlaws
 which
@@ -4494,17 +4455,12 @@ the
 minimum
 wage
 to
-2750
 crowns
-9167
 from
-1
 apriland
 pensions
 by
-12
 from
-1
 june
 narodna
 obroda
@@ -4545,7 +4501,6 @@ equal
 to
 up
 to
-30
 times
 the
 averagemonthly
@@ -4633,7 +4588,6 @@ former
 interior
 minister
 announcedon
-21
 march
 that
 his
@@ -4676,7 +4630,6 @@ a
 kdh
 meeting
 on
-25
 march
 and
 will
@@ -4693,7 +4646,6 @@ his
 car
 also
 on
-21
 marchslovak
 television
 stv
@@ -4750,7 +4702,6 @@ debt
 hungary
 will
 repay
-45
 billion
 inforeign
 debt
@@ -4763,11 +4714,9 @@ the
 statedebt
 to
 around
-9
 billion
 by
 end
-1996
 the
 lowest
 in
@@ -4784,7 +4733,6 @@ said
 napi
 gazdasag
 reportedon
-22
 march
 rather
 than
@@ -4814,7 +4762,6 @@ it
 is
 thecountrys
 high
-11
 billion
 foreign
 currency
@@ -4839,7 +4786,6 @@ which
 now
 stands
 at
-12
 zsofiaszilagyiwar
 crimes
 hearings
@@ -4870,7 +4816,6 @@ theformer
 yugoslavia
 began
 on
-20
 march
 mile
 mrksic
@@ -4885,7 +4830,6 @@ ordering
 the
 deaths
 of
-261
 nonserb
 patients
 in
@@ -4894,7 +4838,6 @@ vukovar
 hospital
 in
 november
-1991
 however
 theycannot
 be
@@ -4945,7 +4888,6 @@ make
 important
 announcements
 on
-22
 marchsignaling
 new
 indictments
@@ -4991,12 +4933,11 @@ for
 suspected
 war
 criminalson
-21
 march
 belgrades
 independent
 radio
-b92
+b
 reported
 that
 not
@@ -5011,7 +4952,6 @@ army
 officers
 indicted
 innovember
-1995
 for
 allegedly
 playing
@@ -5023,7 +4963,6 @@ shooting
 killings
 ofat
 least
-260
 civilians
 in
 the
@@ -5032,7 +4971,7 @@ city
 of
 vukovar
 in
-1991sheltered
+sheltered
 by
 rump
 yugoslav
@@ -5067,7 +5006,7 @@ integration
 president
 ion
 iliescu
-on21
+on
 march
 presided
 over
@@ -5180,7 +5119,6 @@ be
 impeached
 infotag
 on
-21
 march
 quoted
 nicolaeandronic
@@ -5254,7 +5192,6 @@ alexandru
 gorgan
 denied
 on
-20
 march
 that
 a
@@ -5293,7 +5230,6 @@ bulgaria
 roman
 herzog
 on
-21
 march
 endeda
 threeday
@@ -5566,7 +5502,6 @@ izoldanak
 a
 szervezesertes
 este
-9
 ora
 utan
 fejeztek
@@ -5617,7 +5552,7 @@ pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

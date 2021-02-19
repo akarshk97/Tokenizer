@@ -133,7 +133,6 @@ drive
 port
 clinton
 oh
-43452
 car
 care
 council
@@ -149,7 +148,6 @@ department
 home
 page
 copyright
-1995
 automotive
 information
 systems
@@ -161,5 +159,3 @@ marketing
 communicationslast
 modified
 february
-08
-1996

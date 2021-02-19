@@ -14,7 +14,7 @@ framecapable
 browsersuch
 as
 netscape
-2x
+x
 if
 you
 are

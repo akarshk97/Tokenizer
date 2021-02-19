@@ -9,13 +9,10 @@ the
 period
 between
 day
-10
 o
 hrs
 and
 day
-11
-0
 hrs
 mission
 elapsed
@@ -66,7 +63,6 @@ the
 position
 of
 phrr
-1
 the
 spare
 recorder
@@ -126,7 +122,6 @@ as
 an
 engineering
 check
-36
 tapes
 of
 xsar
@@ -134,7 +129,6 @@ data
 were
 recorded
 and
-163
 sirc
 tapes
 were
@@ -146,11 +140,9 @@ were
 shut
 down
 at
-1830
 hrs
 met
 and
-1200
 hrs
 met
 the
@@ -257,7 +249,6 @@ on
 the
 order
 of
-10
 cm
 and
 appear

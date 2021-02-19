@@ -186,12 +186,9 @@ robot
 store
 reveals
 secretsphone
-3178560095
 m
 f
-8
 to
-5
 estor
 click
 mail
@@ -202,5 +199,3 @@ modified
 on
 saturday
 january
-04
-1997

@@ -163,7 +163,6 @@ group
 media
 training
 for
-500
 leaders
 of
 thecalifornia

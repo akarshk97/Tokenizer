@@ -1,4 +1,4 @@
-srl1
+srl
 raco
 michiganraco
 michiganthis
@@ -11,11 +11,9 @@ of
 raco
 michigan
 centeredat
-4639
 degrees
 north
 latitude
-8488
 degrees
 west
 longitudethis
@@ -52,8 +50,6 @@ the
 instrument
 on
 april
-9
-1994
 this
 imagewas
 produced
@@ -67,14 +63,10 @@ the
 area
 shownis
 approximately
-20
 kilometers
 by
-50
 kilometers
-12
 by
-30
 miles
 raco
 is
@@ -135,7 +127,6 @@ givenday
 there
 is
 a
-60
 percent
 chance
 that
@@ -260,9 +251,7 @@ are
 red
 pine
 treesapproximately
-30
 meters
-100
 feet
 in
 height
@@ -340,11 +329,9 @@ scientific
 models
 used
 understandglobal
-changep43882april
-10
-1994
+changepapril
 imaging
 radar
 home
 pageupdated
-033095brucechapmanjplnasagov
+brucechapmanjplnasagov

@@ -54,7 +54,6 @@ services
 on
 a
 clientcopyright
-1996
 ashlandaccounting
 services
 pcinfoaascpacom

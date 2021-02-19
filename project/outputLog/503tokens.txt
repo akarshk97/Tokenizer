@@ -6,9 +6,6 @@ rachel
 powell
 norton
 december
-13
-1996
-6
 pm
 pt
 digital
@@ -27,7 +24,7 @@ how
 it
 works
 step
-1watermarkcreatedthe
+watermarkcreatedthe
 image
 creator
 stamps
@@ -81,13 +78,12 @@ is
 printed
 and
 rescannedstep
-2watermarkdetected
+watermarkdetected
 image
 editors
 such
 as
 photoshop
-40
 are
 equipped
 with
@@ -117,7 +113,7 @@ image
 has
 been
 copyrightedstep
-3artist
+artist
 identifiedin
 addition
 to
@@ -140,7 +136,6 @@ the
 artistsource
 picturemarc
 softwarecopyright
-199597
 cnet
 inc
 all

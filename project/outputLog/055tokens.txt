@@ -71,7 +71,7 @@ feasibility
 study
 completed
 november
-1992mohn
+mohn
 hall
 entech
 conducted
@@ -124,16 +124,13 @@ four
 ecos
 was
 approximately
-9200
 the
 estimated
 annual
 savings
 were
-3200
 for
 a
-14
 reduction
 from
 current
@@ -146,7 +143,6 @@ simple
 payback
 period
 of
-28
 yearsentech
 also
 completed
@@ -171,7 +167,6 @@ funding
 for
 the
 four
-4
 ecos
 if
 accepted
@@ -179,7 +174,6 @@ the
 grant
 would
 pay
-50
 of
 the
 engineering
@@ -193,7 +187,7 @@ a
 maximum
 amount
 of
-75000contact
+contact
 mr
 howard
 holden
@@ -201,16 +195,13 @@ director
 of
 physical
 plant
-610
-9217520
 or
 mr
 bill
 leitzke
 utilities
 foreman
-610
-9217520return
+return
 to
 the
 college
@@ -233,10 +224,7 @@ of
 marketing
 matt
 lloydat
-6103736667
 or
 emailmlloydentechengnovellnetlast
 updated
 june
-4
-1996

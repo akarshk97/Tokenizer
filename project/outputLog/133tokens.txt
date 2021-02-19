@@ -183,8 +183,7 @@ constitutional
 laws
 of
 canada
-1867
-1982annotated
+annotated
 and
 consolidated
 version
@@ -211,13 +210,12 @@ of
 canada
 updated
 december
-31
-1995the
+the
 british
 north
 america
 act
-1867from
+from
 the
 national
 library
@@ -669,13 +667,13 @@ of
 civil
 procedurecreated
 on
-16aug96
+aug
 by
 anne
 johnston
 redesigned
 on
-09oct96
+oct
 by
 marlene
 van
@@ -697,4 +695,4 @@ to
 lawwebutorontoca
 last
 updated
-13dec96
+dec

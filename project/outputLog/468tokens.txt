@@ -7,13 +7,12 @@ del
 gas
 natural
 en
-1995
 se
 increment
 un
-7llegando
+llegando
 a
-us119
+us
 por
 milln
 de
@@ -27,7 +26,6 @@ volumen
 de
 ventas
 quepromedi
-1491
 millones
 de
 pies
@@ -36,8 +34,7 @@ inferior
 al
 nivel
 de
-1994en
-1995
+en
 ypf
 complet
 la
@@ -126,7 +123,6 @@ mayorcapacidad
 de
 transporte
 aproximadamente
-500
 millones
 de
 piescbicos
@@ -175,7 +171,7 @@ generadoras
 de
 energa
 en
-1995se
+se
 iniciaron
 las
 entregas
@@ -192,7 +188,7 @@ ypf
 entrega
 ms
 de
-60millones
+millones
 de
 pies
 cbicos
@@ -207,7 +203,7 @@ contratos
 adems
 del
 celebrado
-en1994
+en
 para
 la
 planta
@@ -217,7 +213,6 @@ energa
 elctricacentral
 neuquen
 en
-1995
 se
 realizaron
 dos
@@ -230,7 +225,6 @@ de
 gas
 natural
 enaproximadamente
-75
 millones
 de
 pies
@@ -238,7 +232,7 @@ cbicos
 diarios
 apartir
 de
-1996los
+los
 mercados
 de
 exportacin
@@ -261,7 +255,6 @@ de
 exportacin
 sefirm
 en
-1995
 con
 methanex
 empresa
@@ -279,7 +272,6 @@ dechile
 el
 convenio
 por
-20
 aos
 compromete
 a
@@ -291,7 +283,6 @@ a
 suministrar
 a
 methanex
-72
 millones
 de
 piescbicosda
@@ -315,11 +306,9 @@ exportaciones
 a
 fines
 de
-1996
 ypfespera
 vender
 aproximadamente
-36
 millones
 de
 pies
@@ -351,20 +340,19 @@ porypf
 con
 tenneco
 en
-1993
 para
 vender
 gas
 desde
 un
 gasoducto
-de1207
+de
 kilmetros
 con
 capacidad
 para
 transportar
-300millones
+millones
 de
 pies
 cbicosda
@@ -436,7 +424,6 @@ construirun
 gasoducto
 para
 transportar
-1000
 millones
 de
 piescbicos
@@ -482,7 +469,6 @@ falta
 reservas
 de
 aproximadamente
-12
 millones
 demillones
 de
@@ -508,11 +494,9 @@ del
 noroeste
 secomplete
 en
-1997
 ya
 que
 en
-1995
 selogr
 un
 importante
@@ -563,7 +547,7 @@ exploratorio
 profundo
 en
 sanpedrito
-x1
+x
 en
 la
 misma
@@ -617,7 +601,6 @@ demanda
 comolos
 precios
 en
-1995
 ypf
 inici
 dos

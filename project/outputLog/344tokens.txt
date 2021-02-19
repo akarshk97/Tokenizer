@@ -1,8 +1,8 @@
 nemzet
-19960403nemzet
-19960403subject
 nemzet
-19960403xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -139,7 +139,7 @@ nepszava
 eh
 esti
 hirlap
-vgvilaggazdasag1
+vgvilaggazdasag
 kulfoldez
 am
 a
@@ -416,7 +416,6 @@ szerelo
 havi
 fizetese
 kb
-200
 nem
 is
 rossz
@@ -442,7 +441,6 @@ lex
 goncza
 szentfoldon
 mukodo
-11
 kereszteny
 egyhaz
 vezetoje
@@ -505,7 +503,7 @@ akciokat
 helyezett
 kilatasba
 um
-mh2
+mh
 hatarontulfelvidek
 kovacs
 moszkovita
@@ -575,13 +573,12 @@ azonoslesz
 a
 magyar
 valtozattal
-mh3
+mh
 gazdasaga
 bokrosprogrammal
 feltornasztuk
 magunkat
 a
-15
 evvel
 ezelottiszintre
 bravoa
@@ -602,18 +599,16 @@ ez
 egy
 fore
 vetitve
-4300dollar
+dollar
 mig
 vasarloeroparitason
 szamolva
-7
 ezer
 dollar
 amivel
 amagyar
 gazdasag
 a
-15
 evvel
 ezelotti
 fejlettsegi
@@ -644,7 +639,7 @@ lengyelorszag
 es
 csehorszaggazdasaga
 mar
-1994ben
+ben
 a
 viszonylag
 gyors
@@ -679,18 +674,16 @@ magyarorszag
 hazai
 brutto
 termeke
-1997ben
+ben
 haladja
 megaz
-51
 milliard
 dollart
 ami
 az
-1989es
+es
 erteknek
 a
-92
 szazalekansz
 lengyelorszag
 ketszer
@@ -716,7 +709,7 @@ elotti
 szintet
 mig
 mi
-15evvel
+evvel
 vagyunk
 lemaradva
 most
@@ -798,7 +791,6 @@ a
 parlamentben
 azt
 mondta
-1994
 nyaran
 a
 kormanygazdasagi
@@ -814,7 +806,6 @@ elozokabinet
 titkos
 hatarozatokkal
 mintegy
-600
 milliard
 forint
 ertekbenvallalt
@@ -831,7 +822,6 @@ teljesitenie
 horn
 kiemelt
 egy
-14
 milliardostetelt
 amelyrol
 eddig
@@ -843,7 +833,6 @@ a
 nepszabadsagmegtudta
 hogy
 a
-14
 milliard
 forintert
 akozelmultban
@@ -886,7 +875,6 @@ szerint
 horn
 nagysagrendekkelteved
 amikor
-600
 milliard
 forintos
 kotelezettsegvallalasrol
@@ -990,7 +978,6 @@ fuggesztette
 fel
 a
 hivatalakar
-50
 ezer
 forint
 birsagot
@@ -1025,7 +1012,6 @@ kozlese
 robbanast
 okoznos
 csekely
-15
 honap
 megfeszitett
 munkaval
@@ -1087,14 +1073,13 @@ es
 a
 gyesnel
 megszabott
-19500forintos
+forintos
 havi
 netto
 osszeghatarnal
 am
 a
 tavalyi
-12
 szazalekosjovedelemvisszaeses
 miatt
 immar
@@ -1108,13 +1093,11 @@ igy
 mig
 tavaly
 decemberben
-19500
 forint
 volt
 aletminimum
 addig
 jelenleg
-17300
 forint
 egy
 negytagu
@@ -1144,7 +1127,7 @@ koltenek
 elelmiszerre
 mint
 a
-80as
+as
 evekben
 a
 ruhakat
@@ -1185,7 +1168,6 @@ szerint
 a
 kormanyparti
 szavazok
-4
 szazalekalatja
 ugy
 hogy
@@ -1231,7 +1213,6 @@ latja
 ajavulast
 a
 kerdezettek
-46
 szazaleka
 velekedett
 ugy
@@ -1337,7 +1318,7 @@ tartja
 jogosnakezert
 birosaghoz
 fordul
-mh4
+mh
 belfoldorszaggyules
 az
 alkotmanybirosagrolaz
@@ -1721,27 +1702,18 @@ intezmenyek
 eseteben
 koztarsasagi
 elnok
-664alkotmanybirosag
-645
+alkotmanybirosag
 honvedseg
-553
 radio
-534
-televizio522
+televizio
 birosagok
-524
 ujsagok
-513
 rendorseg
-492onkormanyzatok
-432
+onkormanyzatok
 kormany
-316
 parlament
-305
-szakszervezetek293
+szakszervezetek
 partok
-243
 a
 felmerest
 ismerteto
@@ -1839,7 +1811,7 @@ nyugdijfinanszirozas
 atmeneti
 idot
 legalabb
-1015evet
+evet
 kivan
 hiszen
 akiknek
@@ -1872,7 +1844,6 @@ kezdeni
 az
 atallast
 a
-62
 evesnyugdijkorhatarra
 arrol
 viszont
@@ -1887,23 +1858,19 @@ kell
 majd
 osszegyujteni
 amai
-20
 ev
 helyett
 a
 nyugdijbiztosito
 onkormanyzat
-25
 a
 nepjoleties
 a
 munkaugyi
 tarca
-30
 a
 pm
 pedig
-32
 ev
 minimalis
 szolgalati
@@ -1950,7 +1917,6 @@ a
 katolikus
 egyhaz
 ragaszkodik
-2000
 eves
 gyokereihezha
 igen
@@ -2184,11 +2150,10 @@ kiado
 az
 akademia
 garanciajaval
-1995ben
+ben
 egy
 tobb
 mint
-200
 millios
 kotvenyt
 bocsatott
@@ -2226,7 +2191,6 @@ szerkesztosegebol
 volt
 aki
 mar
-1990
 otarendkivuli
 erofesziteseket
 tett
@@ -2338,7 +2302,7 @@ identitastudat
 ebben
 a
 szerencsetlen
-orszagban5
+orszagban
 partoskodasaki
 kivalik
 az
@@ -2435,7 +2399,7 @@ eredmenyt
 erjenek
 el
 az
-1998asvalasztason
+asvalasztason
 velemenye
 az
 mdf
@@ -2471,7 +2435,7 @@ kamerafonay
 jenouj
 magyarorszag
 marcius
-22vajon
+vajon
 hogyan
 kell
 inditani
@@ -2693,7 +2657,7 @@ el
 egyutt
 a
 marcius
-14i
+i
 esti
 adas
 szinhelyereahol
@@ -2831,7 +2795,6 @@ nevezett
 hoskor
 valamelyik
 eveben
-1956
 elott
 s
 ami
@@ -2841,9 +2804,8 @@ ujra
 elultettek
 egy
 hatalmas
-301es
+es
 parcellan
-56
 utan
 most
 aztanalmelkodnak
@@ -3190,7 +3152,7 @@ modon
 vezettuk
 volna
 be
-1990ben
+ben
 esaz
 egykori
 orszagrontokat
@@ -3206,7 +3168,6 @@ bunosoket
 vezetoiket
 a
 fokolomposokat
-11
 evre
 mint
 peldaulcsehorszagban
@@ -3374,7 +3335,6 @@ az
 amerikai
 kormannyal
 farrakhan
-23
 afrikaies
 kozelkeleti
 orszagot
@@ -3426,7 +3386,6 @@ izraeli
 knesszettiszteletbeli
 tagjai
 evente
-46
 milliard
 dollartsegitseget
 adnak
@@ -3447,7 +3406,6 @@ a
 libiai
 vezetotobb
 mint
-1
 milliard
 dollart
 igert
@@ -3572,8 +3530,6 @@ torvenyhozas
 awashingtonba
 tavaly
 osszel
-700
-000
 feketet
 osszetrombitaltvezetotparlamenti
 interpellacioorszaggyulesi
@@ -3592,7 +3548,6 @@ gyori
 ujautopalya
 hasznalati
 dija
-960
 ft
 ami
 a
@@ -3790,7 +3745,6 @@ kepesek
 megfizetni
 a
 kozel
-1000
 forintosuthasznalati
 dijat
 mikozben
@@ -3859,7 +3813,7 @@ magyarorszagonszente
 ildikomagyar
 forum
 marcius
-28a
+a
 hornkunczekkormany
 nem
 vadolhato
@@ -3892,9 +3846,8 @@ kivanjukfelidezni
 az
 uj
 magyarorszag
-1996
 februar
-9ei
+ei
 szamaban
 kozoltosszesitest
 ahol
@@ -3993,7 +3946,6 @@ elleni
 buntenyek
 felderitesiaranya
 kb
-20
 ami
 azt
 jelenti
@@ -4032,7 +3984,7 @@ szo
 ha
 a
 tettesek
-80a
+a
 a
 rendorsegszamara
 ismeretlen
@@ -4107,7 +4059,6 @@ demonstrated
 in
 minsk
 on
-2
 april
 against
 the
@@ -4159,7 +4110,6 @@ number
 of
 areas
 the
-2
 april
 demonstrationtook
 place
@@ -4207,7 +4157,6 @@ there
 by
 more
 than
-1000
 policemen
 the
 protest
@@ -4248,11 +4197,9 @@ was
 outlawed
 in
 january
-1991
 westernagencies
 reported
 on
-2
 april
 the
 eight
@@ -4301,7 +4248,6 @@ fines
 of
 up
 to
-2000
 dan
 ionescuus
 lithuanian
@@ -4313,7 +4259,6 @@ lithuanian
 andus
 paratroopers
 on
-2
 april
 started
 a
@@ -4359,7 +4304,6 @@ with
 the
 us
 in
-1994
 and
 has
 since
@@ -4392,7 +4336,6 @@ the
 polish
 government
 on
-2
 aprilamended
 its
 draft
@@ -4445,7 +4388,6 @@ with
 heads
 of
 the
-49
 provincial
 authorities
 he
@@ -4460,7 +4402,6 @@ to
 take
 place
 beforethe
-1997
 parliamentary
 elections
 jakub
@@ -4473,7 +4414,6 @@ elections
 a
 total
 of
-17
 parties
 andthree
 political
@@ -4481,7 +4421,6 @@ movements
 have
 met
 the
-1
 april
 deadline
 to
@@ -4522,7 +4461,6 @@ likely
 to
 win
 the
-5
 of
 the
 total
@@ -4554,13 +4492,11 @@ leftbloc
 in
 the
 june
-1992
 elections
 eight
 out
 of
 the
-23
 groups
 that
 ranwon
@@ -4579,10 +4515,8 @@ will
 be
 held
 on
-31
 may
 and
-1
 june
 steve
 kettlerussian
@@ -4604,7 +4538,7 @@ visit
 to
 slovakia
 on
-2april
+april
 signed
 a
 police
@@ -4642,7 +4576,6 @@ account
 for
 less
 than
-1
 of
 crime
 in
@@ -4650,7 +4583,6 @@ slovakia
 while
 ukrainiansaccount
 for
-7
 in
 other
 news
@@ -4666,7 +4598,6 @@ an
 official
 visit
 on
-2
 april
 stressedthat
 the
@@ -4686,7 +4617,6 @@ chairman
 jan
 carnogursky
 on
-2
 april
 criticizedslovak
 foreign
@@ -4726,7 +4656,6 @@ by
 the
 parliament
 on
-2
 april
 mti
 reported
@@ -4826,10 +4755,9 @@ year
 hungarian
 dailies
 reported
-on3
+on
 april
 a
-90
 stake
 in
 budapesti
@@ -4838,7 +4766,7 @@ which
 serves
 the
 capital
-and95
+and
 of
 tiszai
 eromu
@@ -4853,9 +4781,7 @@ apv
 rt
 saidthat
 between
-60
 and
-70
 of
 the
 countrys
@@ -4888,7 +4814,7 @@ in
 two
 generators
 and
-12electricity
+electricity
 and
 gas
 supply
@@ -4900,7 +4826,7 @@ a
 total
 of
 some
-2billion
+billion
 mainly
 to
 german
@@ -4966,7 +4892,6 @@ washingtonpost
 as
 saying
 on
-3
 april
 a
 debate
@@ -5074,7 +4999,6 @@ nasa
 borba
 reported
 on
-2
 april
 canakis
 slated
@@ -5098,10 +5022,8 @@ had
 a
 populationof
 some
-2
 million
 roughly
-22
 of
 whom
 were
@@ -5145,7 +5067,6 @@ nato
 membership
 romania
 on
-2
 april
 submitteddocuments
 to
@@ -5224,7 +5145,7 @@ gen
 costica
 voicu
 on
-2april
+april
 was
 named
 the
@@ -5279,7 +5200,6 @@ ceausescu
 regime
 in
 december
-1989
 matyas
 szabous
 to
@@ -5301,13 +5221,12 @@ equipment
 worth
 more
 than
-100million
+million
 to
 albania
 reuters
 reported
 on
-2
 april
 the
 package
@@ -5422,7 +5341,7 @@ vilagkongresszus
 a
 szervezet
 egyelore
-1053norvegiai
+norvegiai
 zsido
 csalad
 tulajdonat
@@ -5431,7 +5350,6 @@ ertekekrol
 tud
 ezek
 kozetartozik
-70
 vallalat
 amelyeket
 az
@@ -5447,7 +5365,6 @@ zsido
 javakates
 a
 szombat
-1996
 februari
 szamabol
 a
@@ -5467,7 +5384,7 @@ regebbi
 szamaibol
 ideznek
 irasokatuj
-elet1971
+elet
 februara
 nyugatnemet
 kartalanitasi
@@ -5475,14 +5392,13 @@ megallapodas
 reszleteia
 targyalasok
 januar
-22en
+en
 megallapodassal
 vegzodtek
 ennekertelmeben
 az
 nszk
 penzugyminiszteriuma
-624
 millio
 nyugatnemetmarkat
 fizet
@@ -5503,7 +5419,6 @@ osszegbenkartalanitja
 azt
 a
 mintegy
-200000
 szemelyt
 akinek
 kepviseletebena
@@ -5512,7 +5427,7 @@ magyarorszagi
 uldozotteinek
 szovetsege
 tobb
-mint62000
+mint
 kartalanitasi
 igenyt
 jelentett
@@ -5527,7 +5442,6 @@ ezeknek
 az
 igenyeknek
 akielegitesere
-100
 millio
 markat
 fizet
@@ -5538,9 +5452,9 @@ szovetsegenek
 harom
 egyenlo
 reszletben
-1972ben1973ban
+benban
 es
-1974benaz
+benaz
 mti
 kozlemenye
 kiegesziteseul
@@ -5628,13 +5542,12 @@ magyarorszagi
 hitkozsegek
 szovetsege
 mazsihisz
-1995december
-17i
+december
+i
 kepviselotestuleti
 uleserolszombat
 c
 folyoirat
-1996
 februari
 szamreszletek
 dr
@@ -5648,7 +5561,6 @@ elkepzelhetetlen
 az
 hogy
 egy
-10
 tagu
 hitkozseg
 jelentosvagyonokat
@@ -6042,7 +5954,7 @@ pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

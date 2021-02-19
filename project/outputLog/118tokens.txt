@@ -355,9 +355,7 @@ translations
 andcritical
 essays
 in
-60
 or
-70
 refereed
 journals
 among
@@ -389,7 +387,7 @@ bread
 loaf
 scholarship
 a
-1992national
+national
 endowment
 for
 the
@@ -502,15 +500,13 @@ suicide
 just
 days
 afterlucias
-21st
+st
 birthday
 exactly
-20
 years
 later
 in
-198586
-getsis17yearold
+getsisyearold
 daughter
 manon
 contracted
@@ -765,7 +761,7 @@ years
 she
 was
 the
-1994poet
+poet
 of
 the
 year
@@ -1078,9 +1074,7 @@ takes
 usually
 five
 to
-10
 or
-11
 years
 butintensive
 care
@@ -1091,12 +1085,10 @@ it
 took
 me
 from
-1988
 to
 about
-1990
 or
-91when
+when
 i
 first
 started
@@ -1157,7 +1149,6 @@ lead
 shield
 during
 the
-1000
 chest
 x
 raysduring
@@ -1292,7 +1283,7 @@ nurses
 in
 nursing
 see
-page6there
+pagethere
 were
 wonderful
 nurses
@@ -1992,7 +1983,7 @@ the
 students
 in
 the
-k2
+k
 class
 shemet
 in
@@ -2119,7 +2110,7 @@ gets
 whittleddown
 see
 page
-9and
+and
 that
 is
 a
@@ -2877,7 +2868,6 @@ the
 floor
 for
 another
-20
 minutes
 all
 of
@@ -3092,7 +3082,7 @@ golden
 cloudsto
 homeby
 the
-k2
+k
 class
 in
 granville

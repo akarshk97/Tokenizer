@@ -1,8 +1,8 @@
 nemzet
-19960311nemzet
-19960311subject
 nemzet
-19960311xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -106,7 +106,6 @@ editornemzetmagyarsiliconvalleycomrozsadombi
 paktum
 urljeszombati
 marc
-9
 szamunkban
 lekozolt
 tiborc
@@ -141,7 +140,7 @@ a
 nemzet
 honlapjan
 is
-elerhetohttpwwwsiliconvalleycom960309htmlaz
+elerhetohttpwwwsiliconvalleycomhtmlaz
 mit
 eleresi
 urljet
@@ -179,9 +178,8 @@ igy
 kellett
 tennem
 amikor
-1992
 marcius
-14en
+en
 a
 muk
 alakulo
@@ -352,9 +350,9 @@ kakukktojasovaribudapestkereszteny
 ertelimisegi
 tarsasagvilagforum
 a
-keteniii29
+keteniii
 pentek
-1900kor
+kor
 bakos
 istvan
 a
@@ -439,8 +437,7 @@ szolgasagbol
 szabadsagbamagyar
 forum
 febr
-29
-9oldalgidai
+oldalgidai
 erzsebet
 gazdasagi
 tulelesunk
@@ -486,7 +483,7 @@ sullyedeset
 jelenti
 ez
 a
-80as
+as
 evek
 vegere
 a
@@ -520,10 +517,8 @@ hozo
 politikat
 garazdalkodasuk
 kovetkezmenyekent
-1995
 novembereben
 mar
-35
 milliarddollar
 volt
 a
@@ -534,17 +529,15 @@ az
 ezredfordulora
 elerheti
 a
-4045milliard
+milliard
 dollart
 az
 allami
 vagyont
 eltunteto
 eloprivatizalas
-198790
 es
 aprivatizalas
-9096
 nyoman
 alakult
 ki
@@ -569,7 +562,7 @@ a
 vilagon
 egyedulalloan
 a
-fizetesek25szereset
+fizetesekszereset
 erik
 el
 a
@@ -577,15 +570,13 @@ berek
 also
 hatarahoz
 kepest
-12500
 forintos
 minimalberrel
-95
 november
 peldaul
 a
 bankelnok
-153millio
+millio
 kozotti
 havi
 jovedelme
@@ -779,7 +770,6 @@ elvezzen
 a
 rendteremtes
 egyevesidoszakaban
-1
 leallitja
 a
 kulfoldi
@@ -793,8 +783,7 @@ adossagelengedes
 es
 csokkentes
 ugyeben
-2
-1989ig
+ig
 visszamenoen
 vagyonleltart
 keszit
@@ -810,7 +799,6 @@ utonvagyonelszamoltatast
 hajt
 vegre
 hiszen
-4000
 milliard
 forint
 allamivagyon
@@ -824,7 +812,6 @@ forrasokat
 munkahelyekteremtesere
 hasznalja
 fel
-3
 azonnal
 csokkenti
 a
@@ -849,7 +836,6 @@ fogyasztasi
 termekekre
 arstopotvezet
 be
-4
 kamatmentes
 vagy
 kedvezmenyes
@@ -859,7 +845,6 @@ a
 vallalkozasokhozes
 a
 lakasepitkezesekhez
-5
 a
 human
 infrastrukturat
@@ -883,7 +868,6 @@ fejleszti
 es
 hozzakapcsolja
 atermeleshez
-6
 a
 mediumokat
 nemzeti
@@ -1012,7 +996,7 @@ sorok
 kozt
 olvaso
 szabad
-velemenyei1
+velemenyei
 kulfoldoroszorszag
 ellenzi
 a
@@ -1050,7 +1034,7 @@ kulugyi
 bizottsaganak
 tagja
 magyar
-hirlap2
+hirlap
 hatarontulerdely
 tokes
 eles
@@ -1280,7 +1264,7 @@ kolcsonos
 integralodast
 segitik
 elo
-nepszava3
+nepszava
 gazdasagsuranyi
 cinikus
 hurraoptimista
@@ -1335,7 +1319,6 @@ arak
 tavaly
 tobb
 mint
-28
 szazalekkal
 emelkedtek
 de
@@ -1356,12 +1339,10 @@ folyo
 fizetesi
 merleg
 hianya
-25
 milliard
 dollarra
 enyhult
 esrekordnagysagu
-45
 milliard
 dollarnyi
 kulfoldi
@@ -1385,7 +1366,6 @@ csokkenesehezaz
 orszag
 netto
 adossagallomanya
-168
 milliard
 dollarra
 enyhult
@@ -1396,7 +1376,6 @@ es
 a
 kormany
 adossaga
-11
 milliard
 dollar
 volt
@@ -1409,7 +1388,7 @@ mnb
 es
 a
 kormany
-utoljara1986ban
+utoljaraban
 regisztralhatott
 mindennek
 hatasara
@@ -1423,7 +1402,6 @@ a
 kovetkezo
 evekben
 varhatoan
-30
 szazalek
 alamerseklodik
 s
@@ -1470,30 +1448,26 @@ munkaidoben
 s
 egyben
 a
-10
 fonelnagyobb
 cegnel
 foglalkoztatottak
 januari
 atlagkeresete
-41912
 forintvolt
 a
 kulonbseg
 tavaly
 januarhoz
 kepest
-261
 szazalek
 a
 tavalyikeresetnovekedesi
 utem
-21
 szazalekkal
 volt
 alacsonyabb
 mint
-az1995os
+azos
 inflacios
 rata
 ugyanakkor
@@ -1502,7 +1476,6 @@ januarban
 a
 versenyszferabrutto
 keresetei
-37
 szazalekkal
 voltak
 magasabbak
@@ -1511,7 +1484,6 @@ inflacionaljanuarban
 a
 brutto
 atlagkeresetek
-10300
 forinttal
 maradtak
 alatta
@@ -1521,7 +1493,6 @@ igaz
 meg
 igy
 is
-1700
 forinttal
 meghaladta
 a
@@ -1533,7 +1504,6 @@ keresetet
 magyar
 hirlapkormannyilatkozatok
 medgyessy
-1520
 ev
 az
 atmeneta
@@ -1658,13 +1628,12 @@ szerint
 ez
 a
 folyamat
-1520
 evig
 is
 eltarthat
 apenzugyminiszter
 szerint
-1997tol
+tol
 az
 eletszinvonal
 mar
@@ -1674,7 +1643,6 @@ es
 a
 jovo
 evben
-45
 szazalekos
 gazdasagi
 novekedesindulhat
@@ -1733,7 +1701,7 @@ intezkedesek
 nelkul
 ezert
 junius
-30aig
+aig
 aminiszterelnoki
 hivatal
 kereteben
@@ -1759,9 +1727,8 @@ esvagy
 egyensuly
 avagy
 az
-1995
 marcius
-12en
+en
 meghirdetett
 stabilizacio
 tanulsagaicimu
@@ -1795,7 +1762,6 @@ eloszor
 szakitottsikeresen
 az
 elmult
-20
 esztendo
 novekedes
 vagy
@@ -1812,7 +1778,7 @@ fenntarthatokovetkezeskeppen
 egyensulyorzo
 gazdasagi
 novekedes
-utjan4
+utjan
 belfoldhorn
 legujabb
 hazugsagaiaz
@@ -2017,7 +1983,7 @@ mikozben
 fontosnak
 tartjak
 az
-56os
+os
 martirokemlekenek
 apolasat
 azert
@@ -2060,7 +2026,7 @@ vannak
 olyanok
 akiknek
 az
-1956os
+os
 forradalomhoz
 nagy
 imrehalalahoz
@@ -2110,13 +2076,13 @@ szervezet
 letrejotte
 erosenemlekeztetne
 az
-50es
+es
 evek
 diktatorikus
 viszonyaira
 magyar
 nemzetnepszabadsagaz
-56os
+os
 forradalom
 ne
 legyen
@@ -2156,7 +2122,6 @@ vezetohoz
 hogy
 emeljek
 kipartcsatarozasaikbol
-1956
 negyvenedik
 evfordulojanakmegunnepleset
 mecs
@@ -2203,7 +2168,7 @@ kormanyfo
 levele
 alapjan
 a
-marcius1jei
+marciusjei
 allapot
 szerint
 csak
@@ -2244,13 +2209,11 @@ szerint
 a
 hivatalezaltal
 havi
-18
 millio
 forintos
 eves
 szinten
 pedig
-22
 milliostobbletbevetelhez
 jut
 ezert
@@ -2295,7 +2258,6 @@ kormanynak
 azt
 a
 dontesetamellyel
-15
 szazalekos
 letszamleepitest
 irt
@@ -2310,7 +2272,6 @@ a
 kepviselo
 altal
 hianyoltosszesen
-9
 statust
 az
 egyes
@@ -2324,7 +2285,7 @@ atvilagito
 birak
 toltik
 beakik
-1995tol
+tol
 a
 miniszterelnoki
 hivataltol
@@ -2426,7 +2387,7 @@ felhalmozasra
 mar
 nem
 futotta
-1990ben
+ben
 ezertpeldatlanul
 nehez
 feltetelek
@@ -2727,7 +2688,6 @@ tortenik
 ennekhattereben
 egy
 mintegy
-300
 fobol
 allo
 nemzetkozi
@@ -2759,7 +2719,7 @@ hirlapegykori
 foszerkesztoje
 bejelentette
 marcius
-13an
+an
 jelenik
 meg
 a
@@ -2789,7 +2749,6 @@ konferenciatszervezett
 amelyen
 elhangzott
 hogy
-45
 evnyi
 szocialista
 diktaturaideologiai
@@ -3038,7 +2997,6 @@ mert
 a
 lapok
 legalabb
-9598
 szazaleka
 liberalis
 szemleletukromer
@@ -3133,8 +3091,8 @@ nyilatkozat
 azt
 is
 hagsulyozza
-1996marcius
-15e
+marcius
+e
 legyen
 a
 bekesseg
@@ -3184,7 +3142,7 @@ felmentese
 miatt
 tiltakoztak
 magyar
-hirlap5
+hirlap
 partoskodasfidesza
 nepszabadsag
 orban
@@ -3679,7 +3637,7 @@ szerint
 is
 kepviseloje
 a
-40es
+es
 evekben
 mukodottazonos
 nevu
@@ -3920,7 +3878,6 @@ kormanykepes
 ero
 ez
 alenyeg
-1996
 az
 utolso
 ev
@@ -4074,11 +4031,10 @@ alltmagyar
 nemzet
 az
 mdf
-25
 heves
 megyei
 szervezetenek
-34e
+e
 megyaz
 mdnphez
 mondta
@@ -4119,14 +4075,12 @@ mellett
 dontott
 nepszabadsagcsutortokon
 este
-15
 taggal
 megalakult
 az
 mdmp
 debreceni
 szervezetepentekig
-10
 taggal
 nott
 a
@@ -4387,7 +4341,7 @@ jobb
 pozicioban
 varhatjak
 az
-1998as
+as
 valasztastmint
 korabban
 az
@@ -4428,7 +4382,7 @@ megyei
 elnoke
 emlekeztetett
 egy
-1993decembereben
+decembereben
 alairt
 nyilatkozatra
 amelyben
@@ -4448,7 +4402,6 @@ a
 kampanyara
 koltott
 mintegy
-300
 ezerforintot
 varga
 hetfon
@@ -4498,7 +4451,7 @@ to
 government
 control
 on
-12marchis
+marchis
 burning
 the
 bosnian
@@ -4651,7 +4604,6 @@ educational
 reforms
 bns
 reportedon
-9
 march
 the
 bank
@@ -4701,7 +4653,7 @@ convene
 in
 vilnius
 the
-2nd
+nd
 congress
 of
 thehomeland
@@ -4717,7 +4669,6 @@ weekendradio
 lithuania
 reported
 the
-600
 delegates
 approved
 a
@@ -4772,7 +4723,6 @@ the
 warsaw
 municipal
 courton
-8
 march
 sentenced
 former
@@ -4789,7 +4739,7 @@ the
 political
 opposition
 from
-19441953polish
+polish
 media
 reported
 the
@@ -4803,7 +4753,6 @@ ago
 coladam
 humer
 aged
-79
 was
 found
 guilty
@@ -4866,7 +4815,6 @@ the
 slovak
 cabinet
 on
-7
 march
 approved
 a
@@ -4963,7 +4911,6 @@ prime
 ministerjozef
 moravcik
 on
-9
 march
 was
 reelected
@@ -4998,7 +4945,6 @@ murder
 of
 at
 least
-1200
 muslim
 prisoners
 after
@@ -5009,7 +4955,6 @@ frankfurter
 allgemeine
 zeitung
 on
-9
 march
 quoted
 drazenerdemovic
@@ -5048,7 +4993,6 @@ police
 in
 vojvodina
 on
-3
 marchand
 nothing
 has
@@ -5080,7 +5024,6 @@ meanwhile
 that
 court
 on
-8
 march
 issued
 an
@@ -5144,12 +5087,10 @@ fell
 to
 the
 serbsin
-1992
 the
 guardian
 reported
 on
-11
 march
 victims
 were
@@ -5218,7 +5159,7 @@ romania
 romanian
 police
 on
-8march
+march
 said
 they
 were
@@ -5246,7 +5187,6 @@ were
 in
 possession
 of
-82
 kg
 ofunspecified
 radioactive
@@ -5293,11 +5233,9 @@ unidentified
 foreigner
 for
 some
-10million
+million
 lei
-3450
 since
-1989
 romania
 has
 witnessed
@@ -5354,7 +5292,7 @@ pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

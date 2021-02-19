@@ -13,9 +13,6 @@ and
 nick
 wingfield
 october
-7
-1996
-1
 pm
 ptmarimba
 a
@@ -234,7 +231,6 @@ example
 microsofts
 internet
 explorer
-40
 will
 feature
 active
@@ -251,7 +247,6 @@ information
 on
 the
 windows
-95
 desktop
 like
 a
@@ -361,9 +356,7 @@ who
 has
 to
 update
-1000
 or
-2000
 copies
 of
 an
@@ -582,14 +575,12 @@ including
 activex
 controls
 version
-11
 due
 in
 the
 first
 half
 of
-1997
 will
 include
 encryption
@@ -707,7 +698,6 @@ marriage
 of
 tvweb
 underwaycopyright
-199597
 cnet
 inc
 all

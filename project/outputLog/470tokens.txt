@@ -31,7 +31,6 @@ ya
 se
 rellenaron
 el
-90
 de
 las
 piletasconstrudas
@@ -44,7 +43,6 @@ se
 reinyecta
 ms
 del
-70
 del
 agua
 producidaen
@@ -59,7 +57,6 @@ empresaha
 programado
 reinyectar
 el
-100
 del
 agua
 de
@@ -80,7 +77,6 @@ han
 plantado
 ms
 de
-600000
 rbolestodas
 las
 operaciones

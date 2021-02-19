@@ -1,6 +1,6 @@
 nemzet
-19960610nemzet
-19960610n
+nemzet
+n
 n
 eeeeeee
 m
@@ -127,7 +127,7 @@ hetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfoldpufajkas
 legujabb
 hazudozasaimagyarorszagra
@@ -370,7 +370,6 @@ sztalin
 meg
 elt
 volna
-56
 evet
 a
 szovjetunio
@@ -492,7 +491,7 @@ kulvilagtol
 ezzel
 a
 magatartassal
-vg2
+vg
 hatarontulkarpataljaaz
 ukrajnai
 magyar
@@ -520,9 +519,9 @@ kijevben
 fogadta
 el
 programjat
-mh3
+mh
 gazdasaglegalabb
-12al
+al
 zsugorodik
 a
 koltsegvetes
@@ -568,7 +567,7 @@ igy
 erheto
 el
 hogy
-1997ben
+ben
 mar
 ne
 merseklodjenek
@@ -576,7 +575,6 @@ a
 realberek
 az
 inflacio
-18
 szazalek
 korul
 alakuljon
@@ -585,7 +583,6 @@ jovo
 evre
 a
 gdp
-3
 szazalekos
 novekedesevel
 szamolnak
@@ -600,20 +597,17 @@ koltsegvetesi
 intezmenyek
 tamogatasa
 mindossze
-6
 szazalekkal
 novekszik
 jovore
 vagyis
 a
-18
 szazalekos
 varhato
 inflaciot
 figyelembe
 veve
 realertekben
-12
 szazalekkal
 szukul
 a
@@ -640,7 +634,6 @@ a
 kozterhek
 a
 tbjarulek
-25
 az
 atlagos
 szemelyijovedelemadoterheles
@@ -651,7 +644,6 @@ a
 brutto
 kereset
 aranya
-15
 szazalekponttal
 merseklodhet
 az
@@ -659,7 +651,6 @@ szja
 legmagasabb
 kulcsa
 pedig
-4244
 szazalek
 kozott
 lehet
@@ -738,7 +729,7 @@ indexe
 az
 aprilisi
 minusz
-55os
+os
 erteken
 maradt
 a
@@ -808,7 +799,7 @@ allitani
 a
 lakossag
 minusz
-55anak
+anak
 tamogatasat
 gratulalunk
 nagyszeru
@@ -1052,7 +1043,6 @@ magyar
 munkavallaloknak
 korulbelul
 a
-60
 szazaleka
 rogton
 elveszitene
@@ -1081,7 +1071,6 @@ latja
 mert
 amig
 az
-25
 szazalek
 felett
 van
@@ -1096,7 +1085,6 @@ hogy
 tersegunkben
 az
 elmult
-45
 evben
 a
 tobbi
@@ -1204,7 +1192,7 @@ orszagok
 gazdasagi
 teljesitmenyet
 de
-1994ben
+ben
 biztato
 fordulat
 kovetkezett
@@ -1222,7 +1210,6 @@ jovore
 fenntartjak
 a
 tavalyi
-45
 szazalekos
 novekedesi
 utemet
@@ -1293,7 +1280,7 @@ ket
 szazalekra
 fekezte
 le
-mh4
+mh
 belfoldaki
 osztogat
 az
@@ -1396,7 +1383,7 @@ is
 elmondta
 hogy
 az
-1942ben
+ben
 szuletett
 nok
 szamara
@@ -1422,7 +1409,6 @@ tobbszor
 elhatarolodott
 az
 elmult
-40
 ev
 buneitol
 a
@@ -1442,7 +1428,7 @@ horn
 bocsanatot
 kert
 az
-1956os
+os
 forradalom
 es
 szabadsagharc
@@ -1721,9 +1707,7 @@ a
 kotelezo
 oraszamok
 magyar
-75
 helyett
-8085
 szazalek
 tamogatast
 igert
@@ -1921,7 +1905,7 @@ hazankban
 ezer
 lakosbol
 evente
-15en
+en
 halnak
 meg
 s
@@ -1936,13 +1920,11 @@ nyugateuropaban
 ez
 az
 arany
-79
 magyarorszag
 lakossaga
 evente
 egy
 kisvarossal
-3031
 ezer
 emberrel
 kevesebb
@@ -2018,7 +2000,6 @@ jarulekot
 is
 kell
 fizetni
-1997
 januarjatol
 a
 mn
@@ -2109,7 +2090,6 @@ hogy
 a
 honorariumok
 utan
-44
 szazalekos
 tbjarulekot
 kelljen
@@ -2251,7 +2231,7 @@ demokracia
 ugy
 velte
 hogy
-1998ban
+ban
 a
 valasztasokon
 ujra
@@ -2262,7 +2242,7 @@ szerzi
 meg
 a
 tobbseget
-2002ben
+ben
 viszont
 az
 mszp
@@ -2310,7 +2290,7 @@ hosszabbitotta
 meg
 a
 jelenlegi
-1995ben
+ben
 valasztott
 vezetoseg
 mandatumat
@@ -2319,7 +2299,6 @@ az
 orszaggyulesi
 valasztasok
 elott
-1997
 januarjaban
 meg
 sor
@@ -2442,7 +2421,6 @@ hogy
 a
 tisztujitas
 befejezeseig
-1997
 januar
 vegeig
 az
@@ -2460,7 +2438,7 @@ mnhalott
 embernek
 nincs
 szemelyisegjogajunius
-19en
+en
 kezdodik
 annak
 a
@@ -2507,9 +2485,9 @@ azt
 a
 teve
 junius
-7en
+en
 es
-9en
+en
 levetitette
 a
 nagy
@@ -2550,7 +2528,6 @@ tanulmanykotet
 ezer
 peldanyban
 a
-220
 oldalas
 mu
 az
@@ -2581,7 +2558,6 @@ het
 vegen
 mar
 csak
-30
 ujabb
 beteg
 kerult
@@ -2618,11 +2594,11 @@ gyumolcslevesebol
 szarmazik
 tobb
 mint
-4000en
+en
 betegedtek
 meg
 s
-400an
+an
 kerultek
 korhazba
 eletveszelyben
@@ -2632,7 +2608,6 @@ senki
 bar
 a
 gyermekek
-90
 szazaleka
 infuziot
 kap
@@ -2652,7 +2627,6 @@ a
 het
 vegen
 gyorben
-11
 fiatalt
 korhazba
 harmat
@@ -2674,7 +2648,6 @@ koncertje
 idejen
 a
 rendorseg
-13
 feljelentest
 tett
 tobbek
@@ -2708,7 +2681,6 @@ kabitoszereztek
 ittak
 a
 helyszinen
-4045
 fokot
 mertek
 nszgyermekpornografia
@@ -2768,9 +2740,7 @@ pornofelveteleket
 es
 aktfotokat
 keszitett
-11
 es
-16
 ev
 kozotti
 lanyokrol
@@ -2778,7 +2748,6 @@ mindezt
 masfel
 kobmeternyi
 videokazetta
-15
 vaskos
 fotoalbum
 es
@@ -2787,7 +2756,6 @@ gondos
 adminisztracio
 bizonyitotta
 a
-37
 eves
 ferfi
 a
@@ -2818,7 +2786,6 @@ volt
 engedelye
 arra
 hogy
-1016
 eves
 lanyok
 szexualis
@@ -2978,7 +2945,6 @@ tobb
 lovessel
 megsebesitett
 egy
-36
 eves
 ukranmagyar
 allampolgarsagu
@@ -3186,7 +3152,6 @@ osztogatott
 lapjaval
 amely
 evente
-1014
 millio
 forintjaba
 kerul
@@ -3240,7 +3205,6 @@ adossagallomanya
 az
 iden
 ismet
-18
 milliard
 forintra
 nott
@@ -3248,7 +3212,6 @@ bar
 tavaly
 a
 kormany
-630
 millios
 keretet
 biztositott
@@ -3296,7 +3259,6 @@ nem
 jovo
 februartol
 hanem
-1997
 szeptemberetol
 novelne
 a
@@ -3337,7 +3299,6 @@ az
 oraszamok
 emelese
 csak
-45
 ezer
 pedagogus
 allasat
@@ -3345,7 +3306,6 @@ erintene
 kozvetlenul
 letezik
 ugyanis
-810
 ezer
 ures
 allashely
@@ -3397,7 +3357,6 @@ a
 nemzeti
 alaptanterv
 egyseges
-10
 evfolyamra
 szolo
 kovetelmenye
@@ -3408,7 +3367,7 @@ hivatkozva
 szerintuk
 a
 nat
-622es
+es
 belso
 pedagogiai
 szakaszolasa
@@ -3422,7 +3381,6 @@ a
 parlament
 a
 tankotelezettseg
-18
 eves
 korig
 szolo
@@ -3435,7 +3393,6 @@ mai
 formajaban
 hasznalhatatlan
 azt
-12
 evre
 kell
 kidolgozni
@@ -3447,7 +3404,6 @@ graphischer
 service
 m
 rieger
-94
 millio
 forintnyi
 tartozas
@@ -3608,7 +3564,6 @@ inditott
 pert
 a
 viconak
-100
 ezer
 dollaros
 birsagot
@@ -4084,7 +4039,6 @@ hogy
 az
 elozo
 kormanynak
-1993
 vegere
 sikerult
 megallitania
@@ -4258,7 +4212,7 @@ irasa
 magyar
 forum
 majus
-23az
+az
 alatlanos
 iskola
 hatodik
@@ -4275,9 +4229,8 @@ a
 befagyott
 duna
 jegen
-1458
 januar
-24en
+en
 amikor
 a
 tizennyolc
@@ -4293,7 +4246,6 @@ ur
 tartotta
 magat
 a
-15
 ezerhez
 ami
 a
@@ -4303,7 +4255,6 @@ szerepelt
 en
 viszont
 a
-40
 ezres
 lelekszamot
 vedelmeztem
@@ -4339,7 +4290,6 @@ egybegyult
 fegyveres
 koznemesek
 voltak
-15
 ezren
 ebbol
 eredeztetheto
@@ -4443,7 +4393,6 @@ peldaul
 a
 kezembe
 kerult
-1918
 elotti
 statisztikai
 es
@@ -4486,7 +4435,7 @@ a
 masodik
 vilaghaborurol
 es
-1956rol
+rol
 az
 iskolai
 fogyasztasra
@@ -4629,7 +4578,6 @@ jege
 ala
 ujvideken
 zsablyan
-1942
 januarjaban
 a
 magyar
@@ -4651,13 +4599,11 @@ becsulheto
 statarialis
 kivegzesre
 azutan
-1944
 oszen
 legkevesebb
 tizszeresen
 dokumentumok
 szerint
-40
 ezer
 artatlan
 polgari
@@ -4751,7 +4697,6 @@ irhato
 mint
 hitelrere
 az
-1945
 utan
 szuletettek
 generacioi
@@ -4795,7 +4740,7 @@ kis
 janos
 a
 masuj
-3i
+i
 nepszabadsagban
 lezarta
 az
@@ -4865,7 +4810,7 @@ vitazo
 irason
 az
 aprilis
-22i
+i
 szamban
 megakadt
 a
@@ -5139,7 +5084,6 @@ a
 krematoriumok
 nem
 allnak
-1943
 masodik
 feleben
 kezdte
@@ -5182,7 +5126,6 @@ az
 egyes
 taborokban
 latni
-1945
 utani
 nem
 is
@@ -5191,7 +5134,6 @@ esetben
 hiteles
 rekonstrukcio
 eredmenye
-1994
 elejen
 amikor
 a
@@ -5212,7 +5154,6 @@ kozolte
 hogy
 szamukra
 a
-600
 ezres
 magyar
 zsido
@@ -5221,7 +5162,7 @@ szam
 szent
 szam
 amikor
-1992ben
+ben
 megjelent
 a
 cserepfalvi
@@ -5319,7 +5260,7 @@ cimu
 kiadvanybol
 zrinyi
 kiado
-bp1960
+bp
 kimasolt
 eredeti
 dokumentum
@@ -5328,7 +5269,7 @@ es
 annak
 alabbi
 magyar
-forditasa10
+forditasa
 darab
 cirjkulacios
 ciangazkamra
@@ -5338,9 +5279,8 @@ waffenss
 torzsorvosa
 weimar
 weimarbuchenwald
-1944
 v
-25targy
+targy
 ciklon
 cirkulacios
 elgazosito
@@ -5357,10 +5297,9 @@ az
 egeszsegugyi
 fofelugyelo
 atirata
-1944
 v
-15rolnaploszam
-30844az
+rolnaploszam
+az
 ss
 es
 a
@@ -5382,10 +5321,8 @@ a
 buchenwaldi
 koncentracios
 taborban
-10
 db
 egyenkent
-10
 kobmeter
 terfogatu
 cian
@@ -5428,7 +5365,6 @@ lancut
 southeastern
 poland
 on
-78
 june
 to
 discuss
@@ -5498,7 +5434,6 @@ one
 was
 in
 july
-1993
 in
 salzburg
 and
@@ -5510,7 +5445,6 @@ place
 in
 slovenia
 in
-1997
 jakub
 karpinskislovak
 police
@@ -5527,7 +5461,6 @@ manak
 claimed
 during
 a
-9
 june
 tv
 debate
@@ -5657,7 +5590,6 @@ political
 update
 meeting
 on
-7
 june
 slovak
 opposition
@@ -5721,7 +5653,6 @@ narodna
 obroda
 reported
 on
-10
 june
 slovak
 national
@@ -5770,7 +5701,6 @@ hopes
 to
 win
 the
-1998
 elections
 so
 that
@@ -5794,7 +5724,6 @@ hungarian
 coexistence
 movement
 on
-7
 june
 gained
 full
@@ -5836,7 +5765,6 @@ hungarian
 dailies
 reported
 on
-10
 june
 horn
 added
@@ -5951,7 +5879,6 @@ president
 arpad
 goncz
 on
-6
 june
 unveiled
 hungarys
@@ -5966,7 +5893,6 @@ nagy
 who
 led
 the
-1956
 uprising
 against
 the
@@ -5996,7 +5922,7 @@ ceremony
 which
 marks
 the
-100th
+th
 anniversary
 of
 nagys
@@ -6049,7 +5975,6 @@ local
 elections
 held
 on
-2
 june
 do
 not
@@ -6069,7 +5994,6 @@ parliamentary
 elections
 scheduled
 for
-3
 november
 the
 main
@@ -6090,7 +6014,6 @@ the
 votes
 for
 mayor
-218
 and
 was
 first
@@ -6100,7 +6023,6 @@ ballot
 for
 local
 councils
-191
 but
 in
 the
@@ -6128,11 +6050,9 @@ romania
 cdr
 scored
 higher
-178
 than
 the
 pdsr
-169
 an
 alliance
 of
@@ -6155,7 +6075,6 @@ share
 of
 the
 vote
-434
 than
 the
 pdsr
@@ -6170,7 +6089,6 @@ disbanded
 red
 quadrangle
 coalition
-318
 meanwhile
 president
 ion
@@ -6187,7 +6105,6 @@ start
 gathering
 the
 necessary
-100000
 signatures
 of
 support
@@ -6210,7 +6127,6 @@ radio
 bucharest
 reported
 on
-8
 june
 michael
 shafirmoldovan
@@ -6238,7 +6154,6 @@ reiterated
 this
 option
 on
-10
 june
 radio
 bucharest
@@ -6312,7 +6227,6 @@ the
 general
 staff
 on
-7
 june
 said
 that
@@ -6381,7 +6295,6 @@ withdrawing
 from
 chechnya
 on
-1
 june
 doug
 clarkeyeltsin
@@ -6419,7 +6332,6 @@ round
 ntv
 reported
 on
-9
 june
 he
 also
@@ -6470,7 +6382,6 @@ to
 win
 more
 than
-50
 of
 the
 vote
@@ -6486,13 +6397,12 @@ currently
 measured
 in
 the
-mid30s
+mids
 before
 leaving
 for
 tatarstan
 on
-9
 june
 yeltsin
 met
@@ -6531,9 +6441,7 @@ series
 of
 decrees
 on
-7
 and
-8
 june
 increasing
 social
@@ -6546,10 +6454,8 @@ ordering
 the
 transfer
 of
-38
 trillion
 rubles
-790
 million
 to
 the
@@ -6562,12 +6468,10 @@ annual
 leave
 yeltsin
 on
-7
 june
 gave
 the
 government
-20
 days
 to
 submit
@@ -6603,7 +6507,6 @@ with
 garden
 plots
 on
-8
 june
 the
 president
@@ -6620,7 +6523,6 @@ the
 right
 to
 a
-50
 discount
 on
 rail
@@ -6686,7 +6588,6 @@ told
 the
 duma
 on
-7
 june
 that
 the
@@ -6713,7 +6614,7 @@ he
 said
 that
 a
-100page
+page
 glossy
 photo
 album
@@ -6748,9 +6649,7 @@ russian
 presidential
 election
 survey
-5
 june
-1996
 tsik
 chairman
 nikolai
@@ -6820,7 +6719,6 @@ news
 service
 reported
 on
-7
 june
 citing
 ap
@@ -6906,7 +6804,6 @@ europe
 reuters
 reported
 on
-8
 june
 in
 an
@@ -6918,7 +6815,6 @@ germanys
 focus
 magazine
 on
-10
 june
 he
 was
@@ -6989,16 +6885,13 @@ last
 week
 to
 transfer
-5
 trillion
 rubles
-1
 billion
 of
 the
 central
 banks
-1994
 profits
 to
 the
@@ -7008,15 +6901,12 @@ see
 omri
 daily
 digest
-6
 june
-1996
 afp
 and
 reuters
 reported
 on
-7
 june
 an
 imf
@@ -7032,7 +6922,6 @@ the
 conditions
 of
 its
-101
 billion
 extended
 facility
@@ -7057,7 +6946,6 @@ all
 time
 low
 of
-16
 in
 may
 the

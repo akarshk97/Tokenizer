@@ -1,6 +1,6 @@
 nemzet
-19960623nemzet
-19960623n
+nemzet
+n
 n
 eeeeeee
 m
@@ -88,7 +88,7 @@ magyar
 hirlap
 hetfo
 junius
-23nemzet
+nemzet
 szerkeszto
 megjegyzese
 a
@@ -215,7 +215,6 @@ nyilvantartasa
 szerint
 marcius
 vegen
-100
 uzletember
 volt
 a
@@ -428,10 +427,9 @@ se
 lehessen
 kepviselo
 a
-386
 kepviselo
 kozul
-255nek
+nek
 kell
 azonosan
 szavaznia
@@ -441,11 +439,9 @@ osszeferhetetlensegi
 torveny
 megszulethessen
 a
-209
 szocialista
 es
 a
-69
 szabad
 demokrata
 honatya
@@ -503,7 +499,7 @@ ceginformacios
 nyilvantartas
 szerint
 marcius
-28an
+an
 pontosan
 szaz
 uzletember
@@ -513,25 +509,20 @@ magyar
 parlamentben
 az
 mszp
-63
 az
 szdsz
-15
 a
 fidesz
 es
 az
 mdf
-55
 az
 fkgp
 es
 a
 kdnp
-44
 az
 mdnp
-3
 kepviselojenek
 valamint
 a
@@ -560,7 +551,6 @@ lepjen
 hatalyba
 hiszen
 ehhez
-132
 ellenzo
 voksra
 lenne
@@ -589,7 +579,6 @@ raadasul
 az
 mszp
 frakciojanak
-69
 uzletembere
 sem
 tamogatja
@@ -615,7 +604,6 @@ hogy
 az
 ellenzeki
 partok
-37
 uzletembere
 megszavaznae
 az
@@ -678,7 +666,6 @@ az
 osszeferhetetlenseg
 a
 kdnp
-19
 uzletileg
 erdektelen
 kepviseloje
@@ -687,7 +674,6 @@ egyedul
 csak
 az
 mdf
-14
 erdektelen
 kepviselojere
 szamithat
@@ -747,7 +733,6 @@ bar
 feltehetoen
 a
 frakcio
-20
 tagja
 elfogadja
 hogy
@@ -755,7 +740,6 @@ uzletember
 ne
 politizaljon
 az
-5
 partbeli
 uzletember
 minden
@@ -771,7 +755,6 @@ es
 az
 fkgp
 egyuttesen
-94
 fos
 frakcioja
 a
@@ -827,7 +810,6 @@ az
 mszp
 elvileg
 sajat
-209
 kepviselojere
 szamithat
 am
@@ -1117,7 +1099,6 @@ ecsodi
 laszlo
 mszp
 marcius
-21
 szovetkezet
 adony
 ittag
@@ -1332,7 +1313,6 @@ ugyvezeto
 izso
 mihaly
 fkgp
-4
 hangya
 szovetkezet
 pomaz
@@ -1356,7 +1336,6 @@ juhasz
 gabor
 mszp
 detto
-41
 kereskedelmi
 es
 szolgaltato
@@ -1374,8 +1353,6 @@ kiss
 peter
 mszp
 radio
-68
-18
 budapest
 kft
 fbtag
@@ -1566,7 +1543,6 @@ morvai
 ferenc
 fkgp
 megafa
-93
 favasipari
 vallalkozasi
 es
@@ -1963,9 +1939,8 @@ data
 cegnyilvantartas
 amely
 az
-1996
 marcius
-28an
+an
 meg
 hatalyos
 adatokat
@@ -2025,7 +2000,6 @@ azert
 mert
 az
 mszpnak
-63
 nyilvanvaloan
 kleptokrata
 kepviseloje
@@ -2035,7 +2009,7 @@ az
 szdsznel
 ez
 csak
-15rol
+rol
 nyilvanvalo
 na
 vajon
@@ -2120,7 +2094,7 @@ uj
 magyarorszag
 hetfo
 junius
-24lovas
+lovas
 istvan
 horn
 whitewaterjea
@@ -2538,7 +2512,7 @@ andras
 demokrata
 a
 hetilap
-24ik
+ik
 szamanak
 mutatvanycikkei
 fenn
@@ -2892,7 +2866,7 @@ nyulni
 az
 idoben
 egeszen
-1946ig
+ig
 a
 koalicios
 idokig
@@ -3046,7 +3020,6 @@ allamtalanitas
 havi
 magyar
 forum
-1996
 juniusmanapsag
 talan
 egyik
@@ -3806,7 +3779,6 @@ most
 is
 es
 mar
-40
 esztendeje
 masodrendu
 allampolgarnak
@@ -3949,7 +3921,7 @@ mig
 a
 magyarok
 az
-50os
+os
 kaliumtartalmu
 sot
 eszik
@@ -4087,7 +4059,6 @@ alig
 eri
 el
 a
-100000
 ftot
 es
 az
@@ -4095,7 +4066,6 @@ nem
 ad
 szamlat
 azonnal
-200000
 forintra
 buntetik
 elvegre
@@ -4124,7 +4094,6 @@ eszre
 hogy
 valaki
 elfelejtett
-15
 milliard
 forintot
 befizetni
@@ -4379,7 +4348,6 @@ haza
 bolcse
 tobb
 mint
-100
 eve
 mondta
 ha
@@ -4498,7 +4466,6 @@ de
 nem
 alkalmas
 egy
-40
 ev
 utani
 posztkommunista
@@ -4826,13 +4793,11 @@ buy
 foreign
 securities
 from
-1
 july
 magyar
 hirlap
 reported
 on
-24
 june
 in
 the
@@ -4883,7 +4848,6 @@ hungarian
 forints
 from
 january
-1997
 however
 the
 scope
@@ -4949,7 +4913,6 @@ ekho
 moskvy
 reported
 on
-22
 june
 her
 attackers
@@ -5032,7 +4995,6 @@ reforms
 the
 sejm
 on
-21
 june
 approved
 a
@@ -5090,7 +5052,6 @@ governors
 leaving
 only
 some
-200
 strategic
 large
 companies
@@ -5176,7 +5137,6 @@ summit
 in
 florence
 on
-22
 june
 vaclav
 klaus
@@ -5300,7 +5260,6 @@ minister
 vladimir
 meciar
 on
-21
 june
 joining
 the
@@ -5369,7 +5328,6 @@ media
 reported
 also
 on
-22
 june
 an
 official
@@ -5437,7 +5395,6 @@ president
 ion
 iliescu
 on
-2122
 june
 paid
 a
@@ -5464,7 +5421,6 @@ torino
 and
 milan
 on
-21
 june
 he
 visited
@@ -5499,7 +5455,6 @@ summit
 iliescu
 said
 on
-22
 june
 that
 isolation
@@ -5542,7 +5497,6 @@ staged
 in
 chisinau
 on
-21
 june
 moldpres
 reported
@@ -5584,9 +5538,7 @@ proclaimed
 its
 independence
 on
-27
 august
-1991
 in
 an
 opening
@@ -5629,7 +5581,6 @@ hours
 the
 duma
 on
-21
 june
 rejected
 a
@@ -5640,29 +5591,23 @@ extend
 voting
 hours
 on
-3
 july
 from
 the
 usual
-8
 am
 to
-10
 pm
 to
-6
 am
 to
 midnight
 the
 vote
 was
-202
 against
 and
 only
-117
 in
 favor
 rtr
@@ -5732,14 +5677,12 @@ against
 both
 candidates
 on
-3
 july
 ntv
 and
 rtr
 reported
 on
-23
 june
 however
 rather
@@ -5795,7 +5738,6 @@ in
 the
 government
 after
-3
 july
 and
 what
@@ -5841,9 +5783,7 @@ see
 omri
 daily
 digest
-7
 may
-1996
 laura
 belin
 in
@@ -5872,7 +5812,6 @@ continue
 ntv
 reported
 on
-22
 june
 however
 he
@@ -6025,7 +5964,6 @@ key
 to
 winning
 the
-3
 july
 presidential
 election
@@ -6035,7 +5973,6 @@ vciom
 poll
 indicates
 that
-39
 of
 those
 who
@@ -6050,16 +5987,13 @@ for
 boris
 yeltsin
 on
-3
 july
 while
 just
-14
 lean
 toward
 gennadii
 zyuganov
-6
 said
 they
 would
@@ -6067,7 +6001,6 @@ vote
 against
 both
 and
-39
 had
 trouble
 answering
@@ -6076,9 +6009,7 @@ question
 ntv
 reported
 on
-23
 june
-51
 of
 yavlinskii
 voters
@@ -6087,27 +6018,23 @@ they
 will
 back
 yeltsin
-6
 plan
 to
 vote
 for
 zyuganov
-7
 will
 vote
 against
 both
 candidates
 and
-32
 had
 trouble
 answering
 the
 question
 only
-14
 of
 zhirinovsky
 supporters
@@ -6116,27 +6043,22 @@ they
 will
 back
 yeltsin
-25
 lean
 toward
 zyuganov
-21
 plan
 to
 vote
 against
 both
 and
-32
 had
 trouble
 answering
 the
 question
 between
-2
 and
-4
 of
 those
 surveyed
@@ -6150,7 +6072,6 @@ vote
 at
 all
 on
-3
 july
 laura
 belin
@@ -6189,7 +6110,6 @@ lebed
 ntv
 reported
 on
-23
 june
 zyuganov
 also
@@ -6249,7 +6169,6 @@ meanwhile
 during
 the
 final
-10
 days
 of
 the
@@ -6277,9 +6196,7 @@ see
 omri
 daily
 digest
-20
 june
-1996
 as
 proof
 that
@@ -6314,7 +6231,6 @@ the
 kaliningrad
 oblast
 on
-23
 june
 russian
 and
@@ -6384,7 +6300,6 @@ strong
 third
 with
 almost
-20
 yeltsin
 also
 promised
@@ -6429,7 +6344,6 @@ first
 battles
 during
 the
-1941
 nazi
 invasion
 of
@@ -6448,7 +6362,6 @@ western
 agencies
 reported
 on
-22
 june
 striking
 a
@@ -6527,7 +6440,6 @@ of
 russia
 segodnya
 on
-21
 june
 published
 an
@@ -6560,7 +6472,6 @@ addressing
 the
 duma
 on
-21
 june
 security
 council
@@ -6577,9 +6488,8 @@ earlier
 see
 omri
 daily
-digest19
+digest
 june
-1996
 and
 said
 that
@@ -6703,7 +6613,6 @@ a
 press
 conference
 on
-22
 june
 lebed
 declared
@@ -6855,7 +6764,6 @@ continued
 in
 chechnya
 on
-2123
 june
 while
 talks
@@ -6870,7 +6778,6 @@ command
 on
 implementing
 the
-10
 june
 military
 agreement
@@ -6886,7 +6793,6 @@ after
 a
 meeting
 on
-22
 june
 between
 chechen
@@ -6921,7 +6827,6 @@ resume
 fighting
 later
 on
-23
 june
 tension
 rose
@@ -6959,7 +6864,6 @@ and
 two
 killed
 on
-21
 june
 by
 gunmen
@@ -6985,7 +6889,6 @@ such
 chechen
 provocations
 on
-2223
 june
 scott
 parrishjapanese
@@ -7003,7 +6906,6 @@ ministry
 spokesman
 said
 on
-21
 june
 that
 the
@@ -7066,7 +6968,6 @@ russias
 commitment
 to
 a
-1993
 pledge
 to
 bring

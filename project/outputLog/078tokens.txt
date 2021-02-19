@@ -98,7 +98,7 @@ designed
 to
 directly
 generate
-3d
+d
 maps
 of
 their
@@ -129,11 +129,11 @@ hence
 techniques
 that
 generate
-3d
+d
 elevation
 maps
 from
-2d
+d
 sonar
 backscatter
 images

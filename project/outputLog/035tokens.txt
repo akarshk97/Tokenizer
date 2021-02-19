@@ -1,11 +1,9 @@
 netshade
-20
 screen
 shotnetshade
-20
 for
 windows
-95go
+go
 backview
 the
 security

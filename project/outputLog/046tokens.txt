@@ -1,13 +1,13 @@
 lcswma
 rules
 regs
-reg5htmlancaster
+reghtmlancaster
 county
 solid
 waste
 management
 authoritylancaster
-pennsylvania1997
+pennsylvania
 rules
 and
 regulationslicenses
@@ -173,7 +173,6 @@ license
 application
 form
 and
-2500
 application
 fee
 for
@@ -221,13 +220,11 @@ lawiigeneral
 liability
 bodily
 injury
-100000
 per
 occurrence
 and
 property
 damage
-100000
 per
 occurrence
 the
@@ -252,8 +249,6 @@ who
 has
 since
 october
-18
-1988
 continuously
 held
 a
@@ -458,7 +453,7 @@ on
 or
 before
 the
-15th
+th
 day
 of
 each
@@ -538,7 +533,7 @@ no
 later
 than
 the
-15th
+th
 day
 of
 each

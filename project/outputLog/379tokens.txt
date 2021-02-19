@@ -750,7 +750,6 @@ valued
 at
 less
 than
-150
 is
 a
 misdemeanor
@@ -847,7 +846,6 @@ property
 taken
 is
 under
-300
 similarly
 whether
 a
@@ -920,7 +918,6 @@ is
 no
 more
 than
-300
 these
 crimes
 are
@@ -931,7 +928,6 @@ damage
 equals
 more
 than
-300
 the
 crimes
 are
@@ -981,7 +977,6 @@ the
 property
 damage
 exceeds
-300
 in
 contrast
 trespass
@@ -1117,7 +1112,6 @@ under
 the
 age
 of
-17
 criminal
 sexual
 abuse
@@ -1173,7 +1167,6 @@ alcohol
 concentration
 bac
 is
-10
 or
 greater
 and
@@ -1206,11 +1199,9 @@ bac
 is
 more
 than
-05
 but
 less
 than
-10
 the
 person
 may
@@ -1265,7 +1256,6 @@ dui
 offensea
 person
 age
-21
 or
 over
 who
@@ -1319,9 +1309,7 @@ punishment
 a
 fine
 of
-500
 to
-1000
 and
 five
 days
@@ -1369,7 +1357,6 @@ among
 drivers
 under
 age
-21
 the
 first
 time
@@ -1377,7 +1364,6 @@ a
 person
 under
 age
-21
 is
 convicted
 of
@@ -1412,7 +1398,6 @@ for
 drivers
 under
 age
-21
 zero
 tolerance
 means
@@ -1427,7 +1412,6 @@ bac
 of
 more
 than
-00
 even
 if
 the
@@ -1585,7 +1569,6 @@ a
 minimum
 fine
 of
-10000
 and
 possible
 imprisonment
@@ -1624,7 +1607,6 @@ under
 the
 age
 of
-21
 to
 drinkselling
 alcohol
@@ -1648,7 +1630,6 @@ under
 the
 age
 of
-21
 who
 is
 drinking
@@ -1706,7 +1687,6 @@ generally
 minors
 under
 age
-17
 who
 run
 afoul
@@ -1748,9 +1728,7 @@ between
 the
 ages
 of
-15
 and
-17
 who
 commit
 certain
@@ -1936,7 +1914,7 @@ for
 example
 if
 a
-16yearold
+yearold
 minor
 allegedly
 committed
@@ -2060,7 +2038,7 @@ court
 of
 claims
 is
-25000under
+under
 some
 illinois
 laws
@@ -2257,7 +2235,7 @@ drunk
 driving
 madd
 call
-1800getmadd
+getmadd
 for
 information
 about
@@ -2272,10 +2250,7 @@ bar
 center
 springfield
 il
-627011779
 call
-217
-5251760
 for
 information
 or
@@ -2293,19 +2268,13 @@ state
 traffic
 safety
 division
-2701
 dirksen
 parkway
 south
 springfield
 il
-62723
 phone
-217
-7851444
 tty
-800
-2522904
 contact
 the
 traffic
@@ -2327,7 +2296,6 @@ the
 free
 booklet
 dui
-1994
 fact
 bookcrime
 victims
@@ -2348,32 +2316,26 @@ claims
 capitol
 building
 room
-213
 springfield
 il
-62756
 phone
-217
-7827101illinois
+illinois
 crime
 victims
 reparation
 board
-100
 randolph
 street
 west
 chicago
 il
-60601
 phone
-312
-8142581lla
+lla
 home
 pageall
 contents
 copyright
-19951996weblocator
+weblocator
 and
 american
 research

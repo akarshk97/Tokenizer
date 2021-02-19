@@ -16,8 +16,6 @@ court
 rulingwashington
 dc
 june
-12
-1996
 representative
 rick
 white
@@ -333,7 +331,6 @@ internet
 the
 caucus
 now
-48
 members
 strong
 has
@@ -497,5 +494,3 @@ coalition
 pageposted
 on
 june
-13
-1996

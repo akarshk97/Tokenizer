@@ -1,8 +1,8 @@
 nemzet
-19960331nemzet
-19960331subject
 nemzet
-19960331xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -108,7 +108,7 @@ az
 ellenzekemagyar
 forum
 marcius
-21a
+a
 parlamenti
 demokracia
 elengedhetetlen
@@ -289,7 +289,7 @@ engedelyre
 jottek
 letre
 az
-1848as
+as
 alkotmany
 altal
 okozottkozjogi
@@ -305,7 +305,7 @@ folyamatospartstrukturakrolhiaba
 alakult
 a
 kisgazdapart
-1930ban
+ban
 ma
 magyarorszagon
 az
@@ -351,7 +351,6 @@ hogy
 sokatemlegetett
 valasztasi
 gyozelmuket
-1945
 utan
 a
 szovjet
@@ -386,7 +385,7 @@ szot
 vesztegetni
 ez
 az
-198789es
+es
 idoszakbankialakult
 formacio
 csak
@@ -415,7 +414,7 @@ evre
 aprivatizalt
 kocsmaikba
 es
-1994ben
+ben
 onnan
 tantorogtak
 visszaennyi
@@ -457,9 +456,6 @@ vilagamagyarorszagon
 csak
 zurzavaros
 idokben
-1919
-1945
-1968
 kerultekfelszinre
 gyokereik
 nem
@@ -798,7 +794,7 @@ masfel
 ev
 utan
 partja
-20szazalkos
+szazalkos
 nepszeruseget
 elvez
 ezzel
@@ -816,13 +812,13 @@ hozzaszamitjuk
 akkor
 kettentarolnak
 vagy
-32ot
+ot
 amivel
 a
 parlamentben
 a
 szavazatok
-72at
+at
 birtokolvaszavazasi
 diktaturat
 teremtettek
@@ -1093,7 +1089,7 @@ es
 esz
 nelkul
 alkalmazkodnak
-1993ban
+ban
 amikor
 antall
 escsurka
@@ -1129,7 +1125,7 @@ kerdeshezmszmp
 nincs
 mszmptagok
 vannakamikor
-1989ben
+ben
 az
 mszmp
 lazan
@@ -1380,7 +1376,7 @@ kotne
 paktumot
 aki
 kifizet
-450milliardot
+milliardot
 a
 partja
 legadazabb
@@ -1431,7 +1427,7 @@ vagy
 karrierizmusnalfolytatjukm
 ecklespiouj
 magyarorszagmarc
-28lovas
+lovas
 istvanmediabirtoklasaz
 egyesult
 allamoktol
@@ -1562,7 +1558,7 @@ szazalekos
 tulajdonba
 vehetike
 a
-tv2ot
+tvot
 azamerikai
 allaspont
 igazan
@@ -1601,10 +1597,10 @@ tudna
 nemtudna
 mert
 az
-1934es
+es
 hirkozlesi
 torveny
-310ik
+ik
 paragrafusa
 amelyeta
 kozelmultban
@@ -1619,7 +1615,6 @@ media
 kozvetlen
 kulfoldi
 birtoklasat
-20
 ra
 korlatozzakiskapu
 nincsaz
@@ -1639,7 +1634,6 @@ a
 fox
 broadcasting
 halozat
-25
 at
 nehany
 evemegvasarolja
@@ -1770,7 +1764,7 @@ uzleti
 szempontok
 ha
 a
-tv2ot
+tvot
 eppen
 khaddafiakarna
 megvasarolni
@@ -1819,7 +1813,7 @@ szempontokat
 figyelembe
 vevoamerikaiaknak
 a
-tv2re
+tvre
 ahitozo
 palmer
 volt
@@ -1865,7 +1859,6 @@ uniohozeuropai
 dialogus
 i
 evf
-5
 szam
 az
 europai
@@ -1920,7 +1913,7 @@ ez
 semkis
 teljesitmeny
 az
-1980as
+as
 evek
 vegeig
 kevesen
@@ -2015,12 +2008,12 @@ nem
 haladhatja
 mega
 gdp
-3at
+at
 az
 adossagallomany
 pedig
 annak
-60at
+at
 bizonyos
 orszagokszamara
 ez
@@ -2105,7 +2098,6 @@ is
 kellmesszebbre
 menni
 mint
-1990
 amikor
 nyugatnemetorszag
 monetaris
@@ -2431,13 +2423,13 @@ az
 olaszoknak
 sikerult
 az
-1990es
+es
 evebenannyira
 leszoritani
 az
 inflaciot
 hogy
-1999ben
+ben
 bevegyek
 oket
 a
@@ -2450,7 +2442,6 @@ a
 honfitarsainknak
 a
 magatartasatakik
-2010
 tajekan
 az
 akkori
@@ -2611,7 +2602,7 @@ grauwe
 leuveni
 egyetem
 belgiumolajgate
-7magyar
+magyar
 forumegy
 honapja
 horn
@@ -2831,7 +2822,6 @@ bolgar
 bizonyos
 bisser
 dimitrov
-1990
 elott
 kollegaja
 volt
@@ -3021,7 +3011,6 @@ az
 elozo
 szambanfelvazolt
 legalabb
-28
 cegbol
 allo
 hujber
@@ -3056,7 +3045,6 @@ ertesulhettekhogy
 hujber
 otto
 panamaban
-1
 millio
 dollar
 torzstokevel
@@ -3071,7 +3059,7 @@ rozaly
 sarkozitol
 kapta
 aki
-70eves
+eves
 koraban
 eros
 kesztetest
@@ -3089,7 +3077,7 @@ hujber
 ottonak
 a
 kesobbiekben
-meg500
+meg
 ezer
 schillinget
 ero
@@ -3114,7 +3102,7 @@ tegyuk
 szivunkre
 a
 kezunket
-1989ben
+ben
 nem
 lehetett
 kis
@@ -3130,9 +3118,8 @@ ceg
 devizahatosagi
 engedelyt
 csak
-3
 evvel
-kesobb1992ben
+kesobbben
 kapott
 mindenesetre
 a
@@ -3189,7 +3176,7 @@ csapjunk
 bele
 a
 hurokbaaz
-a3as
+aas
 rendelethujber
 otto
 meggyozodese
@@ -3345,7 +3332,7 @@ ne
 siessunk
 eloreha
 cegnel
-a3as
+aas
 rendeletekre
 kernek
 engedelyt
@@ -3596,10 +3583,8 @@ a
 trojka
 tervei
 szerint
-1995
 december
-31ig
-5
+ig
 milliodollar
 forgalom
 realizalodhat
@@ -3789,7 +3774,6 @@ fovaros
 gazdasagi
 lapja
 a
-300000
 peldanyban
 megjeleno
 meglepoen
@@ -3804,14 +3788,12 @@ novosztyi
 foglalkozik
 az
 uggyel
-1200000
 olvasojaval
 tavalyev
 vegen
 pontosabban
-1995
 november
-21ei
+ei
 szamaban
 osztja
 meg
@@ -4368,12 +4350,12 @@ kedvre
 gyul
 ki
 bajkorebe
-lep1838ftpftpifiuionopubpgpbegin
+lepftpftpifiuionopubpgpbegin
 pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

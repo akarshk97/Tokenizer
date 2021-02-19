@@ -60,5 +60,3 @@ surrey
 metro
 savings
 august
-30
-1996

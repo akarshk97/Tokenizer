@@ -93,7 +93,7 @@ seas
 admission
 office
 at
-8005523633albion
+albion
 collegealfred
 universityamherst
 collegebaldwinwallace

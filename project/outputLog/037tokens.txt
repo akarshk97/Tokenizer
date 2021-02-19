@@ -50,7 +50,6 @@ the
 introduction
 of
 workspace
-30
 these
 prerequisites
 can
@@ -482,7 +481,7 @@ expensive
 systems
 is
 the
-3d
+d
 cad
 modeller
 a
@@ -543,7 +542,6 @@ a
 library
 of
 over
-100
 industrial
 and
 educational
@@ -802,7 +800,7 @@ in
 shading
 of
 the
-3d
+d
 objects
 due
 to
@@ -1563,7 +1561,7 @@ standards
 even
 the
 standard
-rs232
+rs
 serial
 port
 poses
@@ -1963,7 +1961,7 @@ the
 robotworkspace
 rsl
 software
-3d
+d
 graphical
 simulation
 and
@@ -2049,7 +2047,7 @@ longer
 needed
 with
 workspace
-30kinematics
+kinematics
 the
 relationship
 between
@@ -2085,7 +2083,7 @@ between
 the
 robot
 linkscase
-studies1
+studies
 cimtas
 turkey
 choice
@@ -2095,7 +2093,7 @@ for
 overhead
 arc
 welding
-workcell2
+workcell
 british
 gas
 choice
@@ -2105,7 +2103,7 @@ for
 long
 term
 test
-rig3
+rig
 university
 of
 plymouth
@@ -2136,11 +2134,8 @@ of
 robot
 simulations
 ltdcopyright
-1996
 robot
 simulations
 ltdlast
 revision
-3
 april
-1996

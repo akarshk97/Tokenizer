@@ -1,6 +1,6 @@
 nemzet
-19960621nemzet
-19960621n
+nemzet
+n
 n
 eeeeeee
 m
@@ -127,7 +127,7 @@ hetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfoldfejreallitott
 demokraciaborisz
 jelcin
@@ -278,9 +278,9 @@ massziv
 hatalomatmentes
 folyik
 a
-90es
 es
-94es
+es
+es
 demokratikus
 valasztasok
 nalunk
@@ -289,7 +289,7 @@ eppen
 ilyen
 ures
 kirakatrendezesek
-voltak2
+voltak
 gazdasagazt
 hoznak
 ki
@@ -339,7 +339,6 @@ adossag
 atalakitasaval
 tobb
 mint
-100
 miliardot
 kap
 pluszban
@@ -366,7 +365,6 @@ ujsagiras
 tovabbi
 talanyai
 a
-26
 orszag
 kozulutolso
 harmadik
@@ -399,22 +397,19 @@ tagok
 kozott
 magyarorszag
 az
-1994es
+es
 adatok
 alapjan
 a
-414
 milliard
 dollaros
 gdp
 a
-24
 helyet
 kapta
 az
 osszehasonlitasban
 csak
-26
 orszag
 szerepel
 mert
@@ -441,7 +436,6 @@ magyarorszagon
 eleg
 alacsony
 korulbelul
-4000
 dollar
 am
 a
@@ -453,7 +447,6 @@ szamitasba
 veve
 az
 ertek
-6300
 dollar
 a
 prognozis
@@ -471,8 +464,7 @@ hogy
 lett
 a
 mi
-4000unkbol
-6300
+unkbol
 ha
 a
 skalat
@@ -480,7 +472,6 @@ individualisan
 atirjuk
 az
 egesz
-26
 orszagos
 besorolasnak
 semmi
@@ -491,7 +482,7 @@ ezek
 hulyeneknegyedev
 alatt
 majdnem
-10al
+al
 zuhant
 a
 realber
@@ -537,13 +528,11 @@ nem
 haladja
 meg
 a
-2
 szazalekot
 azonban
 az
 elso
 negyedevi
-95
 szazalek
 mar
 most
@@ -605,7 +594,6 @@ szakszervezetek
 megallapodasanak
 megfeleloen
 legfeljebb
-2
 szazalekos
 lehet
 a
@@ -641,12 +629,12 @@ megfizetniuk
 megpedig
 jelentos
 realbercsokkenessel
-um1
+um
 belpolitikamint
 pufjkas
 megoltem
 szabadsagharcosokat
-56ban
+ban
 most
 pedig
 loptam
@@ -670,12 +658,11 @@ megjelent
 uj
 magyarorszag
 junius
-20hivatalos
+hivatalos
 ingatlanszakertoi
 velemenyek
 szerint
 legalabb
-100120
 millio
 forintot
 er
@@ -702,7 +689,6 @@ iii
 kerulet
 remetehegyi
 ut
-178
 szam
 alatti
 villatelekhez
@@ -721,7 +707,6 @@ a
 telek
 forgalmi
 erteke
-1520
 millio
 forinthorn
 gyula
@@ -745,7 +730,6 @@ xiii
 kerulet
 ujpesti
 rakpart
-11
 szamu
 hazban
 volt
@@ -806,7 +790,7 @@ munkasai
 a
 hornvillat
 felepitettekaz
-1994es
+es
 parlamenti
 valasztasokat
 kovetoen
@@ -867,7 +851,6 @@ uti
 epitkezes
 a
 minegy
-500
 negyzetmeteres
 villa
 kivitelezeset
@@ -887,14 +870,12 @@ a
 ceg
 torzstokeje
 allitolag
-16
 milliard
 forint
 es
 ugy
 tudjuk
 korulbelul
-200
 dolgozot
 foglalkoztattak
 az
@@ -905,7 +886,6 @@ bejelentett
 brutto
 atlagkeresete
 mindossze
-2030
 ezer
 forint
 kozott
@@ -941,7 +921,6 @@ luxuskivitelu
 villa
 alapterulete
 legalabb
-150160
 negyzetmeter
 az
 ingatlanbol
@@ -954,7 +933,6 @@ sem
 hianyzik
 hozzavetoleges
 erteke
-20
 millio
 forint
 korul
@@ -1018,7 +996,7 @@ ablakok
 alatt
 allo
 cos
-978as
+as
 rendszamu
 mercedes
 allami
@@ -1218,7 +1196,6 @@ a
 bizottsag
 letrehozasahoz
 szukseges
-78
 kepviseloi
 alairas
 osszegyujteset
@@ -1502,7 +1479,6 @@ hivatkozva
 megemlitette
 hogy
 a
-100120
 milliotero
 hornvilla
 epiteseben
@@ -1888,7 +1864,7 @@ elvarnak
 tole
 elvegre
 amikor
-56rol
+rol
 es
 pufajkas
 multjarol
@@ -2065,13 +2041,11 @@ iranyelveirol
 ertesulesek
 szerint
 jovore
-18
 szazalekos
 inflacioval
 a
 fizetesi
 merleg
-15
 millio
 dollaros
 hianyaval
@@ -2080,7 +2054,6 @@ es
 azzal
 hogy
 jovore
-22
 ezer
 allashely
 szunik
@@ -2090,7 +2063,6 @@ kozponti
 koltsegvetesi
 szferaban
 es
-20
 ezer
 az
 onkormanyzatok
@@ -2103,7 +2075,6 @@ hogy
 nem
 tamogatja
 a
-10
 ezer
 korhazi
 agy
@@ -2209,7 +2180,6 @@ szabadmuvelodesi
 alapitvany
 tobb
 mint
-30
 millios
 vesztesege
 mogott
@@ -2336,7 +2306,6 @@ az
 mdfnek
 csakugy
 mint
-1990
 elott
 masreszt
 igyekeznek
@@ -2588,7 +2557,7 @@ bizottsaganak
 jelentese
 amely
 a
-mig29es
+miges
 repulok
 lengyelorszagi
 gyakorlata
@@ -2607,7 +2576,7 @@ ugy
 hatarozott
 hogy
 julius
-3ig
+ig
 kesziti
 el
 jelenteset
@@ -2786,7 +2755,6 @@ cel
 hogy
 a
 varhatoan
-2628
 szazalekos
 inflaciotol
 legfeljebb
@@ -2800,7 +2768,6 @@ et
 az
 ervenyben
 levo
-195
 szazalekos
 emeles
 helyett
@@ -3030,10 +2997,8 @@ a
 magyarorszagert
 vik
 evf
-10
-szamaban1996
+szamaban
 majus
-28
 tisztelt
 miniszter
 urezt
@@ -3277,9 +3242,8 @@ ilyen
 fajta
 szemelyeket
 dicsoitunk
-1996
 marcius
-15en
+en
 mi
 itt
 kulfoldon
@@ -3296,7 +3260,7 @@ kezunkben
 osszejottunk
 hogy
 megemlekezzunk
-1848rol
+rol
 meleg
 szivvel
 konnyes
@@ -3355,7 +3319,7 @@ magyart
 akikert
 mi
 imadkozunk
-1956ban
+ban
 a
 zaszlonkbol
 kiteptuk
@@ -3387,7 +3351,7 @@ on
 ugyanugy
 megszegyenitette
 az
-1848as
+as
 szabadsagharc
 emleknapjat
 mint
@@ -3604,7 +3568,6 @@ magyar
 hirlap
 reported
 on
-21
 june
 citing
 top
@@ -3637,14 +3600,12 @@ went
 on
 line
 in
-1982
 its
 life
 span
 was
 estimated
 at
-30
 years
 but
 management
@@ -3670,9 +3631,7 @@ facilities
 life
 span
 by
-10
 to
-15
 years
 during
 the
@@ -3731,7 +3690,6 @@ belarusian
 radio
 reported
 on
-20
 june
 the
 eu
@@ -3804,7 +3762,6 @@ officials
 from
 more
 than
-30
 countries
 belonging
 to
@@ -3818,14 +3775,13 @@ met
 in
 warsaw
 on
-20
 june
 for
 a
 fourday
 conference
 the
-13th
+th
 nato
 workshop
 nato
@@ -3922,7 +3878,6 @@ minority
 government
 met
 on
-20
 june
 for
 the
@@ -4005,7 +3960,6 @@ meeting
 is
 scheduled
 for
-21
 june
 steve
 kettleslovak
@@ -4019,7 +3973,6 @@ aside
 vladimir
 meciar
 on
-20
 june
 announced
 that
@@ -4100,9 +4053,7 @@ see
 omri
 daily
 digest
-11
 june
-1996
 sns
 and
 zrs
@@ -4149,7 +4100,6 @@ sdl
 meciar
 met
 on
-20
 june
 with
 representatives
@@ -4270,7 +4220,6 @@ the
 slovak
 parliament
 on
-20
 june
 reapproved
 a
@@ -4337,7 +4286,6 @@ law
 takes
 effect
 on
-1
 september
 sharon
 fisherimf
@@ -4353,7 +4301,6 @@ it
 will
 withhold
 a
-70
 million
 tranche
 of
@@ -4375,7 +4322,6 @@ rferl
 correspondent
 reported
 on
-20
 june
 an
 imf
@@ -4396,7 +4342,6 @@ further
 use
 of
 a
-480
 million
 credit
 until
@@ -4422,7 +4367,6 @@ of
 this
 year
 totaled
-335
 million
 and
 the
@@ -4458,29 +4402,24 @@ has
 predicted
 that
 the
-1996
 wheat
 harvest
 will
 not
 exceed
-22
 tons
 per
 hectare
 down
 from
-45
 tons
 in
-1991
 bulgarian
 and
 international
 media
 reported
 on
-20
 june
 this
 would
@@ -4489,7 +4428,6 @@ the
 lowest
 yield
 in
-20
 years
 and
 would
@@ -4569,7 +4507,6 @@ the
 european
 parliament
 on
-20
 june
 demanded
 that
@@ -4637,7 +4574,6 @@ osce
 report
 on
 the
-26
 may
 elections
 was
@@ -4660,7 +4596,6 @@ albania
 koha
 jone
 on
-20
 june
 claimed
 that
@@ -4847,10 +4782,7 @@ loka
 were
 jailed
 for
-16
-18
 and
-20
 years
 respectively
 the
@@ -4867,12 +4799,10 @@ deportations
 of
 up
 to
-500
 people
 afp
 reported
 on
-20
 june
 fabian
 schmidtcommunist
@@ -4885,7 +4815,6 @@ leader
 gennadii
 zyuganov
 on
-20
 june
 charged
 that
@@ -4962,7 +4891,6 @@ campaign
 itartass
 reported
 on
-20
 june
 duma
 defense
@@ -5010,7 +4938,6 @@ events
 during
 the
 night
-1920
 june
 and
 the
@@ -5064,7 +4991,6 @@ jobs
 ntv
 reported
 on
-20
 june
 the
 arrests
@@ -5148,7 +5074,6 @@ i
 was
 arrested
 at
-5
 pm
 at
 the
@@ -5167,14 +5092,12 @@ yevstafev
 told
 ntv
 on
-20
 june
 the
 men
 held
 him
 until
-3
 am
 without
 explanation
@@ -5202,7 +5125,6 @@ planted
 reuters
 reported
 on
-20
 june
 he
 said
@@ -5257,7 +5179,6 @@ aleksandr
 korzhakov
 said
 on
-20
 june
 that
 he
@@ -5289,7 +5210,6 @@ his
 critical
 comments
 on
-20
 june
 describing
 him
@@ -5320,9 +5240,7 @@ see
 omri
 daily
 digest
-23
 may
-1996
 like
 korzhakov
 exfsb
@@ -5334,7 +5252,7 @@ his
 career
 in
 the
-9th
+th
 kgb
 directorate
 and
@@ -5382,7 +5300,6 @@ barsukov
 and
 soskovets
 on
-20
 june
 president
 yeltsin
@@ -5481,10 +5398,8 @@ had
 squandered
 more
 than
-300
 billion
 rubles
-60
 million
 after
 the
@@ -5559,7 +5474,6 @@ the
 sackings
 with
 the
-1920
 june
 incident
 involving
@@ -5678,7 +5592,6 @@ western
 agencies
 reported
 on
-20
 june
 soskovets
 was
@@ -5729,7 +5642,6 @@ deputy
 prime
 minister
 on
-18
 june
 after
 losing
@@ -5774,7 +5686,6 @@ and
 economics
 minister
 in
-1993
 at
 the
 time
@@ -5806,7 +5717,6 @@ barsukov
 president
 yeltsin
 on
-20
 june
 named
 a
@@ -5830,7 +5740,6 @@ tass
 reported
 born
 in
-1949
 kovalev
 has
 worked
@@ -5838,7 +5747,6 @@ in
 state
 security
 since
-1974
 he
 served
 for
@@ -5920,7 +5828,6 @@ signed
 a
 decree
 on
-20
 june
 appointing
 head
@@ -5956,7 +5863,6 @@ in
 two
 days
 on
-19
 june
 yeltsin
 issued
@@ -5972,7 +5878,6 @@ krapivin
 had
 headed
 since
-1995
 the
 fso
 that
@@ -6068,7 +5973,6 @@ staff
 aslan
 maskhadov
 on
-20
 june
 ordered
 his
@@ -6093,7 +5997,6 @@ a
 similar
 statement
 of
-17
 june
 itartass
 and
@@ -6122,7 +6025,6 @@ the
 implementation
 of
 the
-10
 june
 peace
 agreement
@@ -6139,7 +6041,6 @@ military
 representatives
 planned
 for
-21
 june
 has
 been
@@ -6183,10 +6084,8 @@ village
 of
 alkhanyurt
 on
-19
 june
 and
-15
 russian
 troops
 were
@@ -6200,7 +6099,6 @@ to
 ekho
 moskvy
 on
-20
 june
 a
 russian
@@ -6240,7 +6138,6 @@ bank
 may
 reverse
 its
-10
 june
 decision
 to
@@ -6252,22 +6149,17 @@ commercial
 banks
 by
 some
-2
 trillion
 rubles
-395
 million
 see
 omri
 daily
 digest
-11
 june
-1996
 itartass
 reported
 on
-20
 june
 the
 bank
@@ -6281,7 +6173,6 @@ inflationary
 effect
 of
 transferring
-1
 billion
 of
 the
@@ -6348,7 +6239,6 @@ held
 a
 meeting
 on
-19
 june
 to
 discuss
@@ -6417,23 +6307,18 @@ ministries
 there
 are
 currently
-34
 fpgs
 uniting
-1457
 firms
 and
-49
 banks
 they
 account
 for
-10
 of
 gdp
 up
 from
-2
 a
 year
 ago

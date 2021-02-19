@@ -12,12 +12,11 @@ scholars
 club
 ps
 clubseptember
-7
-1993revised
+revised
 by
 executive
 board
-72794article
+article
 i
 namesection
 i
@@ -466,7 +465,6 @@ by
 a
 vote
 of
-23
 of
 those
 members
@@ -485,7 +483,6 @@ the
 executive
 board
 a
-23
 majority
 of
 those

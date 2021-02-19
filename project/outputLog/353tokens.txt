@@ -1,8 +1,8 @@
 nemzet
-19960209nemzet
-19960209subject
 nemzet
-19960209xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -149,7 +149,6 @@ of
 transsylvaniaerdely
 transsylvania
 since
-1920
 is
 part
 of
@@ -194,7 +193,6 @@ the
 diet
 oftorda
 in
-1568
 declared
 for
 the
@@ -331,7 +329,7 @@ hungarianamerican
 coalition
 friday
 morningtibor
-cseh731711111compuservecomregionalis
+csehcompuservecomregionalis
 hirekslovak
 language
 law
@@ -352,7 +350,6 @@ democratic
 movementmkdh
 agreed
 on
-7
 february
 to
 take
@@ -446,7 +443,6 @@ oecd
 was
 removed
 on
-7
 february
 when
 an
@@ -553,7 +549,6 @@ the
 international
 heraldtribune
 on
-8
 february
 said
 that
@@ -630,7 +625,6 @@ of
 it
 afpreported
 on
-7
 february
 the
 news
@@ -660,7 +654,6 @@ mooreukrainian
 roundup
 ukraine
 on
-7
 february
 formally
 took
@@ -736,7 +729,6 @@ who
 was
 accused
 ofembezzling
-25
 million
 zvyahilsky
 sought
@@ -760,7 +752,6 @@ jewsthat
 right
 intelnews
 on
-6
 february
 reported
 that
@@ -797,7 +788,6 @@ affairs
 visited
 poland
 on
-7
 februaryfor
 talks
 with
@@ -869,7 +859,6 @@ amendment
 the
 slovakparliament
 on
-7
 february
 passed
 an
@@ -898,7 +887,6 @@ the
 privatizationprocess
 sme
 on
-7
 february
 writes
 that
@@ -959,7 +947,6 @@ providing
 for
 aswap
 of
-452
 hectares
 of
 territory
@@ -1004,7 +991,7 @@ western
 agencies
 reported
 on
-8february
+february
 chernomyrdin
 has
 long
@@ -1068,7 +1055,7 @@ hometown
 of
 yekaterinburg
 on
-15february
+february
 laura
 belinpolice
 cordon
@@ -1097,7 +1084,6 @@ during
 the
 afternoon
 of
-8
 february
 russian
 andchechen
@@ -1110,7 +1096,6 @@ the
 square
 occupied
 bysome
-2000
 produdaev
 demonstrators
 itartass
@@ -1143,7 +1128,7 @@ the
 demonstrators
 early
 on
-9february
+february
 police
 opened
 fire
@@ -1169,19 +1154,17 @@ russia
 has
 offered
 germany
-200mig29
+mig
 jet
 fighters
 to
 offset
-25
 billion
 worth
 of
 debt
 ntv
 reportedon
-6
 february
 quoting
 argumenty
@@ -1194,7 +1177,7 @@ force
 inheriteda
 squadron
 of
-mig29s
+migs
 from
 east
 germany
@@ -1219,7 +1202,6 @@ international
 monetary
 fund
 saidon
-8
 february
 that
 it
@@ -1229,7 +1211,6 @@ the
 release
 of
 a
-105
 billion
 loanto
 russia
@@ -1238,7 +1219,6 @@ final
 tranche
 of
 a
-63
 billion
 dollar
 standby
@@ -1247,7 +1227,6 @@ with
 moscow
 in
 april
-1995
 afp
 reported
 the
@@ -1266,7 +1245,6 @@ with
 russiastrack
 record
 in
-1995
 of
 full
 implementation
@@ -1285,13 +1263,11 @@ expectedto
 visit
 moscow
 on
-21
 february
 to
 sign
 a
 threeyear
-9
 billion
 loanagreement
 peter
@@ -1304,7 +1280,7 @@ liberalization
 reuters
 reported
 on
-9february
+february
 that
 the
 imf
@@ -1322,7 +1298,6 @@ precondition
 for
 the
 new
-9
 billion
 loan
 most
@@ -1330,7 +1305,6 @@ such
 dutieswere
 lifted
 from
-1
 january
 this
 year
@@ -1367,7 +1341,6 @@ the
 last
 quarter
 of
-1995
 the
 government
 is
@@ -1383,7 +1356,7 @@ level
 of
 inflation
 meanwhile
-on8
+on
 february
 the
 five
@@ -1409,7 +1382,6 @@ assets
 currently
 valued
 in
-1992
 prices
 they
 claimthis
@@ -1421,7 +1393,6 @@ increases
 of
 up
 to
-80
 revaluation
 would
 makeit
@@ -1441,7 +1412,6 @@ rutlandrussianus
 technology
 deals
 on
-8
 february
 representatives
 of
@@ -1476,7 +1446,6 @@ ofthe
 gorechernomyrdin
 commission
 on
-2930
 january
 gazprom
 will
@@ -1493,9 +1462,8 @@ be
 worth
 up
 to
-1billion
+billion
 over
-20
 years
 the
 group
@@ -1509,7 +1477,6 @@ of
 twoyamal
 satellites
 in
-1997
 using
 molniya
 booster
@@ -1536,7 +1503,7 @@ purchase
 engines
 for
 the
-il96
+il
 aircraft
 from
 the
@@ -1565,10 +1532,9 @@ cimmelsan
 jose
 mercury
 news
-feb8
-1996
+feb
 page
-1by
+by
 jim
 puzzanghera
 staff
@@ -1896,7 +1862,7 @@ nemzetkozi
 nyomasnak
 elejet
 vegyekjanuar
-25en
+en
 a
 deutsche
 telekom
@@ -1961,7 +1927,7 @@ forradalmat
 ezert
 a
 jan
-25i
+i
 nemet
 akcio
 utan
@@ -2016,7 +1982,6 @@ te
 is
 zundelotthonlapot
 legfeljebb
-5
 perc
 munkaval
 cmozgalmat
@@ -2094,7 +2059,6 @@ german
 action
 on
 jan
-25
 zundels
 site
 was
@@ -2411,7 +2375,7 @@ es
 szabad
 velemenyek
 a
-szerk1
+szerk
 kulpolitikaifor
 ahogy
 kozeledik
@@ -2534,7 +2498,7 @@ elott
 rogziteni
 kell
 a
-szerk2
+szerk
 gazdasagbanktitok
 es
 imfgyamsag
@@ -2671,7 +2635,7 @@ es
 a
 masodrendu
 jamniczky
-zoltannet44
+zoltannet
 ev
 vegrehajtando
 bortonbuntetesre
@@ -2709,12 +2673,12 @@ ismeretes
 hogy
 a
 bank
-vezetoi1992
+vezetoi
 aprilis
-7e
+e
 es
 junius
-23a
+a
 kozott
 a
 banktevekenysegrevonatkozo
@@ -2767,7 +2731,7 @@ okoztak
 a
 penz
 nyomtalanul
-eltuntnepszabadsag3
+eltuntnepszabadsag
 belpolitikabokros
 sajat
 bevallasa
@@ -2941,7 +2905,7 @@ a
 kormany
 es
 a
-48os
+os
 szemelyi
 jovedelemado
 ellenaz
@@ -3051,7 +3015,6 @@ frakciojakezdemenyezi
 majd
 a
 legnagyobb
-48
 szazalekos
 szemelyijovedelemadokulcs
 eltorleset
@@ -3064,7 +3027,7 @@ mondjon
 le
 mig
 a
-marc14ikormanybucsuztatas
+marcikormanybucsuztatas
 ki
 nem
 sopri
@@ -3146,7 +3109,7 @@ nagygyulesrees
 faklyasmenetre
 keszul
 marcius
-14en
+en
 amelyre
 mar
 tobb
@@ -3203,9 +3166,8 @@ allamtitkarnak
 bejelentesere
 miszerint
 a
-nyugdijjarulekot10
+nyugdijjarulekot
 szazalekrol
-1820
 szazalekra
 kellene
 emelni
@@ -3267,7 +3229,6 @@ jelentosreszenel
 az
 aranyosnal
 nagyobb
-40
 szazalekos
 szemelyijovedelamadoeloleget
 vontak
@@ -3486,7 +3447,7 @@ nincsenek
 felkeszulve
 arra
 hogymar
-1997tol
+tol
 emelkedjen
 a
 nyugdijkorhatar
@@ -3557,7 +3518,7 @@ izraelita
 felekezet
 nehezmenyezi
 az
-1os
+os
 felso
 hatart
 szemelyiadokbol
@@ -3641,7 +3602,6 @@ part
 szerint
 a
 jelenlegi
-386
 fo
 helyett
 le
@@ -3649,7 +3609,7 @@ kellenecsokkenteni
 a
 kepviselok
 szamat
-200ra
+ra
 a
 fidesz
 javasolni
@@ -3748,7 +3708,7 @@ adni
 a
 baloldal
 kihivasara
-1998ban
+ban
 akkor
 tartosanmarad
 magyarorszagon
@@ -3959,7 +3919,6 @@ akiado
 ma
 nem
 rendezi
-128
 millios
 tartozasat
 akkor
@@ -4067,7 +4026,7 @@ tendenciakkal
 szemben
 mint
 ahogy
-1993oszen
+oszen
 a
 la
 stampa
@@ -4109,7 +4068,6 @@ tulajdonosa
 a
 kordax
 rt
-140
 millio
 forintos
 tartozasanakrendezesere
@@ -4184,7 +4142,7 @@ am
 a
 fenti
 osszeg
-csupan45
+csupan
 napra
 elegendo
 hogy
@@ -4321,13 +4279,13 @@ el
 vegre
 egy
 hatarozott
-hang1848
+hang
 landerer
 es
 heckenaustja
 ota
 marcius
-15en
+en
 talan
 most
 eloszorfogja
@@ -4337,7 +4295,7 @@ megint
 attorni
 a
 cenzorok
-remuralmat4
+remuralmat
 partoskodascsurka
 es
 pozsgay
@@ -4621,7 +4579,7 @@ pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

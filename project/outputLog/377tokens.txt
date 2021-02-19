@@ -1,6 +1,6 @@
 nemzet
-19960705nemzet
-19960705n
+nemzet
+n
 n
 eeeeeee
 m
@@ -124,7 +124,7 @@ eshetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfoldjelcinaz
 oroszorszagi
 elnokvalasztasokat
@@ -140,25 +140,21 @@ az
 allamfo
 a
 szavazatok
-99
 szazalekanak
 osszesitese
 alapjan
 tamogatottsaga
 megkozeliti
 az
-54
 szazalekot
 mig
 gennagyij
 zjuganov
-405
 szazalekot
 ert
 el
 a
 reszvetel
-67
 szazalekos
 volt
 a
@@ -222,7 +218,7 @@ uj
 korszak
 fele
 kormanyozza
-mh2
+mh
 hatarontulautonomiatanacsot
 javasol
 a
@@ -411,7 +407,7 @@ kisebbsegpolitika
 is
 ervenyesulni
 fog
-mn3
+mn
 gazdasagenergiaaremeles
 jon
 a
@@ -432,7 +428,6 @@ tobb
 aremelesi
 szintet
 koztuk
-20
 szazalek
 alattit
 is
@@ -480,7 +475,6 @@ aremelesi
 szint
 lesz
 koztuk
-20
 alatti
 issok
 olvasoban
@@ -490,7 +484,6 @@ annyi
 ragad
 meg
 hogy
-20
 alatt
 marad
 az
@@ -505,12 +498,10 @@ majd
 a
 szokonapokon
 ejjel
-2
 es
-230
 kozotti
 energiaar
-199al
+al
 novekedik
 majd
 mig
@@ -518,7 +509,7 @@ a
 tobbi
 talan
 csak
-35alszocialis
+alszocialis
 erzeketlenseg
 legyen
 csak
@@ -553,12 +544,10 @@ arak
 mellett
 kilonkent
 atlagosan
-959
 forintot
 elmeletileg
 osszesen
 evi
-071
 milliard
 forintot
 a
@@ -629,7 +618,7 @@ allo
 bank
 egyik
 szeket
-nszv4
+nszv
 belfoldelfogadas
 elott
 a
@@ -750,7 +739,6 @@ elfogadhatatlan
 es
 megalapozatlan
 legfeljebb
-2
 forintos
 emeles
 indokolt
@@ -768,15 +756,12 @@ figyelni
 hogy
 lesz
 a
-360as
+as
 kenyerbol
-10360
 es
 a
-2
 forintos
 novekedesbol
-22
 forintos
 a
 miniszterelnok
@@ -900,7 +885,6 @@ es
 mukodesi
 feltetelek
 megteremtesere
-680
 millio
 forintot
 folyositanak
@@ -983,12 +967,11 @@ forma
 reven
 jelentosen
 megemelkedett
-1995ben
+ben
 az
 elozo
 evhez
 kepest
-44
 szazalekkal
 nott
 a
@@ -1044,7 +1027,6 @@ ebben
 az
 evben
 mar
-10
 ezer
 lakas
 epitese
@@ -1059,7 +1041,6 @@ kiadas
 aranyat
 a
 koltsegvetesben
-4
 szazalekon
 kivanja
 stabilizalni
@@ -1163,7 +1144,7 @@ vallalt
 celok
 vegrehajtasaert
 varhatoan
-1998ig
+ig
 fennmarad
 a
 koalicio
@@ -1310,7 +1291,7 @@ csupan
 kulon
 induljon
 az
-1998as
+as
 valasztasokon
 hanem
 az
@@ -1435,12 +1416,10 @@ orszaggyuloles
 a
 parlamentbenaz
 orszaggyules
-1996ban
-37
+ban
 uj
 torvenyt
 es
-29
 torvenymodositast
 fogadott
 el
@@ -1450,7 +1429,6 @@ az
 eredeti
 jogalkotasi
 program
-7080
 szazalekat
 teljesitette
 kozolte
@@ -1544,10 +1522,8 @@ az
 fkgp
 kezdemenyezesehez
 eddig
-79
 kepviselo
 csatlakozott
-78
 alairasra
 volt
 szukseg
@@ -1589,7 +1565,6 @@ szerepel
 az
 iveken
 a
-79
 kepviselo
 kozott
 nincs
@@ -1653,7 +1628,7 @@ erintett
 hozzajarulasaval
 hozhato
 nyilvanossagra
-nsz72os
+nszos
 tobbseggel
 sem
 tud
@@ -1664,7 +1639,6 @@ bandaaz
 mdf
 szerint
 a
-72
 szazalekos
 parlamenti
 tobbseggel
@@ -1688,7 +1662,6 @@ tudomasul
 hogy
 a
 kormany
-33
 torvenyjavaslatot
 nem
 terjesztett
@@ -2056,7 +2029,6 @@ alapjan
 elmarad
 a
 tervezett
-195
 szazalekos
 eves
 brutto
@@ -2100,7 +2072,7 @@ hogy
 elall
 a
 julius
-8ara
+ara
 meghirdetett
 forgalomlassito
 demonstracio
@@ -2189,7 +2161,6 @@ a
 mediatorveny
 modositasat
 amely
-80
 szazalekban
 megfelel
 ugyan
@@ -2219,7 +2190,6 @@ sugarzasanak
 kotelezo
 aranyat
 legalabb
-51
 szazalekban
 hatarozza
 meg
@@ -2271,12 +2241,11 @@ meleghykomplementar
 und
 ehrenvorsitzenderdr
 dr
-meleghygrupped51469
+meleghygrupped
 bergisch
 gladbachdegasperistrassse
-81996
 junius
-25nyilt
+nyilt
 level
 tisztelt
 horn
@@ -2573,7 +2542,7 @@ hogy
 mint
 huszar
 fohadnagy
-1946ban
+ban
 innsbruckba
 kerultem
 a
@@ -2643,7 +2612,7 @@ volt
 ennek
 kovetkezteben
 hazank
-23at
+at
 teptek
 elelnok
 uren
@@ -2694,7 +2663,6 @@ tragediajabanszerencsetlen
 nepunknek
 tobb
 mint
-4
 millio
 tagja
 hatarainkon
@@ -2759,7 +2727,6 @@ gyulabencsik
 andraselvtarsak
 baj
 vandemokrata
-27
 httpwwwsiliconvalleycomdemokrata
 mar
 akkor
@@ -3242,9 +3209,8 @@ el
 poznanba
 az
 ottani
-1956os
+os
 munkasfelkeles
-40
 evfordulojara
 mert
 a
@@ -3281,9 +3247,8 @@ tudtuk
 volnatallozoaz
 uj
 ember
-1996
 junius
-30i
+i
 szamaboljalsovszky
 gyorgy
 rovatajalsomaildatanethua
@@ -3637,7 +3602,6 @@ melyre
 szerenyebb
 becslesek
 szerint
-3035
 ezren
 voltak
 kivancsiak
@@ -3655,7 +3619,6 @@ hogy
 nem
 lehet
 alom
-4045
 fokos
 melegben
 futballozni
@@ -3666,7 +3629,6 @@ fradi
 nyert
 es
 igy
-26
 alkalommal
 allhatott
 a
@@ -3710,7 +3672,6 @@ mondas
 egy
 csapat
 teljesitmenyet
-3040
 szazalekban
 az
 edzo
@@ -3986,7 +3947,7 @@ jellemzo
 peldaul
 hogy
 a
-9596os
+os
 bajnoksagban
 mindossze
 ket
@@ -4025,23 +3986,16 @@ es
 kiadohivatala
 terjesztes
 elofizetes
-1053
 budapest
 kossuth
 l
 u
-1
 postacim
-1364
 budapest
 pf
-111
 tel
-361117
-3661
 fax
-361117
-3471az
+az
 uj
 ember
 tallozo
@@ -4079,10 +4033,8 @@ second
 round
 voting
 on
-3
 july
 with
-97
 of
 thevote
 counted
@@ -4097,7 +4049,6 @@ atmidday
 moscow
 time
 on
-4
 july
 the
 results
@@ -4109,17 +4060,11 @@ national
 news
 service
 wereturnout
-6725
-73
 millionboris
 yeltsin
-5370
-38936208zyuganov
-4041
-29301089against
+zyuganov
+against
 all
-486
-35
 millionthe
 final
 tally
@@ -4139,7 +4084,6 @@ in
 a
 television
 address
-4
 july
 yeltsin
 saluted
@@ -4192,7 +4136,6 @@ than
 he
 had
 on
-1
 july
 reuters
 reported
@@ -4205,10 +4148,8 @@ his
 kremlin
 residence
 at
-830
 am
 on
-4
 july
 according
 to
@@ -4241,7 +4182,6 @@ government
 itartass
 reported
 on
-4
 july
 duma
 speaker
@@ -4249,7 +4189,6 @@ gennadii
 seleznev
 said
 on
-4
 july
 that
 the
@@ -4317,7 +4256,6 @@ the
 duma
 elected
 in
-1993
 since
 the
 constitution
@@ -4351,9 +4289,7 @@ professionals
 presidential
 advisers
 on
-3
 and
-4
 july
 were
 united
@@ -4515,7 +4451,6 @@ campaigns
 press
 center
 on
-3
 july
 but
 he
@@ -4526,7 +4461,6 @@ as
 he
 voted
 on
-3
 july
 lebed
 reiterated
@@ -4668,7 +4602,6 @@ in
 the
 day
 on
-3
 july
 only
 television
@@ -4721,7 +4654,6 @@ on
 the
 evening
 of
-3
 july
 advisers
 and
@@ -4897,7 +4829,6 @@ government
 afp
 reported
 on
-3
 july
 deputy
 duma
@@ -4917,7 +4848,6 @@ russian
 tv
 reported
 on
-3
 july
 people
 feared
@@ -5114,7 +5044,6 @@ ekho
 moskvy
 reported
 on
-3
 july
 robert
 orttunginternational
@@ -5145,7 +5074,6 @@ president
 bill
 clinton
 on
-3
 july
 hailed
 the
@@ -5275,7 +5203,6 @@ moscow
 press
 conference
 on
-4
 july
 international
 election
@@ -5294,7 +5221,6 @@ parliament
 declared
 that
 the
-3
 july
 runoff
 had
@@ -5355,7 +5281,6 @@ some
 minor
 irregularities
 about
-1300
 international
 observers
 participated
@@ -5438,7 +5363,6 @@ to
 ekho
 moskvy
 on
-3
 july
 foreign
 observers
@@ -5448,9 +5372,7 @@ european
 media
 institute
 noted
-50
 to
-60
 media
 violations
 all
@@ -5502,7 +5424,6 @@ had
 such
 advantages
 in
-1992
 said
 simes
 he
@@ -5582,7 +5503,6 @@ there
 were
 up
 to
-15
 mobile
 ballot
 boxes
@@ -5614,7 +5534,6 @@ some
 direct
 campaigning
 on
-2
 july
 in
 support
@@ -5685,7 +5604,7 @@ in
 the
 first
 round
-on16
+on
 june
 a
 high
@@ -5707,11 +5626,9 @@ in
 latvia
 zyuganov
 won
-75
 and
 in
 estonia
-77
 of
 the
 vote
@@ -5735,22 +5652,18 @@ turkmenistan
 however
 where
 almost
-4000
 ballots
 were
 cast
 zyuganov
 won
 with
-495
 to
 yeltsins
-475
 a
 reuters
 report
 from
-3
 july
 said
 that
@@ -5867,7 +5780,6 @@ he
 did
 not
 receive
-10000
 penny
 morvantpollsters
 made
@@ -5934,12 +5846,10 @@ problems
 rnisinp
 they
 predicted
-53
 support
 for
 yeltsin
 and
-3840
 for
 zyuganov
 both
@@ -5953,7 +5863,6 @@ romir
 polling
 agencies
 predicted
-50
 of
 the
 vote
@@ -5970,7 +5879,6 @@ overestimated
 by
 giving
 him
-46
 while
 romir
 was
@@ -5980,7 +5888,6 @@ with
 its
 prediction
 of
-39
 public
 opinion
 foundation
@@ -5998,14 +5905,12 @@ vote
 against
 both
 candidates
-4
 while
 other
 agencies
 reckoned
 on
 about
-7
 anna
 paretskayaefforts
 to
@@ -6036,7 +5941,6 @@ russia
 told
 omri
 on
-4
 july
 that
 efforts
@@ -6167,9 +6071,7 @@ see
 omri
 special
 report
-2
 july
-1996
 shokhin
 said
 our
@@ -6187,7 +6089,6 @@ new
 union
 also
 on
-4
 july
 democratic
 russia
@@ -6374,7 +6275,6 @@ argued
 that
 before
 january
-1996
 russia
 had
 only
@@ -6388,7 +6288,6 @@ or
 liberal
 since
 january
-1996
 urnov
 claimed
 the

@@ -4,8 +4,8 @@ crteraceites
 para
 carterelain
 sjsae
-15w40
-a2
+w
+a
 sj
 de
 alta
@@ -23,9 +23,9 @@ normalmente
 aspirados
 o
 turboalimentadossae
-15w40
-b3
-cf4
+w
+b
+cf
 especficamente
 desarrollado
 para
@@ -45,8 +45,8 @@ elain
 diesel
 elain
 ultrasae
-10w30
-a1
+w
+a
 sj
 semisinttico
 es
@@ -67,10 +67,9 @@ la
 categora
 energy
 conservingsae
-5w40
-a3
+w
+a
 sj
-100
 sinttico
 de
 ltima
@@ -100,9 +99,7 @@ que
 emplean
 gncmonogrado
 sae
-3040
 o
-50
 api
 sfcc
 asegura
@@ -133,7 +130,7 @@ super
 mvil
 hd
 suplemento
-1ir
+ir
 a
 lubricantes
 automotrices

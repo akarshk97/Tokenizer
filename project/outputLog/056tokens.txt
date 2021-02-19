@@ -13,7 +13,6 @@ the
 space
 shuttle
 in
-1984
 it
 acquired
 data
@@ -27,9 +26,9 @@ sirb
 image
 of
 deathvalley
-44k
+k
 imaging
 radar
 home
 pageupdated
-82394brucechapmanjplnasagov
+brucechapmanjplnasagov

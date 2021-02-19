@@ -1,13 +1,11 @@
 nemzet
 jnius
-30
 vasrnap
 nemzet
 magyar
 internet
-vilglap1996
+vilglap
 jnius
-30
 vasrnaphttpwwwsiliconvalleycomnemzethtmlsubsnemzetmagyarsiliconvalleycom
 nemzetstratgia
 iii
@@ -15,9 +13,8 @@ tallz
 az
 j
 ember
-1996
 jnius
-23i
+i
 szmboljalsovszky
 gyrgy
 rovataezen
@@ -25,7 +22,6 @@ a
 hten
 a
 hetilap
-2500
 szmt
 vehettk
 kzbe
@@ -54,7 +50,6 @@ a
 kkbeaz
 j
 ember
-2500
 szmt
 tartjk
 kezkben
@@ -474,7 +469,6 @@ s
 megvallani
 s
 majdan
-5000
 szamunk
 megjelenst
 ismegnnepelhetik
@@ -574,23 +568,17 @@ szerkesztsge
 s
 kiadhivatala
 terjeszts
-elfizets1053
+elfizets
 budapest
 kossuth
 l
 u
-1
 postacm
-1364
 budapest
 pf
-111
 tel
-361117
-3661
 fax
-361117
-3471tovbbi
+tovbbi
 katolikus
 sajttermkekrl
 szerezhet
@@ -609,7 +597,7 @@ iii
 rszmagyar
 frum
 jnius
-20raffay
+raffay
 ernvltozatlanul
 rvnyben
 van
@@ -705,7 +693,7 @@ eltrbe
 a
 mostani
 kormnyf
-1994es
+es
 kijelentsemiszerint
 nem
 tizent
@@ -886,7 +874,6 @@ a
 klpolitikt
 meghatroz
 helyzetaz
-1920
 ta
 eltelt
 hromnegyed
@@ -932,7 +919,7 @@ mlypontok
 pldul
 a
 felvidki
-helyzet19451948
+helyzet
 kztt
 amikor
 a
@@ -961,7 +948,7 @@ tekinthet
 az
 erdlyi
 helyzet
-19451946ban
+ban
 amikor
 mindenmeglv
 rossz
@@ -971,7 +958,6 @@ magyarsg
 kapott
 bizonyos
 lehetsgeket
-1947
 aprizsi
 bkeszerzds
 alirsa
@@ -1066,7 +1052,6 @@ is
 trianonidejn
 ott
 egy
-32
 falubl
 ll
 egybefgg
@@ -1255,7 +1240,7 @@ jelenti
 hogy
 pldul
 az
-1920as
+as
 vek
 romn
 polgri
@@ -1322,11 +1307,9 @@ pldul
 az
 els
 sszromn
-1923
 s
 az
 elssszjugoszlv
-1921
 alkotmny
 kztta
 trianoni
@@ -1491,7 +1474,7 @@ ez
 az
 jfajta
 megkzelits
-hrmaskapcsolatrendszer1
+hrmaskapcsolatrendszer
 a
 nyugati
 orszgok
@@ -1502,7 +1485,7 @@ nyugati
 diplomciai
 katonai
 s
-gazdasgiintegrcik2
+gazdasgiintegrcik
 az
 n
 szomszdos
@@ -1524,7 +1507,7 @@ anyagi
 rtkekettartanak
 a
 birtokukban
-s3
+s
 a
 szomszdos
 orszgok
@@ -1574,7 +1557,6 @@ ezek
 a
 hatalmak
 azelmlt
-75
 v
 alatt
 nem
@@ -1924,7 +1906,7 @@ ez
 a
 magyarellenes
 szvetsg
-1996prilisi
+prilisi
 hir
 jozef
 sestak
@@ -2036,9 +2018,9 @@ a
 magyarsgrelisan
 flvetheti
 az
-1920as
+as
 s
-1947es
+es
 bkeszerzds
 a
 trianoni
@@ -2379,7 +2361,6 @@ bncselekmnyekrl
 a
 htlensgrl
 az
-1723
 vi
 trvnyalkots
 hasonl
@@ -2414,7 +2395,6 @@ trtnhete
 pusztn
 szban
 az
-184748
 vi
 un
 prilisi
@@ -2478,12 +2458,11 @@ gy
 gondozd
 a
 zsiddat
-1015
 v
 brtnrtstolmr
 g
 ilonaaz
-1996os
+os
 kossuthdjak
 kiosztsa
 utn
@@ -2600,8 +2579,7 @@ elkpzelhet
 hogy
 engem
 itlnek
-8tl
-15
+tl
 vig
 terjedelzrsra
 pedig
@@ -2694,8 +2672,6 @@ kt
 szt
 ld
 hunnia
-19958
-4548
 oldal
 a
 szerk
@@ -2925,7 +2901,6 @@ eltt
 tisztba
 tenni
 szoptats
-3
 rnknttaln
 ennyi
 is
@@ -3012,7 +2987,6 @@ helyettdemokrcia
 jogllam
 egyenlsg
 az
-1100
 ve
 shonos
 magyarsgegyenjogsga
@@ -3024,7 +2998,6 @@ esterhzy
 pter
 nemkossuthdjat
 hanem
-15
 v
 brtnbntetst
 kap
@@ -3035,7 +3008,6 @@ vagy
 ha
 n
 nem
-15
 vet
 kapnk
 azrt
@@ -3091,7 +3063,6 @@ nem
 azoknak
 akik
 mr
-1100
 ve
 jl
 megszoktk
@@ -3137,7 +3108,6 @@ ptkezs
 idejemagyar
 hrlap
 jn
-29
 szombatpintr
 dezs
 interjjaaz
@@ -3222,7 +3192,6 @@ elveszti
 erejt
 s
 mrcius
-14
 ta
 ez
 trtnik
@@ -3388,7 +3357,6 @@ hatra
 s
 ez
 trtnik
-35
 fokos
 knikulban
 meg
@@ -3427,7 +3395,6 @@ osztagokat
 a
 mdszereket
 mrcius
-14
 ta
 remek
 kurzuson
@@ -3500,7 +3467,7 @@ a
 kossuth
 tren
 mrcius
-14n
+n
 elmondott
 beszdtelszr
 is
@@ -3602,7 +3569,6 @@ adnak
 igazatlehetsges
 hogy
 mrcius
-14
 ta
 egyetlen
 ellenvlemny
@@ -3659,7 +3625,6 @@ kevs
 jele
 ltszik
 mrcius
-14
 ta
 tartzkodbb
 vlt
@@ -3712,7 +3677,6 @@ mert
 a
 fggetlen
 kisgazdaprt
-88
 ve
 olyan
 trtnelmi
@@ -3827,7 +3791,6 @@ ki
 a
 rokonszenves
 figura
-1994
 eltt
 is
 sokan
@@ -3936,13 +3899,11 @@ a
 kisgazdaprt
 mltjhoz
 tartozik
-1945
 novemberi
 vlasztsi
 gyzelme
 amelynek
 sorn
-5703
 szzalkot
 rt
 el
@@ -4164,7 +4125,6 @@ el
 m
 eljtt
 mrcius
-16
 amikor
 szjer
 jzsef
@@ -4412,7 +4372,6 @@ arra
 hogy
 az
 mdf
-1998
 utn
 is
 parlamenti
@@ -4903,7 +4862,7 @@ magunk
 fejlesztsre
 valamint
 az
-1998tl
+tl
 rnk
 vr
 feladatra

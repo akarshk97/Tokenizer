@@ -1,6 +1,6 @@
 nemzet
-19960910nemzet
-19960910n
+nemzet
+n
 n
 eeeeeee
 m
@@ -127,7 +127,7 @@ hetilap
 anyagot
 szabadon
 utankozolhetonek
-tart1
+tart
 kulfoldpufajkas
 new
 yorkba
@@ -143,7 +143,6 @@ tudja
 mega
 szocialista
 internacionale
-20
 haromnapos
 kongresszusa
 hetfon
@@ -356,7 +355,6 @@ eloszor
 orvosolni
 kellene
 a
-70
 eves
 kommunizmus
 horngyulak
@@ -402,9 +400,8 @@ miniszterelnok
 irt
 ala
 brusszelben
-1991
 december
-16an
+an
 berke
 barna
 egyetemi
@@ -444,7 +441,7 @@ kozvetlenul
 alkalmazandok
 magyarorszag
 teruleten
-vg2
+vg
 hatarontulmegbomlott
 a
 lantosfunar
@@ -602,7 +599,7 @@ kormanykuldottseg
 elen
 utazik
 szeptember
-16an
+an
 temesvarra
 a
 magyarroman
@@ -1061,12 +1058,10 @@ iranyitja
 a
 cooperative
 lantern
-96
 fedonevu
 gyakorlatot
 amelyen
 magyarorszagrol
-24
 tiszt
 es
 katona
@@ -1194,7 +1189,7 @@ szerinte
 megtagadta
 a
 julius
-5i
+i
 kozos
 magyarmagyar
 nyilatkozatban
@@ -1237,7 +1232,6 @@ szlovak
 es
 magyar
 kepviselojenek
-10
 tagu
 kuldottsege
 amelynek
@@ -1415,7 +1409,6 @@ tanulmany
 megallapitja
 a
 megkerdezett
-100100
 alban
 magyar
 muszlim
@@ -1424,7 +1417,6 @@ roman
 szlovak
 es
 ruszin
-501
 szazaleka
 tart
 az
@@ -1432,7 +1424,6 @@ esetleges
 jogsertesekrol
 a
 megkerdezettek
-17
 szazaleka
 elsosorban
 a
@@ -1477,7 +1468,6 @@ jogaik
 csorbitasat
 a
 megkerdezettek
-397
 szazaleka
 panaszkodott
 arra
@@ -1492,7 +1482,6 @@ oktatas
 teruleten
 a
 valaszolok
-286
 szazaleka
 szamolt
 be
@@ -1557,7 +1546,7 @@ majd
 reszt
 a
 november
-3ra
+ra
 kiirt
 jugoszlaviai
 parlamenti
@@ -1571,7 +1560,7 @@ hogy
 az
 ugyancsak
 november
-3an
+an
 sorra
 kerulo
 helyhatosagi
@@ -1657,7 +1646,7 @@ epitett
 kia
 nato
 az
-1994ben
+ben
 utjara
 inditott
 partnerseg
@@ -1677,7 +1666,7 @@ nem
 kerulnek
 be
 az
-1997es
+es
 boviteskor
 jelentette
 az
@@ -1765,7 +1754,7 @@ tartja
 elso
 uleset
 az
-1997es
+es
 bovitesbol
 kimaradok
 szambavetelere
@@ -1798,7 +1787,7 @@ tett
 ketnapos
 latogatast
 szeptember
-67en
+en
 dr
 szentivanyi
 istvan
@@ -1905,13 +1894,11 @@ helyre
 ideiglenesen
 a
 kozel
-200
 meter
 hosszusagu
 hid
 zagrabtol
 mintegy
-180
 kilometerre
 delkeletre
 a
@@ -2000,7 +1987,6 @@ epiteset
 az
 ukran
 hatarallomastol
-800
 meterre
 kezdtek
 el
@@ -2020,11 +2006,9 @@ a
 kamionallomas
 terulete
 kozel
-10
 hektar
 es
 egyszerre
-200
 jarmu
 befogadasara
 lesz
@@ -2085,7 +2069,7 @@ megis
 lesz
 ketoldalu
 megbeszeles
-mh3
+mh
 belfoldpufajkas
 beintett
 az
@@ -2130,7 +2114,6 @@ terv
 decemberig
 havonta
 atlag
-1215
 torveny
 vagy
 torvenymodositas
@@ -2214,7 +2197,6 @@ a
 lapnak
 elmondta
 bar
-78
 ellenzeki
 honatya
 kezdemenyezese
@@ -2276,7 +2258,7 @@ kepviselo
 tegye
 hozzaferhetove
 az
-1994ben
+ben
 tett
 vagyonnyilatkozatatnszaz
 alliberalis
@@ -2851,7 +2833,6 @@ idei
 evre
 megallapodaban
 rogzitett
-195
 szazalekos
 beremeleshez
 a
@@ -2875,11 +2856,9 @@ a
 kormany
 a
 korabbi
-45
 milliard
 forint
 helyett
-67
 milliard
 forintot
 igert
@@ -2894,7 +2873,6 @@ levo
 intezmenyek
 dolgozoinak
 finanszirozasahoz
-45
 milliardot
 biztosit
 ha
@@ -2911,7 +2889,6 @@ felszazalekos
 beremelest
 igernek
 a
-340
 ezer
 kozalkalmazottnak
 szabo
@@ -2991,7 +2968,6 @@ kvalifikalt
 koztisztviseloi
 kozalkalmazotti
 korben
-33
 ezer
 forint
 a
@@ -3026,8 +3002,7 @@ sem
 fognak
 felebrednijovo
 augusztustol
-12rol
-9
+rol
 honapra
 csokkentik
 a
@@ -3063,7 +3038,6 @@ kormany
 az
 iden
 potlolagosan
-23
 milliard
 forintot
 utal
@@ -3109,7 +3083,7 @@ tudni
 hogy
 a
 mig
-29es
+es
 vadaszrepulok
 alkotmanyellenes
 lengyelorszagi
@@ -3191,7 +3165,6 @@ atlagosan
 egy
 lakos
 evente
-77
 dollar
 erteku
 gyogyszert
@@ -3199,12 +3172,10 @@ szed
 addig
 egy
 nemet
-401
 dollart
 mig
 egy
 francia
-553
 dollar
 erteku
 gyogyszert
@@ -3331,7 +3302,6 @@ az
 a
 kulonvonat
 amely
-192
 menedekest
 szallitott
 a
@@ -3343,10 +3313,10 @@ menekultek
 tobbsege
 bosnyak
 meg
-1992ben
+ben
 erkezett
 nagyatadra
-mn4
+mn
 gazdasaggazdasag
 helyett
 csalasok
@@ -3391,7 +3361,7 @@ a
 sportban
 ne
 legyen
-csalas11
+csalas
 magyar
 uszot
 hamis
@@ -3487,9 +3457,7 @@ bingolotto
 kft
 szamlajarol
 ebbol
-704
 milliot
-3600
 nyertes
 kozott
 kellett
@@ -3545,7 +3513,6 @@ kompenzalja
 a
 veratomlesztesjuliusban
 minimalis
-29
 millio
 dollaros
 hiany
@@ -3558,7 +3525,6 @@ szemben
 az
 elozo
 havi
-196
 millio
 dollaros
 deficittel
@@ -3570,7 +3536,6 @@ a
 beerkezo
 mukodotoke
 amely
-198
 millio
 dollart
 ert
@@ -3625,7 +3590,6 @@ az
 aruforgalmi
 merlegben
 atlagos
-242
 millio
 dollaros
 passzivum
@@ -3649,21 +3613,18 @@ akkora
 a
 kivitel
 juliusban
-115
 milliard
 dollar
 volt
 szemben
 a
 tavalyi
-108
 milliard
 dollarral
 az
 import
 erteke
 juliusban
-139
 milliard
 dollart
 ert
@@ -3674,7 +3635,6 @@ alatt
 a
 bankrendszeren
 keresztul
-921
 millio
 dollar
 mukodotoke
@@ -3694,7 +3654,6 @@ hianyat
 ami
 julius
 vegeig
-963
 millio
 dollar
 volt
@@ -3801,10 +3760,8 @@ az
 ideihez
 kepest
 csaknem
-50
 szazalekkal
 mintegy
-300
 milliard
 forinttal
 novekednek
@@ -3880,7 +3837,7 @@ folytatni
 eroteljesebb
 novekedesre
 csak
-1998tol
+tol
 lehet
 szamitani
 mhmagyar
@@ -4778,7 +4735,7 @@ gyakorlatra
 a
 cooperative
 chance
-96ra
+ra
 jellemzo
 hogy
 mi
@@ -4868,7 +4825,7 @@ ezzel
 a
 belga
 legiero
-f16osanak
+fosanak
 felderito
 repulesevel
 kezdodik
@@ -4908,7 +4865,6 @@ keres
 a
 cooperative
 chance
-96
 forgatokonyve
 ugyanis
 nem
@@ -4922,7 +4878,7 @@ gondosan
 osszeallitott
 szcenario
 szerint
-71es
+es
 erossegu
 foldrenges
 erte
@@ -4997,7 +4953,6 @@ nehez
 megfejteni
 a
 chance
-96
 mogottes
 uzeneteit
 sem
@@ -5029,7 +4984,6 @@ viszont
 az
 operativitasbol
 a
-16
 nemzet
 katonainak
 gordulekeny
@@ -5069,7 +5023,6 @@ times
 peldaul
 ugy
 tudja
-1997
 vagyis
 a
 clintoni
@@ -5149,7 +5102,6 @@ szervezett
 szolnokon
 a
 chance
-96
 ellen
 nagy
 kerdes
@@ -5179,7 +5131,7 @@ bejon
 egy
 lomha
 legcsavaros
-an30as
+anas
 lassan
 tekintelyesen
 ez
@@ -5245,7 +5197,6 @@ az
 elso
 lepcsoben
 vagyis
-1997
 tavaszan
 bukarest
 erre
@@ -5315,7 +5266,7 @@ veletlen
 hogy
 a
 chance
-96tal
+tal
 egy
 idoben
 naluk
@@ -5438,7 +5389,7 @@ a
 kulonfele
 egyenruhak
 a
-130as
+as
 megjelenesere
 eloszor
 az
@@ -5520,7 +5471,7 @@ herkulest
 bolgar
 es
 magyar
-an26osok
+anosok
 kovetik
 ok
 is
@@ -5529,7 +5480,7 @@ majd
 jon
 egy
 magyar
-mi8as
+mias
 helikopter
 mely
 eloltja
@@ -5540,7 +5491,7 @@ langolo
 kadnyi
 tuzet
 szegeny
-an26osaink
+anosaink
 novemberre
 elerik
 maximalis
@@ -5578,7 +5529,7 @@ kerul
 de
 legalabb
 ket
-an26os
+anos
 mindig
 szolgalatban
 maradjon
@@ -5813,12 +5764,12 @@ korszerutlenseg
 erzese
 a
 nemetek
-uh1dje
+uhdje
 peldaul
 nagyobb
 a
 mi
-mi8ainknal
+miainknal
 de
 ugy
 latjuk
@@ -5843,7 +5794,6 @@ tekintve
 nem
 a
 mi
-8
 kategoriaja
 am
 ahogy
@@ -6176,7 +6126,7 @@ nagy
 szenzacioja
 egy
 belga
-c130as
+cas
 elelmiszerekbol
 satrakbol
 allo
@@ -6205,7 +6155,6 @@ iranyitani
 a
 tobb
 mint
-50
 tonnas
 gepet
 tomegevel
@@ -6325,7 +6274,7 @@ elen
 tenyleg
 egy
 amerikai
-f16os
+fos
 olaszorszagi
 tamaszpontjarol
 jott
@@ -6336,7 +6285,7 @@ szorosan
 mellettemogotte
 pedig
 harom
-mig29es
+miges
 mindez
 talan
 azt
@@ -6358,7 +6307,7 @@ ket
 spanyol
 felsegjelzesu
 mirage
-f1es
+fes
 rettenetes
 az
 elfogo
@@ -6459,23 +6408,19 @@ megirja
 azt
 is
 hogy
-180
 millio
 forintba
 kerult
 a
 csupan
-1100
 katonat
 s
-50
 legijarmuvet
 mozgato
 gyakorlat
 s
 a
 koltsegek
-20
 szazalekat
 a
 magyar
@@ -6601,13 +6546,11 @@ minister
 gyorgy
 keleti
 on
-9
 september
 announced
 that
-40
 overhauled
-t72
+t
 tanks
 purchased
 from
@@ -6618,7 +6561,6 @@ in
 hungary
 on
 september
-20
 as
 part
 of
@@ -6634,11 +6576,9 @@ hungarian
 dailies
 reported
 another
-60
-t72
+t
 tanks
 and
-30
 new
 armored
 personnel
@@ -6676,7 +6616,7 @@ in
 may
 of
 hungarian
-mig29
+mig
 fighters
 in
 a
@@ -6699,9 +6639,7 @@ basic
 military
 service
 from
-12
 to
-9
 months
 starting
 next
@@ -6709,7 +6647,6 @@ august
 nepszabadsag
 reported
 on
-10
 september
 ben
 slayczech
@@ -6730,7 +6667,6 @@ minister
 jan
 ruml
 on
-9
 september
 agreed
 to
@@ -6769,10 +6705,8 @@ several
 czech
 banks
 some
-12
 billion
 crowns
-440
 million
 were
 lost
@@ -6850,7 +6784,6 @@ opposition
 representatives
 met
 on
-9
 september
 to
 discuss
@@ -7006,7 +6939,6 @@ spokesman
 jozef
 mazar
 on
-9
 september
 announced
 his
@@ -7149,7 +7081,6 @@ romania
 libera
 reported
 on
-9
 september
 george
 gorton
@@ -7173,7 +7104,6 @@ with
 a
 staff
 of
-16
 experts
 meanwhile
 the
@@ -7219,7 +7149,6 @@ million
 lei
 or
 some
-315
 to
 a
 couple
@@ -7241,7 +7170,6 @@ and
 afp
 reported
 on
-8
 september
 that
 israel
@@ -7252,7 +7180,6 @@ agreement
 to
 modernize
 around
-100
 mig
 fighterbombers
 for
@@ -7305,7 +7232,7 @@ missiles
 usually
 mounted
 on
-mig29
+mig
 michael
 shafiryeltsin
 discusses
@@ -7385,7 +7312,6 @@ on
 him
 kommersantdaily
 on
-10
 september
 commented
 that
@@ -7484,7 +7410,6 @@ vacation
 itartass
 reported
 on
-10
 september
 yeltsin
 however
@@ -7584,7 +7509,6 @@ secretary
 aleksandr
 lebed
 on
-9
 september
 examined
 a
@@ -7685,7 +7609,6 @@ of
 europe
 announced
 on
-9
 september
 that
 security
@@ -7697,7 +7620,6 @@ travel
 to
 strasbourg
 on
-23
 september
 with
 chechen
@@ -7827,7 +7749,6 @@ according
 to
 vek
 on
-612
 september
 from
 now
@@ -7953,7 +7874,6 @@ and
 itartass
 reported
 on
-9
 september
 the
 remark
@@ -8056,7 +7976,6 @@ directors
 of
 more
 than
-20
 industrial
 firms
 in
@@ -8067,7 +7986,6 @@ prime
 minister
 chernomyrdin
 on
-9
 september
 to
 provide
@@ -8130,10 +8048,8 @@ increase
 electricity
 prices
 from
-1
 october
 on
-10
 september
 local
 trade
@@ -8169,7 +8085,6 @@ an
 indefinite
 strike
 on
-16
 september
 the
 latter
@@ -8179,11 +8094,9 @@ back
 wages
 totaling
 some
-125
 billion
 rubles
 about
-234
 million
 and
 have
@@ -8245,7 +8158,6 @@ to
 vote
 in
 the
-22
 september
 presidential
 election
@@ -8260,7 +8172,6 @@ noyan
 tapan
 reported
 on
-9
 september
 according
 to
@@ -8274,7 +8185,6 @@ central
 electoral
 committee
 about
-10000
 armenians
 living
 abroad
@@ -8285,7 +8195,6 @@ vote
 although
 an
 estimated
-800000
 armenians
 are
 thought
@@ -8297,7 +8206,6 @@ according
 to
 ekspresskhronikha
 on
-10
 september
 the
 number
@@ -8322,7 +8230,6 @@ instance
 there
 are
 only
-172
 registered
 voters
 bezirijian

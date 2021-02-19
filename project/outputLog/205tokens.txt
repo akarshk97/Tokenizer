@@ -16,8 +16,6 @@ a
 facilities
 tour
 february
-1012
-1997
 cocoa
 beach
 flwhat
@@ -390,7 +388,6 @@ aeronautics
 and
 astronautics
 aiaatuition
-995
 earlyregistration
 and
 group
@@ -609,7 +606,6 @@ a
 ralph
 has
 over
-35
 years
 of
 experience
@@ -710,7 +706,6 @@ major
 aerospace
 corporations
 including
-20
 years
 with
 ibm

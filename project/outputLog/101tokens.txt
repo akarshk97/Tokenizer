@@ -166,7 +166,7 @@ arc
 welding
 techniques
 the
-2mm
+mm
 car
 where
 every
@@ -174,7 +174,7 @@ robot
 weld
 is
 within
-2mm
+mm
 of
 the
 intended
@@ -218,7 +218,7 @@ further
 to
 achieve
 the
-1mm
+mm
 car
 this
 has
@@ -356,7 +356,7 @@ very
 precisely
 using
 a
-3d
+d
 coordinate
 measuring
 device
@@ -456,7 +456,7 @@ techniques
 to
 derive
 the
-3d
+d
 position
 of
 the
@@ -996,11 +996,11 @@ that
 accurate
 repeatabilities
 of
-01mm
+mm
 and
 accuracies
 of
-10mm
+mm
 or
 worse
 are
@@ -1032,7 +1032,6 @@ aims
 for
 a
 triple
-20
 but
 instead
 puts
@@ -1042,7 +1041,6 @@ darts
 in
 the
 number
-6
 with
 all
 three
@@ -1074,7 +1072,7 @@ darts
 throws
 three
 treble
-20s
+s
 his
 darts
 are
@@ -1147,7 +1145,7 @@ detected
 by
 measuring
 the
-3d
+d
 coordinates
 of
 the
@@ -1200,7 +1198,6 @@ use
 since
 up
 to
-50
 measurements
 may
 be
@@ -1274,7 +1271,7 @@ within
 a
 repeatability
 of
-03mm
+mm
 if
 a
 higher
@@ -1350,7 +1347,6 @@ of
 having
 to
 use
-2
 conventional
 theodolites
 and
@@ -1360,12 +1356,12 @@ is
 accurate
 to
 about
-0025mm
+mm
 though
 this
 degrades
 to
-0050mm
+mm
 under
 shop
 floor
@@ -1405,7 +1401,7 @@ customers
 requiring
 accuracies
 circa
-1mm
+mm
 should
 use
 robotrak
@@ -1416,7 +1412,7 @@ accuracies
 much
 lower
 than
-1mm
+mm
 should
 use
 smartonce
@@ -1450,7 +1446,7 @@ fixture
 datum
 points
 this
-3point
+point
 touchup
 is
 often
@@ -1593,7 +1589,6 @@ can
 be
 anything
 from
-2
 inches
 to
 a
@@ -1644,7 +1639,6 @@ fixture
 or
 we
 created
-120
 offline
 programmes
 for
@@ -1744,7 +1738,7 @@ make
 certain
 of
 the
-following1
+following
 one
 person
 is
@@ -1773,7 +1767,7 @@ there
 are
 no
 more
-changes2
+changes
 the
 simulation
 goes
@@ -1948,11 +1942,8 @@ of
 robot
 simulations
 ltdcopyright
-1996
 robot
 simulations
 ltdlast
 revision
-3
 april
-1996

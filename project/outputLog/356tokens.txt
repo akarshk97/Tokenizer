@@ -1,8 +1,8 @@
 nemzet
-19960427nemzet
-19960427subject
 nemzet
-19960427xsubscribe
+subject
+nemzet
+xsubscribe
 subsnemzetmagyarsiliconvalleycomxunsubscribe
 unsubsnemzetmagyarsiliconvalleycomxwwwpage
 httpwwwsiliconvalleycomnemzethtmlxdisclaimer
@@ -125,7 +125,6 @@ szerzetesseliden
 tavasszal
 tolti
 be
-86
 evet
 faddy
 othmar
@@ -231,7 +230,6 @@ a
 szuleimtol
 a
 teologiana
-9
 ev
 bortonben
 es
@@ -1365,7 +1363,6 @@ hogy
 kolcsonre
 szoruljon
 es
-100
 evigfizesse
 majd
 a
@@ -1834,8 +1831,7 @@ a
 kozosseg
 elleni
 izgatasrolkotott
-keve1996aprilis
-17
+keveaprilis
 a
 birosag
 megfelelo
@@ -1938,7 +1934,6 @@ embertol
 nem
 tudok
 elviselnipeldaul
-1995
 oszen
 egy
 nagyforgalmu
@@ -2112,7 +2107,7 @@ dolgozo
 kukubenkobrigad
 a
 normat
-1200ra
+ra
 teljesitettede
 hadd
 ne
@@ -2142,7 +2137,7 @@ pgp
 public
 key
 blockversion
-22mqcnajca14aaaeealktqti1bvtfs63rv0zpytqz3mi0inprfk0sjw71ypw0qmmedov8x0uzaekyg455idb9qfc7tei7xwzgpsigbuxlhun4htoonfhirjg2cde3ig53ossh2ohrym3o0oztnrokkofax8wz9wzqsrnqc5fpbxjfqg43bm6trfgrjaaurtchozw16zxqgpg5lbxpldebtywd5yxiuc2lsawnvbnzhbgxles5jb20wgggend
+mqcnajcaaaaeealktqtibvtfsrvzpytqzmiinprfksjwypwqmmedovxuzaekygidbqfcteixwzgpsigbuxlhunhtoonfhirjgcdeigosshohrymooztnrokkofaxwzwzqsrnqcfpbxjfqgbmtrfgrjaaurtchozwzxqgpglbxpldebtywdyxiuclsawnvbnzhbgxlesjbwgggend
 pgp
 public
 key

@@ -61,7 +61,6 @@ composite
 of
 death
 valley
-11
 mbytesairsar
 data
 color
@@ -81,7 +80,6 @@ dune
 types
 corner
 reflectorsetc
-687
 kbytesairsar
 data
 color
@@ -99,7 +97,6 @@ to
 various
 dune
 typesetc
-667
 kbytesboundary
 layer
 micrometeorology
@@ -116,7 +113,6 @@ in
 the
 golden
 canyonimage
-258
 kbytes
 our
 study
@@ -175,4 +171,4 @@ imaging
 radar
 home
 pageupdated
-42795brucechapmanjplnasagov
+brucechapmanjplnasagov

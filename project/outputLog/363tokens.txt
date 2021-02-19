@@ -1,6 +1,6 @@
 nemzet
-19960622nemzet
-19960622n
+nemzet
+n
 n
 eeeeeee
 m
@@ -484,7 +484,6 @@ kapcsolatos
 vadakatmagyar
 hirlap
 junius
-22
 szombat
 betu
 szerinti
@@ -515,9 +514,8 @@ irodahoz
 az
 uj
 magyarorszag
-1996
 junius
-20ai
+ai
 szamaban
 lakohazam
 epiteserol
@@ -590,7 +588,7 @@ rt
 megbizottjaval
 szerzodest
 kotottem
-1994ben
+ben
 a
 hattagu
 csaladom
@@ -890,7 +888,6 @@ a
 tobbszintes
 epulet
 alapterulete
-150160
 negyzetmeter
 a
 lap
@@ -967,7 +964,6 @@ ezzel
 osszefuggesben
 emlekeztetett
 egy
-1994
 tavaszan
 hozott
 kormanyrendelet
@@ -1288,7 +1284,7 @@ miniszterelnok
 is
 tehat
 utoljara
-1994ben
+ben
 a
 valasztasi
 ciklus
@@ -1297,7 +1293,7 @@ tett
 vagyonnyilatkozatot
 s
 legkozelebb
-1998ban
+ban
 kell
 ertekeikrol
 szamot
@@ -1307,10 +1303,9 @@ alljon
 meg
 a
 menet
-1
 ide
 a
-94es
+es
 vagyonnyilatkozattal
 na
 nezzuk
@@ -1319,7 +1314,6 @@ hornek
 vagyona
 mennyi
 volt
-2
 allapitsuk
 meg
 a
@@ -1385,7 +1379,6 @@ kell
 tuntetni
 peldaul
 az
-1500
 kobcentimeteresnel
 nagyobb
 hengerurtartalmu
@@ -1571,7 +1564,6 @@ veszi
 a
 hadovatnepszabadsag
 junius
-22
 szombat
 betu
 szerinti
@@ -1718,7 +1710,6 @@ maris
 bunosnek
 iteltek
 vagy
-20
 vadpontban
 hogy
 clintont
@@ -2355,7 +2346,6 @@ az
 ures
 telek
 legalabb
-1015
 millio
 honnan
 szarmazik
@@ -2450,7 +2440,7 @@ gangon
 a
 masodik
 emelet
-6ban
+ban
 fussa
 egy
 masfel
@@ -2662,13 +2652,10 @@ angol
 eredetiben
 megjelent
 spotlight
-1996
 aprilis
-22
 az
 interneten
 megtalalhato
-24
 ora
 httpwwwinfobahnoscomjtothindexithtml
 mialatt
@@ -2815,7 +2802,7 @@ szovjet
 allam
 tulajdonanak
 oroszorszag
-1992ben
+ben
 minden
 allampolgaranak
 tobbfele
@@ -2867,7 +2854,6 @@ tulajdonos
 licitalhat
 a
 kormanytulajdonra
-94
 szazaleka
 mar
 a
@@ -3035,12 +3021,11 @@ el
 s
 a
 vilagbank
-1993ban
+ban
 keszitett
 tanulmanya
 szerint
 legalabb
-34
 milliard
 dollart
 ert
@@ -3053,7 +3038,6 @@ meg
 nem
 nevezett
 arajanlonak
-228
 millio
 dollarert
 adtak
@@ -3062,7 +3046,6 @@ azt
 kevesebbert
 mint
 kiertekelesenek
-10
 szazalekaezen
 aronaluli
 vasarlas
@@ -3092,7 +3075,6 @@ cegjet
 amelynek
 erteke
 legalabb
-34
 milliard
 dollar
 meg
@@ -3101,7 +3083,6 @@ nevezett
 nyugati
 spekulatorok
 potom
-294
 millio
 dollarert
 vasaroltak
@@ -3128,7 +3109,6 @@ amelynek
 erteket
 tobb
 mint
-3
 milliard
 dollarra
 becsultek
@@ -3136,7 +3116,6 @@ nemzetkozi
 befektetoknek
 adtak
 el
-467
 millio
 dollarert
 ezek
@@ -3187,10 +3166,8 @@ chronologyizvestiya
 chronicles
 events
 of
-1920
 june
 on
-21
 june
 izvestiya
 published
@@ -3239,10 +3216,8 @@ building
 white
 house
 at
-5
 pm
 on
-19
 june
 they
 were
@@ -3258,7 +3233,6 @@ and
 interrogated
 until
 about
-3
 am
 both
 men
@@ -3300,7 +3274,6 @@ a
 box
 allegedly
 holding
-500000
 lisovskii
 subsequently
 denied
@@ -3473,7 +3446,6 @@ they
 interviewed
 lebed
 at
-420
 am
 after
 the
@@ -3538,7 +3510,6 @@ report
 the
 story
 until
-8
 am
 at
 yeltsins
@@ -3726,7 +3697,6 @@ russian
 security
 council
 at
-10
 am
 that
 morning
@@ -3775,7 +3745,6 @@ was
 it
 announced
 at
-1245
 pm
 that
 yeltsin
@@ -3890,7 +3859,6 @@ a
 second
 term
 on
-3
 july
 until
 he
@@ -3914,7 +3882,6 @@ dismissals
 reuters
 reported
 on
-21
 june
 robert
 orttungcommunists
@@ -3952,7 +3919,6 @@ was
 itartass
 reported
 on
-21
 june
 duma
 security
@@ -3967,14 +3933,12 @@ the
 final
 figures
 list
-108494533
 voters
 in
 russia
 there
 were
 only
-107496558
 voters
 in
 the
@@ -4034,7 +3998,6 @@ parliament
 izvestiya
 reported
 on
-20
 june
 belyaev
 said
@@ -4063,7 +4026,6 @@ the
 presidential
 election
 on
-16
 june
 the
 alliance
@@ -4096,7 +4058,6 @@ moskovskii
 komsomolets
 reported
 on
-21
 june
 members
 of
@@ -4189,7 +4150,6 @@ magnate
 vladimir
 bryntsalov
 on
-17
 june
 affirmed
 that
@@ -4364,7 +4324,7 @@ famine
 of
 the
 early
-1920s
+s
 people
 cheering
 alongside
@@ -4389,7 +4349,7 @@ being
 executed
 during
 the
-1920s
+s
 recently
 uncovered
 bodies
@@ -4402,7 +4362,6 @@ the
 katyn
 forest
 in
-1941
 and
 soviet
 soldiers
@@ -4412,7 +4371,7 @@ in
 afghanistan
 in
 the
-1980s
+s
 the
 video
 also
@@ -4525,14 +4484,11 @@ the
 secret
 police
 between
-1917
 and
-1953
 on
 the
 evening
 of
-15
 june
 ort
 broadcast
@@ -4576,7 +4532,6 @@ moscowgrisly
 preelection
 kukly
 the
-15
 june
 edition
 of
@@ -4747,7 +4702,6 @@ native
 region
 but
 the
-595
 of
 the
 vote
@@ -4765,13 +4719,11 @@ took
 second
 place
 with
-142
 and
 gennadii
 zyuganov
 gained
 only
-117
 in
 addition
 to
@@ -4794,7 +4746,6 @@ rossel
 from
 office
 in
-1993
 but
 he
 allowed
@@ -4806,7 +4757,6 @@ gubernatorial
 election
 in
 august
-1995
 which
 rossel
 won
@@ -4912,7 +4862,6 @@ headquarters
 told
 omri
 on
-18
 june
 that
 yeltsins
@@ -4921,7 +4870,6 @@ infrastructure
 consisted
 of
 about
-80
 branches
 scattered
 across
@@ -4929,7 +4877,6 @@ the
 region
 only
 about
-10
 of
 those
 were
@@ -4966,7 +4913,6 @@ sverdlovsk
 and
 won
 about
-35
 of
 the
 vote
@@ -4983,7 +4929,6 @@ yekaterinburgdemoralized
 communists
 regroup
 about
-50
 activists
 from
 both
@@ -5017,7 +4962,6 @@ meeting
 in
 yekaterinburg
 on
-20
 june
 zyuganovs
 thirdplace
@@ -5028,7 +4972,6 @@ oblast
 with
 less
 than
-12
 of
 the
 vote
@@ -5040,7 +4983,6 @@ kprf
 won
 only
 about
-8
 of
 the
 regional
@@ -5048,7 +4990,6 @@ vote
 in
 the
 december
-1995
 parliamentary
 election
 several
@@ -5149,16 +5090,13 @@ where
 yeltsin
 gained
 about
-70
 support
 on
-16
 june
 and
 zyuganov
 less
 than
-8
 by
 way
 of
@@ -5229,7 +5167,7 @@ even
 born
 during
 the
-1930s
+s
 furthermore
 zyuganov
 did
@@ -5238,7 +5176,6 @@ shell
 the
 parliament
 in
-1993
 and
 did
 not
@@ -5302,7 +5239,6 @@ oblast
 told
 omri
 on
-20
 june
 that
 lebed
@@ -5313,7 +5249,6 @@ decision
 and
 at
 least
-70
 of
 those
 who
@@ -5321,7 +5256,6 @@ voted
 for
 him
 on
-16
 june
 will
 back
@@ -5713,7 +5647,6 @@ commentator
 tamara
 zamyatina
 on
-20
 june
 the
 hardliners
@@ -5915,7 +5848,6 @@ according
 to
 kommersantdaily
 on
-18
 june
 all
 the
@@ -5956,7 +5888,6 @@ in
 predictions
 published
 on
-12
 june
 nugzar
 betanelis
@@ -5978,14 +5909,12 @@ that
 he
 would
 win
-40
 of
 the
 vote
 rather
 than
 the
-35
 he
 received
 the
@@ -6042,12 +5971,10 @@ final
 tally
 of
 nearly
-15
 by
 marking
 him
 at
-10
 while
 all
 the
@@ -6116,7 +6043,6 @@ yavlinskii
 while
 the
 approximately
-4
 that
 voted
 for
@@ -6214,7 +6140,6 @@ vote
 as
 many
 as
-70
 of
 yavlinskiis
 voters
@@ -6242,7 +6167,6 @@ would
 take
 more
 than
-50
 in
 the
 first
@@ -6285,7 +6209,6 @@ according
 to
 segodnya
 on
-18
 june
 troops
 serving
@@ -6296,7 +6219,6 @@ the
 most
 proyeltsin
 with
-82
 supporting
 him
 these
@@ -6361,7 +6283,6 @@ that
 he
 had
 won
-70
 of
 it
 although
@@ -6382,7 +6303,6 @@ communism
 in
 russia
 the
-16
 june
 election
 marked
@@ -6398,7 +6318,6 @@ wrote
 in
 segodnya
 on
-18
 june
 he
 argued
@@ -6413,7 +6332,6 @@ could
 not
 expand
 beyond
-3035
 even
 at
 the
@@ -6485,7 +6403,6 @@ in
 rossiiskaya
 gazeta
 on
-21
 june
 the
 new

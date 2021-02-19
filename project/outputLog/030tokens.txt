@@ -37,21 +37,16 @@ limits
 of
 lancaster
 at
-1291
 harrisburg
 pikebuilt
 in
-1968
 expanded
 in
-1978
 and
-1984
 and
 completely
 renovated
 in
-1990
 the
 transfer
 station
@@ -69,7 +64,6 @@ collect
 refuse
 within
 the
-946
 square
 miles
 which
@@ -103,7 +97,6 @@ facilityevery
 day
 more
 than
-200
 commercial
 haulers
 and
@@ -151,7 +144,6 @@ transfer
 trailers
 haul
 approximately
-800
 tons
 of
 waste
@@ -378,7 +370,7 @@ in
 lancaster
 county
 at
-7173979968return
+return
 to
 lcswma
 home

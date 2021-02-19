@@ -4,7 +4,6 @@ spypfmaxus
 posee
 unaparticipacin
 del
-50
 en
 un
 acuerdo
@@ -60,7 +59,6 @@ para
 el
 procesamiento
 de
-12000
 bpdypfmaxus
 considera
 que
@@ -122,14 +120,13 @@ explotacin
 oportuna
 detales
 reservasen
-1995
 ypfmaxus
 concluyrelevamientos
 de
 ssmica
 convencional
 y
-3d
+d
 en
 esta
 unidady
@@ -152,7 +149,6 @@ fines
 de
 enero
 de
-1996
 se
 inici
 la
@@ -161,7 +157,6 @@ un
 pozo
 exploratorio
 de
-6400
 metros
 de
 profundidad
@@ -195,7 +190,6 @@ a
 un
 rgimen
 de
-1100
 bpdypfmaxus
 termin
 un
@@ -206,7 +200,6 @@ quiriquire
 profundo
 queproduce
 aproximadamente
-1000
 bpd
 y
 que
@@ -217,13 +210,12 @@ actual
 a
 ms
 de
-2000
 bpda
 fines
 de
 enero
 de
-1996ypfmaxus
+ypfmaxus
 y
 las
 compaas
@@ -253,7 +245,6 @@ de
 un
 convenio
 de
-20
 aosde
 vigencia
 guarapiche
@@ -271,7 +262,7 @@ rumbo
 del
 yacimiento
 el
-furrial5000
+furrial
 millones
 de
 barriles
@@ -283,7 +274,6 @@ devenezuela
 british
 petroleum
 con
-375
 de
 participacines
 la
@@ -292,7 +282,6 @@ del
 consorcio
 ypfmaxus
 tiene
-25
 departicipacin
 y
 la
@@ -301,4 +290,3 @@ asociada
 amoco
 participa
 conun
-375

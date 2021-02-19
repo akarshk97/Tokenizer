@@ -42,9 +42,7 @@ varying
 in
 pressure
 from
-40000
 to
-55000
 psi
 depending
 on
@@ -66,10 +64,7 @@ run
 through
 three
 filters
-10
-1
 and
-05
 micron
 thick
 to
@@ -151,12 +146,10 @@ can
 cut
 more
 than
-3
 inches
 of
 aluminium
 or
-2
 inches
 of
 steel
@@ -213,7 +206,6 @@ to
 be
 cut
 is
-27
 millimetres
 thick
 rpt
@@ -225,7 +217,6 @@ two
 cuts
 see
 figure
-1
 the
 first
 cut
@@ -233,7 +224,6 @@ would
 be
 at
 a
-54
 degree
 angle
 to
@@ -270,7 +260,6 @@ in
 each
 corner
 of
-10
 millimetres
 on
 the
@@ -280,7 +269,6 @@ was
 required
 that
 the
-54
 degree
 cut
 angle
@@ -298,7 +286,6 @@ be
 done
 at
 an
-80
 degree
 angle
 to
@@ -318,7 +305,6 @@ existing
 slope
 of
 the
-54
 degree
 cut
 this
@@ -378,7 +364,6 @@ had
 to
 maintain
 this
-80
 degree
 cut
 angle
@@ -393,7 +378,6 @@ peak
 had
 to
 be
-13
 millimetres
 from
 the
@@ -419,16 +403,13 @@ needed
 to
 be
 maintained
-2
 degrees
 dimensions
 needed
 to
 be
 maintained
-1
 millimetrefigure
-1
 the
 part
 specificationthe
@@ -438,17 +419,16 @@ is
 shown
 in
 figure
-2
 it
 consists
 of
 a
 fanuc
-s500
+s
 robot
 using
 an
-s3
+s
 controller
 and
 the
@@ -639,7 +619,6 @@ the
 final
 partafter
 about
-40
 hours
 of
 programming
@@ -689,7 +668,7 @@ this
 decision
 were
 as
-follows1
+follows
 workspace
 is
 integrated
@@ -720,7 +699,7 @@ orientation
 is
 quick
 and
-effective2
+effective
 workspace
 allow
 users
@@ -760,7 +739,7 @@ is
 therefore
 a
 onestep
-process3
+process
 the
 workspace
 cad
@@ -781,7 +760,7 @@ the
 workcell
 to
 be
-designed4
+designed
 workspace
 can
 run
@@ -839,7 +818,7 @@ on
 the
 shopfloor
 if
-required5
+required
 robotrak
 is
 easy
@@ -1040,7 +1019,7 @@ for
 each
 partthe
 fanuc
-s500
+s
 robot
 model
 was
@@ -1085,7 +1064,6 @@ then
 be
 repositioned
 figure
-2
 shows
 the
 workspace
@@ -1095,7 +1073,6 @@ the
 workcell
 and
 figure
-3
 shows
 the
 geometry
@@ -1104,14 +1081,12 @@ defined
 on
 a
 partfigure
-2
 the
 workspace
 model
 of
 the
 workcellfigure
-3
 geometry
 points
 defined
@@ -1243,7 +1218,6 @@ and
 tool
 see
 figure
-4
 using
 robotrak
 a
@@ -1269,7 +1243,6 @@ was
 then
 moved
 to
-50
 teachpoints
 all
 with
@@ -1297,7 +1270,6 @@ robot
 paused
 between
 movementsfigure
-4
 robot
 and
 tool
@@ -1321,7 +1293,6 @@ a
 search
 which
 in
-1
 minute
 found
 the
@@ -1371,8 +1342,7 @@ tool
 orientation
 see
 figure
-5figure
-5
+figure
 robotrak
 fittings
 for
@@ -1386,7 +1356,6 @@ to
 right
 for
 measuring
-50
 points
 for
 measuring
@@ -1532,7 +1501,6 @@ subdirectorythe
 resultsit
 took
 about
-10
 hours
 to
 complete
@@ -1544,7 +1512,6 @@ and
 offline
 programme
 the
-4
 parts
 and
 their
@@ -1552,7 +1519,6 @@ programmes
 compared
 to
 the
-40
 hours
 plus
 for
@@ -1700,11 +1666,8 @@ of
 robot
 simulations
 ltdcopyright
-1996
 robot
 simulations
 ltdlast
 revision
-3
 april
-1996

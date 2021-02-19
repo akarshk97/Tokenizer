@@ -10,11 +10,9 @@ for
 home
 education
 news
-3
 pagesummary
 from
 the
-1994
 national
 christian
 home
@@ -23,8 +21,7 @@ leadership
 conferencephoenix
 arizona
 october
-2023
-1994please
+please
 reproduce
 for
 home
@@ -182,7 +179,6 @@ sitting
 sidebyside
 or
 facetoface
-43
 of
 the
 time
@@ -195,7 +191,6 @@ such
 an
 arrangement
 only
-6
 of
 the
 time
@@ -217,7 +212,6 @@ divided
 group
 approach
 most
-67
 of
 the
 time
@@ -233,7 +227,6 @@ a
 full
 group
 setting
-25
 of
 the
 time
@@ -252,7 +245,6 @@ fraction
 of
 the
 time
-11
 and
 were
 much
@@ -268,7 +260,6 @@ a
 full
 group
 experience
-43
 home
 schools
 therefore
@@ -375,7 +366,6 @@ special
 education
 classrooms
 spent
-749
 of
 their
 time
@@ -387,13 +377,11 @@ homeschooled
 children
 only
 spent
-407
 in
 this
 mode
 see
 figure
-1
 detailing
 the
 amount
@@ -436,7 +424,6 @@ took
 an
 observation
 every
-20
 seconds
 creating
 tens

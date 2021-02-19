@@ -6,8 +6,8 @@ oils
 for
 crankcaseelain
 sjsae
-15w40
-a2
+w
+a
 sj
 high
 performance
@@ -24,9 +24,9 @@ suction
 or
 turbocharged
 enginessae
-15w40
-b3
-cf4
+w
+b
+cf
 specifically
 developed
 to
@@ -40,8 +40,8 @@ engines
 requirementselain
 dieselelain
 ultrasae
-10w30
-a1
+w
+a
 sj
 semisynthetic
 it
@@ -59,10 +59,9 @@ energy
 conserving
 category
 requirementssae
-5w40
-a3
+w
+a
 sj
-100
 synthetic
 last
 generation
@@ -83,9 +82,7 @@ meet
 cng
 vehicles
 requirementssae
-3040
 or
-50
 api
 sfcc
 provides
@@ -108,7 +105,7 @@ servicesuper
 mvil
 hd
 suplemento
-1return
+return
 to
 automobile
 lubes

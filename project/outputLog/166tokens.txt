@@ -19,9 +19,8 @@ connection
 secure
 server
 for
-os2
+os
 warppart
-1
 gives
 a
 brief
@@ -46,7 +45,6 @@ internet
 connection
 secure
 serverpart
-2
 provides
 planning
 and
@@ -55,7 +53,6 @@ information
 for
 your
 serverpart
-3
 provides
 information
 on
@@ -97,7 +94,6 @@ secure
 serverinformation
 road
 maptable
-1
 information
 road
 map
@@ -300,7 +296,7 @@ whats
 new
 in
 version
-41enhancements
+enhancements
 for
 this
 version
@@ -538,8 +534,7 @@ directives
 new
 in
 version
-41ref
-1
+ref
 accesslogarchive
 datafilter
 error

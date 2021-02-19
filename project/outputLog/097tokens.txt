@@ -42,7 +42,7 @@ thefollowing
 designationscertificate
 in
 university
-honors35
+honors
 cumulative
 gpafour
 semesters
@@ -53,7 +53,6 @@ honors
 programa
 minimum
 of
-12
 hours
 of
 honors
@@ -96,7 +95,7 @@ acertificate
 is
 awardeduniversity
 honors
-scholar365
+scholar
 cumulative
 gpafour
 semesters
@@ -107,7 +106,6 @@ honors
 programa
 minimum
 of
-24
 hours
 of
 honors
@@ -135,9 +133,8 @@ undergraduate
 research
 participation
 ids
-285
 ids
-286departmental
+departmental
 honorshonors
 mentorshipapplications
 for

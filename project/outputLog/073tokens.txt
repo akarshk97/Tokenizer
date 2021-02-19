@@ -61,7 +61,7 @@ ps
 programps
 awardsps
 requirementsids
-10270faculty
+faculty
 colleaguescore
 curriculumservice
 learningstudy

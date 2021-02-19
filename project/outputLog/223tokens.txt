@@ -3,14 +3,13 @@ fcc
 bandwidth
 forum
 presentation
-12397federal
+federal
 communications
 commission
 bandwidth
 forumthursday
 january
-23
-1997presentation
+presentation
 by
 daniel
 j
@@ -67,10 +66,8 @@ v
 department
 of
 justice
-929
 fsupp
-824
-edpa1996
+edpa
 opinion
 of
 j
@@ -386,7 +383,6 @@ any
 other
 communications
 medium
-1
 decentralized
 gatekeeperfree
 infrastructurethe
@@ -673,7 +669,7 @@ access
 in
 this
 decentralized
-manner2
+manner
 bidirectional
 interactive
 capabilityall
@@ -749,7 +745,7 @@ upstreamand
 downstream
 interactive
 communications
-paths3
+paths
 multiple
 competitive
 access
@@ -975,7 +971,7 @@ opinion
 and
 ideas
 in
-onlineforums4
+onlineforums
 open
 standardsan
 open
@@ -1146,7 +1142,6 @@ blocks
 for
 new
 developments
-5
 affordable
 accessthe
 internets
@@ -1222,7 +1217,6 @@ be
 distinguished
 in
 thisdiscussion
-1
 the
 cost
 of
@@ -1232,7 +1226,6 @@ computer
 or
 other
 accesshardware
-2
 the
 cost
 of
@@ -1241,7 +1234,6 @@ or
 online
 services
 and
-3
 thecost
 of
 the

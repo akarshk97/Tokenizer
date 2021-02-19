@@ -33,7 +33,5 @@ pantalla
 en
 su
 pcbmp
-256
 colores
-302
 kb

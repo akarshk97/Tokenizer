@@ -3,11 +3,11 @@ visions
 online
 library
 september
-1996shared
+shared
 vision
 online
 september
-1996turning
+turning
 the
 tide
 of
@@ -45,7 +45,6 @@ at
 the
 age
 of
-21
 he
 turned
 to
@@ -58,14 +57,14 @@ a
 sports
 correspondent
 on
-bbc2s
+bbcs
 newsnight
 and
 contributing
 regularly
 to
 bbc
-1sgrandstand
+sgrandstand
 he
 went
 on
@@ -92,7 +91,6 @@ medium
 and
 healer
 in
-1990
 set
 him
 on
@@ -149,7 +147,7 @@ explosive
 book
 of
 the
-20thcentury
+thcentury
 it
 reveals
 the
@@ -644,7 +642,6 @@ four
 multinational
 corporations
 control
-90
 ofthe
 global
 mediahe
@@ -1426,7 +1423,7 @@ effectivelya
 world
 army
 a
-60000man
+man
 force
 the
 largest
@@ -1822,7 +1819,6 @@ lectureand
 workshop
 on
 september
-2022
 his
 lecture
 the
@@ -1950,14 +1946,11 @@ shared
 vision
 breakfaston
 september
-20
 for
 more
 information
 call
-604
-7313042september
-96
+september
 issueshared
 visions
 libraryshared

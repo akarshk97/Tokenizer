@@ -98,7 +98,7 @@ foreign
 content
 up
 to
-20rrifs
+rrifs
 resps
 mutual
 funds
@@ -116,5 +116,4 @@ rrspcopyright
 surrey
 metro
 savings
-september16
-1996
+september

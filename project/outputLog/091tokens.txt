@@ -3,11 +3,11 @@ visions
 online
 library
 october
-1996shared
+shared
 vision
 online
 october
-1996the
+the
 tzu
 chi
 institute
@@ -98,7 +98,6 @@ the
 institute
 but
 about
-80
 dont
 tell
 theirregular
@@ -806,7 +805,6 @@ order
 of
 canada
 in
-1994
 for
 his
 work
@@ -840,8 +838,7 @@ institute
 contact
 mike
 mahony
-at8754218october
-96
+atoctober
 issueshared
 visions
 libraryshared

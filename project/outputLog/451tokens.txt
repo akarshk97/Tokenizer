@@ -2,10 +2,10 @@ twostroke
 oilstwostroke
 oils
 sintoil
-2t
+t
 bio
 sintoil
-2t
+t
 bio
 biodegradable
 synthetic
@@ -24,7 +24,7 @@ mixing
 systems
 and
 tanksintoil
-2t
+t
 motos
 fully
 synthetic
@@ -49,14 +49,14 @@ aircooled
 gasoline
 engines
 sintoil
-2t
+t
 motos
 super
 mvil
-2t
+t
 bhsuper
 mvil
-2t
+t
 bh
 it
 has
@@ -75,7 +75,6 @@ engines
 under
 registration
 number
-410271
 granted
 by
 jaso

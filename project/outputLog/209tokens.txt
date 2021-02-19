@@ -201,7 +201,6 @@ donation
 worth
 more
 than
-5
 million
 was
 accepted
@@ -226,7 +225,7 @@ electric
 car
 is
 herethe
-ev1
+ev
 general
 motors
 new
@@ -240,8 +239,6 @@ the
 public
 on
 december
-5
-1996
 john
 campbell
 iii
@@ -260,7 +257,7 @@ asked
 questions
 about
 the
-ev1california
+evcalifornia
 has
 emerged
 as
@@ -295,8 +292,6 @@ miramar
 college
 on
 december
-13
-1996
 the
 polling
 placewith

@@ -22,7 +22,6 @@ reading
 to
 undertake
 a
-26
 million
 renovation
 of
@@ -34,7 +33,6 @@ system
 a
 total
 of
-72
 separate
 projects
 was
@@ -45,9 +43,8 @@ of
 the
 renovation
 project
-include18th
+includeth
 ward
-4
 tank
 replacement
 entech
@@ -60,7 +57,6 @@ construction
 monitoring
 for
 this
-15
 million
 finished
 water
@@ -68,7 +64,6 @@ storage
 tank
 the
 new
-23
 million
 gallon
 tank
@@ -79,7 +74,6 @@ to
 the
 authoritys
 old
-1930
 era
 riveted
 steel
@@ -130,10 +124,8 @@ for
 construction
 of
 a
-77
 ft
 diameter
-66
 ft
 high
 posttensioned
@@ -181,7 +173,6 @@ inspection
 services
 for
 over
-80
 million
 worth
 of
@@ -194,7 +185,6 @@ creek
 filter
 plantprojects
 included
-1
 concrete
 and
 structural
@@ -209,7 +199,6 @@ and
 raw
 water
 conduits
-2
 replacement
 of
 existing
@@ -217,7 +206,6 @@ substation
 and
 distribution
 system
-3
 electrical
 system
 upgrades
@@ -230,7 +218,6 @@ indoor
 and
 outdoor
 lighting
-4
 chlorine
 injection
 modifications
@@ -242,21 +229,17 @@ system
 and
 bulk
 storage
-5
 new
 carbon
 feed
 system
-6
 replacement
 of
 dehumidification
 equipment
-7
 boiler
 burner
 replacement
-8
 new
 filter
 and
@@ -270,7 +253,6 @@ and
 electronic
 filter
 controls
-9
 new
 traveling
 water
@@ -278,19 +260,16 @@ screen
 and
 bulkhead
 replacement
-10
 replacement
 of
 sand
 filter
 media
-11
 new
 fiberglass
 reinforced
 sluice
 gates
-12
 hydroelectric
 unit
 design
@@ -317,7 +296,6 @@ with
 two
 new
 scales
-2
 oneton
 cylinders
 per
@@ -332,7 +310,6 @@ andor
 gas
 chlorination
 a
-6000
 gallon
 aqua
 ammonia
@@ -385,7 +362,7 @@ the
 installation
 of
 a
-30ton
+ton
 hydrated
 lime
 silo
@@ -411,7 +388,6 @@ inspection
 services
 for
 over
-10
 million
 worth
 of
@@ -420,7 +396,6 @@ repair
 projects
 at
 the
-10
 mg
 underground
 clearwater
@@ -450,7 +425,6 @@ system
 installation
 of
 two
-30
 emergency
 backup
 discharge
@@ -505,7 +479,6 @@ improvementsupgrades
 to
 the
 citys
-209
 mile
 distribution
 system
@@ -514,7 +487,6 @@ designed
 and
 inspected
 over
-30000
 lf
 of
 water
@@ -523,9 +495,7 @@ ranging
 in
 size
 from
-6
 to
-36
 the
 distribution
 system
@@ -557,9 +527,7 @@ line
 distribution
 valve
 replacements
-30
 and
-36
 sizes
 etc
 in
@@ -635,7 +603,6 @@ are
 in
 excess
 of
-63
 millionmaiden
 creek
 pumping
@@ -657,7 +624,6 @@ underground
 fuel
 tanks
 new
-900
 hp
 diesel
 engine
@@ -666,7 +632,6 @@ speed
 reducer
 for
 a
-17
 mgd
 emergency
 pump
@@ -759,17 +724,13 @@ analysis
 of
 the
 citys
-13
 mgd
 system
 consisting
 of
-210
 miles
 of
-4
 to
-36
 water
 mains
 four
@@ -796,9 +757,7 @@ ranging
 in
 size
 from
-500000
 to
-26000000
 gallonsscada
 reading
 had
@@ -890,7 +849,6 @@ is
 also
 provided
 over
-350
 points
 are
 monitored
@@ -989,8 +947,6 @@ us
 a
 call
 at
-6103736667last
+last
 updated
 september
-25
-1996

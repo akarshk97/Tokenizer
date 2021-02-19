@@ -4,7 +4,7 @@ la
 tecnologa
 la
 sismica
-3d
+d
 se
 utiliza
 para
@@ -51,7 +51,7 @@ la
 empresa
 utiliza
 ssmica
-3d
+d
 paraaumentar
 el
 ndice
@@ -129,7 +129,7 @@ adems
 de
 la
 ssmica
-3d
+d
 que
 permitedefinir
 con
