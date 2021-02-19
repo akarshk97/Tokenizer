@@ -1,0 +1,13 @@
+netshade
+20
+screen
+shotnetshade
+20
+for
+windows
+95go
+backview
+the
+security
+levels
+pane
