@@ -64,7 +64,11 @@ def sortWriteFiles():
     ff.close()
 
 # processing all the files in the input directory
+counter = 0
+
+    
 for i in entries:
+    counter += 1
     #print("current file", counter)
     counter = counter + 1
     prefix = i.split(".")
@@ -84,7 +88,10 @@ for i in entries:
     text.replace("'","")
 
     #cleaning the string by removing characters other than alphanumeric and spaces 
+    cleanString  = re.sub('-', '', text)
+    #cleanString  = re.sub("'", '', text)
     cleanString = re.sub('[^A-Za-z ]+', ' ', text)
+    
     
     writeTokens(cleanString, outputDir +"/"+ prefix[0])
 
