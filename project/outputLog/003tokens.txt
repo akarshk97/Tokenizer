@@ -1,4 +1,5 @@
-wsws
+ws
+ws
 follow
 ups
 post
@@ -38,8 +39,10 @@ the
 productionequiptment
 has
 been
-builtfollow
-upsre
+built
+follow
+ups
+re
 ws
 cycle
 times
@@ -50,8 +53,10 @@ ws
 gfd
 post
 a
-followupname
-email
+followup
+name
+e
+mail
 subject
 comments
 i
@@ -79,7 +84,8 @@ production
 equiptment
 has
 been
-builtoptional
+built
+optional
 link
 url
 link

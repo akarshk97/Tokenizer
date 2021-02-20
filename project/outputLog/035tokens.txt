@@ -1,10 +1,12 @@
 netshade
 screen
-shotnetshade
+shot
+netshade
 for
 windows
 go
-backview
+back
+view
 the
 security
 levels

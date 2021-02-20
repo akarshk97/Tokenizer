@@ -1,6 +1,7 @@
 srl
 oetztal
-austriaoetztal
+austria
+oetztal
 austria
 this
 is
@@ -15,7 +16,8 @@ coded
 directly
 onto
 an
-xband
+x
+band
 seasonal
 change
 image
@@ -65,7 +67,10 @@ by
 the
 spaceborne
 imaging
-radarcxband
+radar
+c
+x
+band
 synthetic
 aperture
 aboard
@@ -273,7 +278,8 @@ sea
 level
 the
 test
-sites
+site
+s
 core
 area
 is
@@ -309,7 +315,8 @@ studies
 of
 glacier
 dynamics
-glacierclimate
+glacier
+climate
 regions
 snowpack
 conditions
@@ -356,5 +363,10 @@ october
 imaging
 radar
 home
-pageupdated
-brucechapmanjplnasagov
+page
+updated
+bruce
+chapman
+jpl
+nasa
+gov

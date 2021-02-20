@@ -10,7 +10,8 @@ of
 a
 pedastal
 glue
-dispenseran
+dispenser
+an
 abb
 irb
 manipulating
@@ -36,9 +37,11 @@ trademarks
 of
 robot
 simulations
-ltdcopyright
+ltd
+copyright
 robot
 simulations
-ltdlast
+ltd
+last
 revision
 april

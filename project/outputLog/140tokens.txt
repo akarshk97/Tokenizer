@@ -7,7 +7,8 @@ site
 view
 nheri
 facts
-titlefact
+title
+fact
 sheet
 ib
 fact
@@ -19,7 +20,8 @@ iiib
 nheri
 frequently
 asked
-questionspurpose
+questions
+purpose
 and
 history
 of
@@ -28,7 +30,9 @@ national
 home
 education
 research
-institutelearnhome
+institute
+learn
+home
 feedback
 christian
 community

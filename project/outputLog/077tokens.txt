@@ -1,5 +1,6 @@
 stewart
-platformstewart
+platform
+stewart
 platform
 follow
 ups
@@ -36,8 +37,10 @@ simulate
 a
 stewartplatform
 using
-workspacefollow
-upsre
+workspace
+follow
+ups
+re
 stewart
 platform
 phil
@@ -89,8 +92,10 @@ phil
 watson
 post
 a
-followupname
-email
+followup
+name
+e
+mail
 subject
 comments
 one
@@ -115,7 +120,8 @@ a
 stewart
 platform
 using
-workspaceoptional
+workspace
+optional
 link
 url
 link

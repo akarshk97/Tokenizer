@@ -1,4 +1,5 @@
-battlecrhtm
+battlecr
+htm
 battle
 creek
 st
@@ -10,7 +11,10 @@ janice
 gray
 sfo
 minister
-jgraymailiservnet
+jgray
+mail
+iserv
+net
 academy
 street
 battle
@@ -20,7 +24,9 @@ meet
 st
 sunday
 at
-pmst
+p
+m
+st
 philip
 neri
 parish
@@ -28,6 +34,7 @@ prayer
 room
 capital
 ave
-nebattle
+ne
+battle
 creek
 mi

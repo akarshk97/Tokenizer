@@ -10,7 +10,8 @@ coordinates
 either
 your
 client
-doesnt
+doesn
+t
 support
 imagemap
 or

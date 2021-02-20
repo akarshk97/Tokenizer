@@ -1,6 +1,7 @@
 robot
 simulation
-ltdrobot
+ltd
+robot
 simulations
 ltd
 products
@@ -57,12 +58,14 @@ come
 and
 see
 us
-atnovember
+at
+november
 cobo
 hall
 detroit
 mi
-usafree
+usa
+free
 tickets
 can
 be
@@ -114,6 +117,7 @@ for
 copyright
 robot
 simulations
-ltdlast
+ltd
+last
 revision
 august

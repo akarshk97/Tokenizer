@@ -24,7 +24,8 @@ name
 home
 address
 city
-statprov
+stat
+prov
 postal
 code
 country
@@ -55,7 +56,8 @@ by
 answering
 a
 few
-questionshow
+questions
+how
 did
 you
 learn
@@ -84,7 +86,8 @@ us
 with
 the
 following
-informationmale
+information
+male
 female
 age
 height
@@ -125,7 +128,8 @@ indicate
 if
 they
 are
-deceasedfather
+deceased
+father
 deceased
 mother
 deceased
@@ -169,7 +173,8 @@ as
 weightwatchers
 jenny
 craig
-nutrisystemlyndora
+nutrisystem
+lyndora
 diet
 centers
 diet

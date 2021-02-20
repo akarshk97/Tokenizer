@@ -50,6 +50,7 @@ for i in entries:
 
     # converting all the characters into lower case
     text = text.lower()
+    print(text)
 
     #cleaning the string by removing characters other than alphanumeric and spaces 
     cleanString = re.sub('[^A-Za-z ]+', '', text)

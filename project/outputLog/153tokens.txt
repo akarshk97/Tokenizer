@@ -1,7 +1,10 @@
 index
 of
-awindex
+aw
+index
 of
-awaccesswatch
-accesswatchtar
+aw
+accesswatch
+accesswatch
+tar
 size
