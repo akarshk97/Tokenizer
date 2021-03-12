@@ -8,6 +8,8 @@ import sys
 from bs4 import BeautifulSoup
 import glob
 import time
+from collections import defaultdict
+import csv
 
 t1 = time.time()
 c1 = time.process_time()
@@ -22,6 +24,8 @@ files = glob.glob("/"+outputDir +'*.txt')
 counter = 0
 global count # for counting stopwords that went through preprocessing
 count = 0
+global counter3
+counter3 = 0
 
 # a global dictionary for storing tokens and frequency count
 tokensDict = {}
@@ -37,12 +41,38 @@ def readStopWords():
 readStopWords()
 
 
+
 def calTfIdf():
-    pass
+    outputEntries = os.listdir(outputDir)
+    for entry in outputEntries:
+        print(entry)
+    counter3 = 0
+    for i in outputEntries:
+        print(counter3)
+        counter3+=1
+        #D = defaultdict(int)
+        D = {}
+        with open('outputLog/'+i, 'r', newline='\n') as f:
+            r = csv.reader(f)
+            print(r)
+            for key,value in r:
+                D[key] = float(value)
+            print(counter3)
+            
+        f.close()
+        with open('outputLog2/'+i,'w') as ff:
+            for k in D.keys():
+                ff.write('{} {}\n'.format(k, D[k]))
+            print(i)
+            
+        ff.close()
+
+
     
 # tokenizes the document and stores in a separete file for each file 
 #Also updates the global tokensDict with the tokens frequency i.e calculating frequency
 def writeTokens(str, prefix):
+    tokensDict = {}
     str_list = str.split()
     count = 0
     # not including the stop words into the tokenDict and measuring token freq for the rest
@@ -71,10 +101,10 @@ def writeTokens(str, prefix):
     with open(prefix + 'tokens.txt','w') as f:
         for i in tokensDict.keys():
             tf = tokensDict[i]/totalWords
-            #tf = round(tf, 5)
-            f.write('{} {}\n'.format(i, tf))
+            #tf = round(tf, 7)
+            f.write('{},{}\n'.format(i, tf))
     f.close()
-    print("count",count)
+    
     
 
 
@@ -115,8 +145,6 @@ for i in entries:
         text = soup.get_text()
     fp.close()
     
-        
-
     # converting all the characters into lower case
     text = text.lower()
     text.replace("'","")
@@ -132,6 +160,7 @@ for i in entries:
 print(len(idf))
 
 sortWriteFiles()
+calTfIdf()
 print("counter2", count)
 t2 = time.time()
 c2 = time.process_time()

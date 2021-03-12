@@ -1,0 +1,6 @@
+travel 0.1
+insurance 0.5
+coverage 0.1
+benefits 0.1
+hospital 0.1
+medical 0.1
