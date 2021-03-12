@@ -74,14 +74,12 @@ for i in entries:
     prefix = i.split(".")
     path = "/Users/akarshkashamshetty/OneDrive - UMBC/grad_sem4/CMSC676/project/" + inputDir + i
 
-    try:
-        with open(path, 'rb') as fp:
-            soup = BeautifulSoup(fp, 'html.parser')
+    
+    with open(path, 'rb') as fp:
+        soup = BeautifulSoup(fp, 'html.parser')
             # getting text from the html document using parser
-            text = soup.get_text()
-        fp.close()
-    except:
-        print("err")
+        text = soup.get_text()
+    fp.close()
 
     # converting all the characters into lower case
     text = text.lower()
