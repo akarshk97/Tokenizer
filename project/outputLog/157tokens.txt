@@ -1,6 +1,6 @@
-morrison,0.15
-knudsen,0.15
-financials,0.15
-construction,0.1
-company,0.1
-mk,0.35
+morrison,0.3797566073978704
+knudsen,0.5483461218957304
+financials,0.6412020031566639
+construction,0.2786602965614593
+company,0.14084058147273218
+mk,1.2794742844233709

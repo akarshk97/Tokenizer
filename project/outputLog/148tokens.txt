@@ -1,3 +1,3 @@
-powerpoint,0.375
-internet,0.375
-slide,0.25
+powerpoint,2.072791121077423
+internet,0.7731401575275252
+slide,1.3818607473849485

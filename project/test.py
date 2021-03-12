@@ -1,23 +1,20 @@
-# from collections import defaultdict
-# import csv
-
-# def pm_dict(filename):
-#     D = defaultdict(int)
-#     with open(filename, 'r', newline='\n') as f:
-#         r = csv.reader(f)
-#         for key,value in r:
-#             D[key] += float(value)
-#     f.close()
-#     with open(filename,'w') as ff:
-#         for i in D.keys():
-#             ff.write('{} {}\n'.format(i, D[i] * 0))
-#     ff.close()
-#     return dict(D) # converts back to a standard dict, but not required.
-
-# print(pm_dict('outputLog/080tokens.txt'))
-
-with open("outputLog/493tokens.txt", "r") as file:
-    rows = ( line.split(',') for line in file)
-    dict = { row[0]:row[1] for row in rows }
-for item in dict:
-    print(item," ",dict[item])
+import matplotlib.pyplot as plt 
+  
+# x axis values 
+x = [10, 20, 40, 80, 100, 200, 300, 400, 500]
+# corresponding y axis values 
+y = [0.447445, 0.965844, 2.4082930000000005, 5.411306, 6.829598999999998, 12.785421, 19.344015, 23.402112000000002, 29.808220000000006]
+  
+# plotting the points  
+plt.plot(x, y) 
+  
+# naming the x axis 
+plt.xlabel('# of documents') 
+# naming the y axis 
+plt.ylabel('CPU time elapsed') 
+  
+# giving a title to my graph 
+plt.title('Term Weights') 
+  
+# function to show the plot 
+plt.show() 

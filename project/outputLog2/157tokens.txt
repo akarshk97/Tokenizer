@@ -1,6 +1,0 @@
-morrison 0.15
-knudsen 0.15
-financials 0.15
-construction 0.1
-company 0.1
-mk 0.35

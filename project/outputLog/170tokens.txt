@@ -1,6 +1,6 @@
-travel,0.1
-insurance,0.5
-coverage,0.1
-benefits,0.1
-hospital,0.1
-medical,0.1
+travel,0.28883856599245356
+insurance,0.9255711588163589
+coverage,0.23919487736106443
+benefits,0.19720949280503805
+hospital,0.21601471595533198
+medical,0.1743253355621533
