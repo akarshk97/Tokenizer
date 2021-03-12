@@ -45,6 +45,7 @@ def calTfIdf():
 def writeTokens(str, prefix):
     str_list = str.split()
     count = 0
+    # not including the stop words into the tokenDict and measuring token freq for the rest
     for i in str_list:
         if i in stopWords:
             count += 1
@@ -59,15 +60,19 @@ def writeTokens(str, prefix):
             del tokensDict[key]
         if len(key) == 1:
             del tokensDict[key]
+    # updating the number of documents containing the word for calc idf later
     for key in tokensDict.keys():
         if key in idf:
             idf[key] += 1
         else:
             idf[key] = 1
-        
+    totalWords = sum(tokensDict.values())
+    # intially writing the tokens and thier tf into the .txt files
     with open(prefix + 'tokens.txt','w') as f:
         for i in tokensDict.keys():
-            f.write('{}{}\n'.format(i, tokensDict[i]/sum(tokensDict.values())))
+            tf = tokensDict[i]/totalWords
+            #tf = round(tf, 5)
+            f.write('{} {}\n'.format(i, tf))
     f.close()
     print("count",count)
     
