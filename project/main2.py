@@ -37,6 +37,7 @@ tokensDict2 = {}
 weights = {}
 stopWords = []
 idf = {}
+
 def readStopWords():
     with open('stopwords.txt', "r") as frs:
         stopwrds = frs.read().split()
@@ -105,8 +106,6 @@ def writeTokens(str, prefix, numdocs):
 def sortWriteFiles(): 
     # sorting the token dict in descending order
     sortedTokens = {k: v for k, v in sorted(tokensDict2.items(), key=lambda item: item[1], reverse = False) }
-    # sorting the freq of token in  dict in descending order
-    #sortedFreq = dict(sorted(tokensDict.items(), key=lambda x: x[0]))
     count = 1
     # writing tokens with frequency into log file
     x = list(range(1, len(sortedTokens)+1))
@@ -120,10 +119,6 @@ def sortWriteFiles():
             f.write('{} {}\n'.format(key, sortedTokens[key] * count))
             count = count + 1
     f.close()
-    # with open('sortedTokens.txt','w') as ff:
-    #     for key in sortedFreq:
-    #         ff.write('{} {}\n'.format(key, sortedFreq[key]))
-    # ff.close()
 
 # processing all the files in the input directory
 
@@ -174,21 +169,3 @@ for i in [503]:
     print("Elapsed time",t2-t1)
     print("CPU time", c2-c1)
 print(cputimes)
-
-print(len(weights))
-# x = list(weights.keys())
-# y = list(weights.values())
-# x = list()
-# # plotting the points  
-# plt.loglog(x, y) 
-  
-# # naming the x axis 
-# plt.xlabel('weights of the tokens') 
-# # naming the y axis 
-# plt.ylabel('frequency of the weights') 
-  
-# # giving a title to my graph 
-# plt.title('rank frequency') 
-  
-# # function to show the plot 
-# plt.show() 

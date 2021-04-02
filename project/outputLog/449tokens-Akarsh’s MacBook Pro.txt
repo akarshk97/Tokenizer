@@ -1,0 +1,10 @@
+cloaks,12.072
+daggers,12.072
+intelligence,5.03
+indian,4.024
+subcontinent,40.24
+oct,8.622857142857143
+carlos,12.072
+information,0.3906796116504855
+infowar,3.3533333333333335
+com,0.7890196078431373

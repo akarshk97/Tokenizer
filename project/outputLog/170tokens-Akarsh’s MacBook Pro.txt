@@ -1,0 +1,6 @@
+travel,5.03
+insurance,10.06
+coverage,2.7944444444444447
+benefits,2.012
+hospital,2.7944444444444447
+medical,1.6766666666666667
