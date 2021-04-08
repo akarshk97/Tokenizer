@@ -4,6 +4,7 @@
 #phase : 2
 #date : 12 March 2021
 
+
 import os
 import re
 import sys
@@ -37,6 +38,7 @@ tokensDict2 = {}
 weights = {}
 stopWords = []
 idf = {}
+
 
 def readStopWords():
     with open('stopwords.txt', "r") as frs:
@@ -91,7 +93,7 @@ def writeTokens(str, prefix, numdocs):
     totalWords = sum(tokensDict.values())
     # intially writing the tokens and thier tf into the .txt files
     if flag == True:
-        with open(prefix + 'tokens.wts','w') as f:
+        with open(prefix + 'tokens.txt','w') as f:
             for i in tokensDict.keys():
                 tf = tokensDict[i]/totalWords
             #tf = round(tf, 7)
@@ -102,6 +104,7 @@ def writeTokens(str, prefix, numdocs):
                     weights[weight] = 1 
                 f.write('{} {}\n'.format(i, weight))
         f.close()
+
     
 def sortWriteFiles(): 
     # sorting the token dict in descending order
@@ -169,3 +172,10 @@ for i in [503]:
     print("Elapsed time",t2-t1)
     print("CPU time", c2-c1)
 print(cputimes)
+
+# tokenCount = 0
+# for key in tokensDict2:
+#     tokensCount += tokensDict2[key]
+
+print(sum(tokensDict2.values()))
+print(len(idf.keys()))

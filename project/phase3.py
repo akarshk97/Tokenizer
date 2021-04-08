@@ -30,6 +30,9 @@ global counter3
 counter3 = 0
 global flag 
 flag = False
+# fileCounter
+fileCounter = 0
+postFileCount = 0
 
 # a global dictionary for storing tokens and frequency count
 tokensDict = {}
@@ -94,17 +97,13 @@ def writeTokens(str, prefix, docId, numdocs):
     # intially writing the tokens and thier tf into the .txt files
     if flag == True:
         #with open(prefix + 'tokens.wts','w') as f:
+        global postFileCount
         for i in tokensDict.keys():
             tf = tokensDict[i]/totalWords
             
             weight = tf * math.log(numdocs/idf[i])
-            postFile[i] = [docId, weight]
-            if weight in weights.keys():
-                weights[weight] += 1
-            else:
-                weights[weight] = 1 
-               # f.write('{} {}\n'.format(i, weight))
-        #f.close()
+            postFile[postFileCount] = [i, docId, weight]
+            postFileCount += 1
     
 def sortWriteFiles(): 
     # sorting the token dict in descending order
@@ -125,7 +124,6 @@ def sortWriteFiles():
 
 # processing all the files in the input directory
 
-count = 0 
 def readText(numdocs):
     counter = 0
     for i in entries[:numdocs]:
@@ -152,15 +150,16 @@ def readText(numdocs):
         cleanString = re.sub('[^A-Za-z ]+', ' ', text)
         writeTokens(cleanString, outputDir +"/"+ prefix[0],prefix[0], numdocs)
 
-def writeFiles(dict1, dict2):
-    with open('dictionaryFile.txt', 'w') as f:
+def writeFiles(dict1, dict2, fCounter):
+    
+    with open(outputDir +str(fCounter)+'dictionaryFile.txt', 'w') as f:
         for k in dict1.keys():
             f.write('{}\n'.format(k))
             f.write('{}\n'.format(dict1[k][0]))
             f.write('{}\n'.format(dict1[k][1]))
-    with open('postingsFile.txt','w') as ff:
+    with open(outputDir +str(fCounter)+'postingsFile.txt','w') as ff:
         for key in dict2.keys():
-            ff.write('{},{}\n'.format(dict2[key][0],dict2[key][1]))
+            ff.write('{},{}\n'.format(dict2[key][1],dict2[key][2]))
         f.close()
         ff.close()
 
@@ -170,38 +169,44 @@ def writeFiles(dict1, dict2):
 
 
 cputimes = []
+
 #[10, 20, 40, 80, 100, 200, 300, 400, 500]
 for i in [503]:
     t1 = time.time()
     c1 = time.process_time()
     print("numdocs",i)
+    # weights = {}
+    # stopWords = []
+    # idf = {}
+    # dictFile = {}
+    # postFile = {}
     flag = False
     readText(i)
     #sortWriteFiles()
-
     flag = True
     readText(i)
-
+    fileCounter += 1
     postFile = dict(sorted(postFile.items()))
-# for k in postFile.keys():
-#     print(k)
+    #postFile = dict(sorted(postFile.items(), key = lambda e : e[1][0]))
     print(len(postFile))
+    print(sum(tokensDict2.values()))
+
     count =0
+    pos = 0
     for k in idf.keys():
         count = 0
         for word in postFile.keys():
             count += 1
-            if k==word:
+            if k==postFile[word][0]:
                 pos = count
                 break
         dictFile[k] = [idf[k], pos]
     dictFile = dict(sorted(dictFile.items()))
-    #print(dictFile)
-    writeFiles(dictFile, postFile)
+  
+    writeFiles(dictFile, postFile, fileCounter)
     t2 = time.time()
     c2 = time.process_time()
     cputimes.append(c2 - c1)
     print("Elapsed time",t2-t1)
     print("CPU time", c2-c1)
 print(cputimes)
-#print(postFile)
