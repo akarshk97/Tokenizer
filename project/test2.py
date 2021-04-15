@@ -1,6 +1,3 @@
-tokenCount = 0
-tokensDict = {1:1,2:3}
-for key in tokensDict2:
-    tokensCount += tokensDict2[key]
-
-print(tokenCount)
+d = {1:2,2:3,3:8}
+#print(dict(sorted(d.items(), key=lambda e: e[1][1])))
+print(sum(d.values()))
