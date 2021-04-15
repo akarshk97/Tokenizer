@@ -68,11 +68,11 @@ def writeTokens(str, prefix, docId, numdocs):
             tokensDict[i] = 1
 
     # removing words with freq 1 and length 1
-    # for key in list(tokensDict):
-    #     if tokensDict[key] == 1:
-    #         del tokensDict[key]
-    #     if len(key) == 1:
-    #         del tokensDict[key]
+    for key in list(tokensDict):
+        if tokensDict[key] == 1:
+            del tokensDict[key]
+        if len(key) == 1:
+            del tokensDict[key]
     # updating the number of documents containing the word for calc idf later
     if flag == False:
         for i in str_list:
@@ -97,7 +97,6 @@ def writeTokens(str, prefix, docId, numdocs):
     totalWords = sum(tokensDict.values())
     # intially writing the tokens and thier tf into the .txt files
     if flag == True:
-
         global postFileCount
         for i in tokensDict.keys():
             tf = tokensDict[i]/totalWords
@@ -180,11 +179,7 @@ for i in [503]:
 
     flag = False
     readText(i)
-    for key in list(idf):
-         if idf[key] == 1:
-             del idf[key]
-         if len(key) == 1:
-             del idf[key]
+
     flag = True
     readText(i)
     fileCounter += 1
