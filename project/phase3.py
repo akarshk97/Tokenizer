@@ -129,7 +129,7 @@ def sortWriteFiles():
 def readText(numdocs):
     counter = 0
     for i in entries[:numdocs]:
-        counter += 1
+        #counter += 1
         print("current file", counter)
         counter = counter + 1
         prefix = i.split(".")
@@ -162,8 +162,8 @@ def writeFiles(dict1, dict2, fCounter):
             f.write('{}\n'.format(dict1[k][1]))
     with open(outputDir + str(fCounter)+'postingsFile.txt', 'w') as ff:
         for key in dict2.keys():
-            ff.write('{},{},{}\n'.format(
-                dict2[key][0], dict2[key][1], dict2[key][2]))
+            ff.write('{},{}\n'.format(
+                dict2[key][1], dict2[key][2]))
         f.close()
         ff.close()
 
@@ -184,7 +184,7 @@ for i in [503]:
     readText(i)
     fileCounter += 1
     #postFile = dict(sorted(postFile.items()))
-    postFile = dict(sorted(postFile.items(), key=lambda e: e[1][1]))
+    postFile = dict(sorted(postFile.items(), key=lambda e: e[1][0]))
     print("postFile length :",len(postFile))
     print("len of tokensdict2", len(tokensDict2))
     print("sun of toeknsdict2 values",sum(tokensDict2.values()))
@@ -202,7 +202,7 @@ for i in [503]:
         dictFile[k] = [idf[k], pos]
     dictFile = dict(sorted(dictFile.items()))
 
-    #writeFiles(dictFile, postFile, fileCounter)
+    writeFiles(dictFile, postFile, fileCounter)
     t2 = time.time()
     c2 = time.process_time()
     cputimes.append(c2 - c1)
