@@ -100,7 +100,7 @@ def writeTokens(str, prefix, docId, numdocs):
         global postFileCount
         for i in tokensDict.keys():
             tf = tokensDict[i]/totalWords
-            weight = tf * math.log(numdocs/idf[i])
+            weight = tf * (numdocs/idf[i])
             postFile[postFileCount] = [i, docId, weight]
             postFileCount += 1
 

@@ -16,8 +16,8 @@ dictList = {}
 # reading postings and dictionary list from disk
 
 # loading postings list into memory
-pFile = open('postingsFilewithoutlog.txt','r')
-dFile = open('dictionaryFilewithoutlog.txt', 'r')
+pFile = open('output1dict1postingsFile.txt','r')
+dFile = open('output1dictionaryFile.txt', 'r')
 lines = pFile.readlines()
 count = 1
 
